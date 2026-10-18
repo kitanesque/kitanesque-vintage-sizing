@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to kitanesque.co.uk."
+type: dataset
+title: "Kitanesque vintage sizing: label sizes against tape measurements for second-hand jeans and knitwear"
+version: "2026-10-18"
+date-released: 2026-10-18
+license: CC-BY-4.0
+authors:
+  - family-names: "Dălcăran"
+    given-names: "Andra"
+    affiliation: "Kitanesque Ltd"
+url: "https://kitanesque.co.uk/jeans-sizing-by-brand/"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23452246"
+    description: "Zenodo record"
+  - type: url
+    value: "https://kitanesque.co.uk/knitwear-sizing-by-brand/"
+    description: "Live knitwear table"
+keywords:
+  - clothing sizing
+  - vanity sizing
+  - vintage clothing
+  - second-hand fashion
+  - jeans
+  - knitwear
+  - garment measurements
+abstract: "198 pre-owned and vintage garments sold by Kitanesque (UK), each measured flat by hand before listing: 94 pairs of jeans (label W size against waistband, rise and inside leg) and 104 women's knitted pieces (UK size against bust, length and sleeve)."
