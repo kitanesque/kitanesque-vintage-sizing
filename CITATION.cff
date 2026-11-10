@@ -1,28 +1,61 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below and link to kitanesque.co.uk."
 type: dataset
-title: "Kitanesque vintage sizing: label sizes against tape measurements for second-hand jeans and knitwear"
-version: "2026-10-18"
-date-released: 2026-10-18
+title: "Kitanesque vintage sizing and labels: tape measurements and label data for second-hand clothing"
+version: "2026-10-26"
+date-released: 2026-10-26
+doi: "10.5281/zenodo.23674846"
 license: CC-BY-4.0
 authors:
   - family-names: "Dălcăran"
     given-names: "Andra"
     affiliation: "Kitanesque Ltd"
-url: "https://kitanesque.co.uk/jeans-sizing-by-brand/"
+    orcid: "https://orcid.org/0009-0002-7786-6702"
+url: "https://kitanesque.co.uk/guides/"
+repository: "https://github.com/kitanesque/kitanesque-vintage-sizing"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.23452246"
-    description: "Zenodo record"
+    value: "10.5281/zenodo.23452245"
+    description: "Concept DOI, all versions"
+  - type: doi
+    value: "10.5281/zenodo.23674846"
+    description: "Version 2026-10-26"
+  - type: url
+    value: "https://huggingface.co/datasets/kitanesque/kitanesque-vintage-sizing"
+    description: "Hugging Face mirror"
+  - type: url
+    value: "https://www.kaggle.com/datasets/andradalcaran/vintage-clothing-sizing-label-vs-tape"
+    description: "Kaggle mirror"
+  - type: url
+    value: "https://kitanesque.co.uk/jeans-sizing-by-brand/"
+    description: "Live jeans table"
   - type: url
     value: "https://kitanesque.co.uk/knitwear-sizing-by-brand/"
     description: "Live knitwear table"
+  - type: url
+    value: "https://kitanesque.co.uk/dress-sizing-by-brand/"
+    description: "Live dress table"
+  - type: url
+    value: "https://kitanesque.co.uk/what-counts-as-low-rise/"
+    description: "Live front-rise table"
+  - type: url
+    value: "https://kitanesque.co.uk/date-vintage-clothing-by-label/"
+    description: "Live label data"
+  - type: url
+    value: "https://kitanesque.co.uk/size-guide/"
+    description: "Live garment measurements"
 keywords:
   - clothing sizing
   - vanity sizing
   - vintage clothing
   - second-hand fashion
   - jeans
+  - low-rise jeans
   - knitwear
+  - dresses
   - garment measurements
-abstract: "198 pre-owned and vintage garments sold by Kitanesque (UK), each measured flat by hand before listing: 94 pairs of jeans (label W size against waistband, rise and inside leg) and 104 women's knitted pieces (UK size against bust, length and sleeve)."
+  - clothing labels
+  - care labels
+  - RN number
+  - country of origin
+abstract: "1378 rows in six tables from the stock of Kitanesque (UK), each garment measured flat by hand before listing and each label read from the listing photographs: 108 pairs of jeans (label W size against waistband, rise and inside leg), 106 women's knitted pieces (UK size against bust, length and sleeve), 55 women's dresses (UK size against bust, waist and hips), the front rise and rise band of 112 pairs of jeans, the label facts of 439 pieces (country, fibre composition, care wording, printed sizes, RN/CA numbers with registrants) and every measurement of 558 garments in one table."
