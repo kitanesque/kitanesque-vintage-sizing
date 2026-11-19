@@ -1,0 +1,10 @@
+title: Kitanesque guides
+description: Sizing and fabric guides from pieces measured by hand
+url: https://guides.kitanesque.co.uk
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+lang: en-GB
