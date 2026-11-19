@@ -102,6 +102,10 @@ Kitanesque is a small online shop: one buyer chooses every piece, and one person
 - **Rise bands** are one shop's working definitions, not an industry standard.
 - **Snapshot.** The live files on the website keep changing; these files are fixed at 2026-10-26.
 
+## Guides and listings as plain text
+
+The sizing and fabric guides built from these measurements, and a text page for every piece in stock, are kept as Markdown next to the data (`docs/` on GitHub, `guides/` on Hugging Face) and served at https://guides.kitanesque.co.uk/. They are copies, refreshed daily: the pages with photos, live prices and checkout are on https://kitanesque.co.uk/.
+
 ## Versions
 
 | Version | Files | Rows | Where |
