@@ -17,6 +17,10 @@ Text copies of the guides on [kitanesque.co.uk](https://kitanesque.co.uk/), a UK
 - [How to Wash Vintage Cashmere, Silk and Wool: What the Care Labels Say](how-to-wash-vintage-clothes-care-labels.md): What the care labels on our vintage pieces actually say. Live page: [kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/](https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/)
 - [What Makes Cashmere Expensive, and When the Cheap Stuff Is Fine](second-hand-cashmere-brands-prices.md): What makes cashmere expensive, and when the cheap kind is fine. Live page: [kitanesque.co.uk/second-hand-cashmere-brands-prices/](https://kitanesque.co.uk/second-hand-cashmere-brands-prices/)
 
+## Pieces in stock
+
+[All 340 pieces in stock, with size, price and measurements](products/index.md), one page per piece.
+
 The measurements are also published as open data (CSV, CC BY 4.0): [DOI 10.5281/zenodo.23452245](https://doi.org/10.5281/zenodo.23452245).
 
 Copies taken on 19 November 2026.
