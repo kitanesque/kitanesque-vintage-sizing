@@ -4,9 +4,16 @@ on:
   schedule:
     - cron: "30 16 * * *"
   workflow_dispatch:
+    inputs:
+      allow_drop:
+        description: "Accept a fall of more than half of the product pages"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
+
+concurrency: refresh-guides
 
 jobs:
   refresh:
@@ -15,6 +22,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Copy the guide texts from the Hugging Face folder
         run: python3 tools/pull_guides.py
+        env:
+          ALLOW_DROP: ${{ inputs.allow_drop && '1' || '0' }}
       - name: Commit if anything changed
         run: |
           git config user.name "github-actions[bot]"
