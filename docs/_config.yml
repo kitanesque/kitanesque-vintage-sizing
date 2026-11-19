@@ -5,6 +5,7 @@ theme: jekyll-theme-primer
 plugins:
   - jekyll-seo-tag
   - jekyll-relative-links
+  - jekyll-sitemap
 relative_links:
   enabled: true
 lang: en-GB
