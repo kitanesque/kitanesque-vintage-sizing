@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/pugs-gear-mens-vintage-patchwork
 - **Brand:** Pugs-Gear
 - **Colour:** Black
 - **Material:** Leather
-- **Type:** Other pieces
+- **Type:** Waistcoats
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

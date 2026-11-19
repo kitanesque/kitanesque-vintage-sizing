@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/womens-botanical-floral-fitted-b
 - **Size:** UK12
 - **Colour:** Green
 - **Material:** Cotton
-- **Type:** Blouses
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

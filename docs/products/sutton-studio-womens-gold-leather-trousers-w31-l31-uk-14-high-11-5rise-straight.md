@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/sutton-studio-womens-gold-leathe
 - **Brand:** Sutton Studio
 - **Colour:** Gold
 - **Material:** Leather
-- **Type:** Jeans
+- **Type:** Trousers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

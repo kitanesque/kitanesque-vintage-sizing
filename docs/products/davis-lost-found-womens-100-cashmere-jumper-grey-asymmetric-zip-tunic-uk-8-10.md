@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/davis-lost-found-womens-100-cash
 - **Brand:** Davis Lost & Found
 - **Colour:** Grey
 - **Material:** Cashmere
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

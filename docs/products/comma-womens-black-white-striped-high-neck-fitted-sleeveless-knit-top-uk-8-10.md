@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/comma-womens-black-white-striped
 - **Brand:** Comma
 - **Colour:** Black
 - **Material:** Knit/Viscose
-- **Type:** Knitwear
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

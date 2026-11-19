@@ -11,7 +11,7 @@ canonical_url: https://kitanesque.co.uk/product/vintage-scottish-pure-100-cashme
 - **Price:** £45
 - **Colour:** Blue
 - **Material:** Cashmere
-- **Type:** Other pieces
+- **Type:** Accessories
 - **Condition:** pre-owned, one of a kind
 
 ## Description

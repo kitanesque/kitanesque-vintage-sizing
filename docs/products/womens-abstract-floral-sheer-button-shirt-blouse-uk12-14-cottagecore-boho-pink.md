@@ -11,7 +11,7 @@ canonical_url: https://kitanesque.co.uk/product/womens-abstract-floral-sheer-but
 - **Price:** £15 (was £18)
 - **Size:** UK12
 - **Colour:** Pink
-- **Type:** Blouses
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

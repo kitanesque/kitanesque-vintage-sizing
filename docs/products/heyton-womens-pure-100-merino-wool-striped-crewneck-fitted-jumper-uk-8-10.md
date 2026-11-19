@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/heyton-womens-pure-100-merino-wo
 - **Brand:** Heyton
 - **Colour:** Blue
 - **Material:** Knit/Wool
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

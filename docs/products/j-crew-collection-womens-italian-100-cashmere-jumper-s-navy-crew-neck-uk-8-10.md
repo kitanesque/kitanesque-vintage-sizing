@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/j-crew-collection-womens-italian
 - **Brand:** J.Crew
 - **Colour:** Navy
 - **Material:** Cashmere
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

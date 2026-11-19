@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/point-zero-y2k-embroidered-denim
 - **Colour:** Brown
 - **Material:** Cotton/Denim/Spandex
 - **Era:** Y2K
-- **Type:** Jeans
+- **Type:** Skirts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

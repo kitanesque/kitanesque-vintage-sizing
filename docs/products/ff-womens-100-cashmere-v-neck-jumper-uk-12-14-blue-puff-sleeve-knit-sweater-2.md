@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/ff-womens-100-cashmere-v-neck-ju
 - **Brand:** F&F
 - **Colour:** Blue
 - **Material:** Cashmere/Knit
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

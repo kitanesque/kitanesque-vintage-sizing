@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/needle-womens-black-100-cashmere
 - **Brand:** Needles
 - **Colour:** Black
 - **Material:** Cashmere/Knit/Silk
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

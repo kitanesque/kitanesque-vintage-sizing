@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/st-michael-womens-90s-pastel-blu
 - **Colour:** Blue
 - **Material:** Cotton
 - **Era:** 90s
-- **Type:** Shirts
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/7-for-all-mankind-womens-low-ris
 - **Size:** UK8
 - **Brand:** 7 For All Mankind
 - **Colour:** Blue
-- **Type:** Jeans
+- **Type:** Shorts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

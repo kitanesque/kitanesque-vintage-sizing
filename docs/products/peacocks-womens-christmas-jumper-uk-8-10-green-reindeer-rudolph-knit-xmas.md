@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/peacocks-womens-christmas-jumper
 - **Brand:** Peacocks
 - **Colour:** Green
 - **Material:** Knit
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

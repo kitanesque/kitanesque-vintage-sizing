@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/top-stitch-90s-christmas-sweatsh
 - **Colour:** Black
 - **Material:** Blend/Cotton
 - **Era:** 90s
-- **Type:** Knitwear
+- **Type:** Sweatshirts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

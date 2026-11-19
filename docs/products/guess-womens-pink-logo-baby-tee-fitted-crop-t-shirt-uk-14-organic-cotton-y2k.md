@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/guess-womens-pink-logo-baby-tee-
 - **Colour:** Pink
 - **Material:** Cotton
 - **Era:** Y2K
-- **Type:** Shirts
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

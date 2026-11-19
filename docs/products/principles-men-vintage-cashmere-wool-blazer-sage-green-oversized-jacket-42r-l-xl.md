@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/principles-men-vintage-cashmere-
 - **Brand:** Principles
 - **Colour:** Green
 - **Material:** Blend/Cashmere/Wool
-- **Type:** Jackets
+- **Type:** Blazers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

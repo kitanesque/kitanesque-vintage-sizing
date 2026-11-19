@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/dkny-vintage-y2k-monogram-logo-p
 - **Colour:** Brown
 - **Material:** Silk
 - **Era:** Y2K
-- **Type:** Bags
+- **Type:** Accessories
 - **Condition:** pre-owned, one of a kind
 
 ## Description

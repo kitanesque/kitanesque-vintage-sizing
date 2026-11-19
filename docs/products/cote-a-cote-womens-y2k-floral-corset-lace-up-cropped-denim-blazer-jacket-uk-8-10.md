@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/cote-a-cote-womens-y2k-floral-co
 - **Colour:** Blue
 - **Material:** Denim/Lace
 - **Era:** Y2K
-- **Type:** Jackets
+- **Type:** Blazers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

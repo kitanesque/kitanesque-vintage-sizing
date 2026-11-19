@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/balmain-paris-mens-90s-vintage-1
 - **Colour:** Black
 - **Material:** Silk
 - **Era:** 90s
-- **Type:** Other pieces
+- **Type:** Accessories
 - **Condition:** pre-owned, one of a kind
 
 ## Description

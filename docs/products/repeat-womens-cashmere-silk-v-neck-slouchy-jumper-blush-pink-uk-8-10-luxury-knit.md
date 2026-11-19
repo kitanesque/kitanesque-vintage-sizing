@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/repeat-womens-cashmere-silk-v-ne
 - **Brand:** Repeat
 - **Colour:** Pink
 - **Material:** Blend/Cashmere/Knit/Silk
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

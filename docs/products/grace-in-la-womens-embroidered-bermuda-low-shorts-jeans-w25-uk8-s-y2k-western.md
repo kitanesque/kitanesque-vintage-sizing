@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/grace-in-la-womens-embroidered-b
 - **Colour:** Blue
 - **Material:** Denim
 - **Era:** Y2K
-- **Type:** Jeans
+- **Type:** Shorts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

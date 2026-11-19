@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/ff-mens-100-lambswool-jumper-xxl
 - **Brand:** F&F
 - **Colour:** Purple
 - **Material:** Knit
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

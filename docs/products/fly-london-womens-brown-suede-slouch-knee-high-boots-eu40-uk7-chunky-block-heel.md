@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/fly-london-womens-brown-suede-sl
 - **Brand:** Fly London
 - **Colour:** Brown
 - **Material:** Leather/Suede
-- **Type:** Boots
+- **Type:** Boots & shoes
 - **Condition:** pre-owned, one of a kind
 
 ## Description

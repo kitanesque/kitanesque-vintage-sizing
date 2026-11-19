@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/valories-folk-art-applique-vinta
 - **Colour:** Gold
 - **Material:** Cotton/Fleece/Knit/Polyester
 - **Era:** 90s
-- **Type:** Knitwear
+- **Type:** Sweatshirts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

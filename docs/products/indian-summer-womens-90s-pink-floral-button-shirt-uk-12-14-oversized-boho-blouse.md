@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/indian-summer-womens-90s-pink-fl
 - **Brand:** Indian Sommer
 - **Colour:** Pink
 - **Era:** 90s
-- **Type:** Blouses
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

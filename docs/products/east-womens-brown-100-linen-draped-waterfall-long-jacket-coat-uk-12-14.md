@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/east-womens-brown-100-linen-drap
 - **Brand:** East
 - **Colour:** Brown
 - **Material:** Leather/Linen
-- **Type:** Jackets
+- **Type:** Coats
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

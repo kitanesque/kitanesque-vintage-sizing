@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/fajas-salome-womens-fitted-black
 - **Size:** UK6
 - **Brand:** Fajas Salome
 - **Colour:** Black
-- **Type:** Blouses
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

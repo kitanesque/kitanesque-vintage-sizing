@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/lucia-womens-90s-burgundy-virgin
 - **Colour:** Burgundy
 - **Material:** Blend/Wool
 - **Era:** 90s
-- **Type:** Jackets
+- **Type:** Blazers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

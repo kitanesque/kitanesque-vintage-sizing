@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/casucci-womens-ferrari-marlboro-
 - **Brand:** Casucci
 - **Colour:** Black
 - **Material:** Denim
-- **Type:** Other pieces
+- **Type:** Waistcoats
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

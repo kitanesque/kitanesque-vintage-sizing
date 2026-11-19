@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/coach-hadley-exotic-python-leath
 - **Brand:** Coach
 - **Colour:** Beige
 - **Material:** Leather/Suede
-- **Type:** Tops
+- **Type:** Bags
 - **Condition:** pre-owned, one of a kind
 
 ## Description

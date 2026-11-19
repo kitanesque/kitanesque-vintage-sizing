@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/danier-womens-90s-high-rise-w26l
 - **Colour:** Black
 - **Material:** Leather
 - **Era:** 90s
-- **Type:** Jeans
+- **Type:** Trousers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

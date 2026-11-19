@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/vintage-90s-dolcegabbana-womens-
 - **Colour:** Black
 - **Material:** Knit
 - **Era:** 90s
-- **Type:** Knitwear
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

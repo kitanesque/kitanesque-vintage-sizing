@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/absolut-100-cashmere-womens-blus
 - **Brand:** Absolut Cashmere
 - **Colour:** Pink
 - **Material:** Cashmere
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

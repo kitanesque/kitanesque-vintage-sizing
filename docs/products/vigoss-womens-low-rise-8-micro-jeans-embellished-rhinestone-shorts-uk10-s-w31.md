@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/vigoss-womens-low-rise-8-micro-j
 - **Colour:** Blue
 - **Material:** Denim
 - **Era:** Y2K
-- **Type:** Jeans
+- **Type:** Shorts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/soccx-womens-shiny-black-hooded-
 - **Size:** UK8
 - **Brand:** Soccx
 - **Colour:** Black
-- **Type:** Jackets
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

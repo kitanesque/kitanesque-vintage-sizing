@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/lellgmode-womens-80s-wool-pleate
 - **Colour:** Gold
 - **Material:** Jacquard/Knit/Wool
 - **Era:** 90s
-- **Type:** Knitwear
+- **Type:** Shorts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

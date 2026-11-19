@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/barrie-scotland-womens-100-new-w
 - **Brand:** Barrie
 - **Colour:** Pink
 - **Material:** Knit/Wool
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

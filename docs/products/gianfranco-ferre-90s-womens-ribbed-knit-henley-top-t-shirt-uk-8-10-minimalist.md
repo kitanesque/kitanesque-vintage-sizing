@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/gianfranco-ferre-90s-womens-ribb
 - **Colour:** Navy
 - **Material:** Knit/Ribbed
 - **Era:** 90s
-- **Type:** Shirts
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/frontier-womens-high-11-5rise-bl
 - **Brand:** Frontier Leathers
 - **Colour:** Black
 - **Material:** Leather
-- **Type:** Jeans
+- **Type:** Trousers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

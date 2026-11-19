@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/scoop-womens-camel-wool-double-b
 - **Colour:** Camel
 - **Material:** Nylon/Wool
 - **Era:** Y2K
-- **Type:** Jackets
+- **Type:** Blazers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

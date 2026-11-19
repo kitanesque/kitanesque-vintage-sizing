@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/luomo-sartoria-oro-90s-mens-100l
 - **Colour:** Blue
 - **Material:** Linen
 - **Era:** 90s
-- **Type:** Shirts
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

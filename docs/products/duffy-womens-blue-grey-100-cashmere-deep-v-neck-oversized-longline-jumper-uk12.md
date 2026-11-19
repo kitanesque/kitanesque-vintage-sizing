@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/duffy-womens-blue-grey-100-cashm
 - **Brand:** Duffy
 - **Colour:** Blue
 - **Material:** Cashmere
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

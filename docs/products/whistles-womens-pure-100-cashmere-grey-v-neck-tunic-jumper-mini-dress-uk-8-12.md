@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/whistles-womens-pure-100-cashmer
 - **Brand:** Whistles
 - **Colour:** Grey
 - **Material:** Cashmere
-- **Type:** Jeans
+- **Type:** Dresses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

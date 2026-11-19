@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/poetry-womens-100-cashmere-grey-
 - **Brand:** Poetry
 - **Colour:** Grey
 - **Material:** Cashmere
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

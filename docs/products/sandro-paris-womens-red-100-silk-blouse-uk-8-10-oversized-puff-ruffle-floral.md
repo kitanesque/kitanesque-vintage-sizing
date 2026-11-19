@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/sandro-paris-womens-red-100-silk
 - **Brand:** Sandro
 - **Colour:** Red
 - **Material:** Silk
-- **Type:** Blouses
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/asos-womens-metallic-knit-croppe
 - **Colour:** Bronze
 - **Material:** Knit/Ribbed
 - **Era:** Y2K
-- **Type:** Knitwear
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

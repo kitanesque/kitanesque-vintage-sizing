@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/love-black-cotton-off-shoulder-p
 - **Brand:** Witchy Love
 - **Colour:** Black
 - **Material:** Cotton
-- **Type:** Skirts
+- **Type:** Dresses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/paradise-coves-90s-mens-lime-gre
 - **Colour:** Green
 - **Material:** Blend/Cotton/Silk
 - **Era:** 90s
-- **Type:** Shirts
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

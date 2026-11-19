@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/miss-sixty-womens-embroidered-la
 - **Brand:** Miss Sixty
 - **Colour:** Navy
 - **Material:** Denim/Lace
-- **Type:** Shirts
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/silver-womens-low-rise-8-distres
 - **Size:** UK12
 - **Brand:** Silver
 - **Colour:** Silver
-- **Type:** Jeans
+- **Type:** Shorts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

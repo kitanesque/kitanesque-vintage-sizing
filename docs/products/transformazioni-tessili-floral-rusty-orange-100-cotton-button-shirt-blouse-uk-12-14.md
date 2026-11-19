@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/transformazioni-tessili-floral-r
 - **Brand:** Trasformazioni Tessili
 - **Colour:** Orange
 - **Material:** Cotton
-- **Type:** Blouses
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

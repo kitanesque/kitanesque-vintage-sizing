@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/newport-news-womens-high-rise-le
 - **Brand:** Newport News
 - **Colour:** Green
 - **Material:** Leather
-- **Type:** Jeans
+- **Type:** Trousers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/billionaire-mens-red-lion-embroi
 - **Brand:** Billionaire
 - **Colour:** Red
 - **Material:** Blend/Knit/Wool
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

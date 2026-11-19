@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/ugg-womens-cashmere-wool-knit-jo
 - **Brand:** UGG
 - **Colour:** Black
 - **Material:** Blend/Cashmere/Knit/Ribbed/Wool
-- **Type:** Knitwear
+- **Type:** Trousers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

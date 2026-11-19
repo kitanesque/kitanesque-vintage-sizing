@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/calvin-klein-x-andy-warhol-portr
 - **Brand:** Calvin Klein
 - **Colour:** Pink
 - **Era:** Y2K
-- **Type:** Jeans
+- **Type:** Sweatshirts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

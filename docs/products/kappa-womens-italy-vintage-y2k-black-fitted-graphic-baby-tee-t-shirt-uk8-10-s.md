@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/kappa-womens-italy-vintage-y2k-b
 - **Brand:** Kappa
 - **Colour:** Black
 - **Era:** Y2K
-- **Type:** Shirts
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

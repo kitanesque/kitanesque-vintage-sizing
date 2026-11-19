@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/sandwich-womens-y2k-knit-floral-
 - **Colour:** Grey
 - **Material:** Blend/Cotton/Knit/Silk/Wool
 - **Era:** Y2K
-- **Type:** Knitwear
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

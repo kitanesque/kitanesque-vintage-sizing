@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/dolce-gabbana-year-of-the-pig-wo
 - **Brand:** Dolce & Gabbana
 - **Colour:** Pink
 - **Material:** Cotton
-- **Type:** Shirts
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

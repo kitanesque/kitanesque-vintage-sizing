@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/denock-designs-womens-purple-100
 - **Brand:** Denock Designs
 - **Colour:** Purple
 - **Material:** Cashmere/Knit
-- **Type:** Knitwear
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

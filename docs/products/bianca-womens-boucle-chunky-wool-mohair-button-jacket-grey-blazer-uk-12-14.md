@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/bianca-womens-boucle-chunky-wool
 - **Brand:** Bianca
 - **Colour:** Grey
 - **Material:** Wool
-- **Type:** Jackets
+- **Type:** Blazers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

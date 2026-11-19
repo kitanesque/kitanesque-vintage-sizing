@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/ms-womens-100-cashmere-fuchsia-b
 - **Brand:** Marks & Spencer
 - **Colour:** Fuchsia
 - **Material:** Cashmere/Knit/Ribbed
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/silver-womens-bermuda-jeans-shor
 - **Brand:** Silver
 - **Colour:** Silver
 - **Era:** Y2K
-- **Type:** Jeans
+- **Type:** Shorts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

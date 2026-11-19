@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/pure-womens-100-cashmere-scoop-n
 - **Brand:** Pure Collection
 - **Colour:** Blue
 - **Material:** Cashmere/Knit
-- **Type:** Knitwear
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

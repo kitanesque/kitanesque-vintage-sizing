@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/mc-sportswear-vintage-let-it-sno
 - **Brand:** M&C Sportswear
 - **Colour:** Blue
 - **Material:** Cotton/Fleece/Polyester
-- **Type:** Knitwear
+- **Type:** Sweatshirts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

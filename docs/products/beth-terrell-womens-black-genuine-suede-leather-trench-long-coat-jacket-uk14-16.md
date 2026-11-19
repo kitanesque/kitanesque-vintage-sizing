@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/beth-terrell-womens-black-genuin
 - **Brand:** Beth Terrell
 - **Colour:** Black
 - **Material:** Leather/Suede
-- **Type:** Jackets
+- **Type:** Coats
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

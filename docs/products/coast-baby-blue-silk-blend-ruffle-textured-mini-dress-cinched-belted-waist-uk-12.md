@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/coast-baby-blue-silk-blend-ruffl
 - **Brand:** Coast
 - **Colour:** Black
 - **Material:** Blend/Silk
-- **Type:** Skirts
+- **Type:** Dresses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

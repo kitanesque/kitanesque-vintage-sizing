@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/claire-france-womens-vintage-90s
 - **Colour:** Brown
 - **Material:** Leather/Suede
 - **Era:** 90s
-- **Type:** Other pieces
+- **Type:** Waistcoats
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/hm-womens-black-white-striped-of
 - **Brand:** H&M
 - **Colour:** Black
 - **Material:** Knit
-- **Type:** Knitwear
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

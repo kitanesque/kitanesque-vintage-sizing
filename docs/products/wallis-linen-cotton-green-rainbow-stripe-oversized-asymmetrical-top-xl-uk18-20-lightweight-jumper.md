@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/wallis-linen-cotton-green-rainbo
 - **Brand:** Wallis
 - **Colour:** Green
 - **Material:** Cotton/Knit/Linen
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

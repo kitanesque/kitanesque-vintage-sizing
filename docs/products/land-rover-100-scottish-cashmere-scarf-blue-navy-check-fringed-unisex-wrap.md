@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/land-rover-100-scottish-cashmere
 - **Brand:** Land Rover
 - **Colour:** Blue
 - **Material:** Cashmere
-- **Type:** Other pieces
+- **Type:** Accessories
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

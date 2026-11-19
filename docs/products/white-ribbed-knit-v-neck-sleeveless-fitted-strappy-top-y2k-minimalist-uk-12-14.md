@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/white-ribbed-knit-v-neck-sleevel
 - **Colour:** White
 - **Material:** Knit/Ribbed
 - **Era:** Y2K
-- **Type:** Knitwear
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

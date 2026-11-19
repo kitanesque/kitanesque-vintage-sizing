@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/star-wars-darth-vader-christmas-
 - **Brand:** Star Wars
 - **Colour:** Red
 - **Material:** Knit/Ribbed
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

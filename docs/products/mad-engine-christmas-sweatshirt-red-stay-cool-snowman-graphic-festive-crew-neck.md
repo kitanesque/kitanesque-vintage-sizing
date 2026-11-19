@@ -11,7 +11,7 @@ canonical_url: https://kitanesque.co.uk/product/mad-engine-christmas-sweatshirt-
 - **Price:** £9
 - **Brand:** Mad Engine
 - **Colour:** Red
-- **Type:** Knitwear
+- **Type:** Sweatshirts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

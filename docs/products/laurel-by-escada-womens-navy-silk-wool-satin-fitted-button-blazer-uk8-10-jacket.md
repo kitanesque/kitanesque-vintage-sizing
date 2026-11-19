@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/laurel-by-escada-womens-navy-sil
 - **Brand:** Escada
 - **Colour:** Black
 - **Material:** Lace/Satin/Silk/Wool
-- **Type:** Jackets
+- **Type:** Blazers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

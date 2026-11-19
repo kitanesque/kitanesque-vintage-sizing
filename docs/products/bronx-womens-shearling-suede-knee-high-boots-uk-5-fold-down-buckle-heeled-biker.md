@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/bronx-womens-shearling-suede-kne
 - **Brand:** Bronx
 - **Colour:** Charcoal
 - **Material:** Leather/Shearling/Suede
-- **Type:** Tops
+- **Type:** Boots & shoes
 - **Condition:** pre-owned, one of a kind
 
 ## Description

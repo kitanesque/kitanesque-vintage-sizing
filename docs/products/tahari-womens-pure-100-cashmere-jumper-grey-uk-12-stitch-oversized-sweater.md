@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/tahari-womens-pure-100-cashmere-
 - **Brand:** Tahari
 - **Colour:** Cream
 - **Material:** Cashmere
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

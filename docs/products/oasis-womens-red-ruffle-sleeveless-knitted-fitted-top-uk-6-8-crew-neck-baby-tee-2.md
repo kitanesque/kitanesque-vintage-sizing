@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/oasis-womens-red-ruffle-sleevele
 - **Brand:** Oasis
 - **Colour:** Red
 - **Material:** Knit
-- **Type:** Knitwear
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/coach-legacy-mini-hamptons-marke
 - **Brand:** Coach
 - **Colour:** Camel
 - **Material:** Leather
-- **Type:** Tops
+- **Type:** Bags
 - **Condition:** pre-owned, one of a kind
 
 ## Description

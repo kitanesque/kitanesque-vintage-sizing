@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/guess-vintage-90s-black-bodycon-
 - **Brand:** Guess
 - **Colour:** Black
 - **Era:** Y2K
-- **Type:** Jeans
+- **Type:** Dresses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

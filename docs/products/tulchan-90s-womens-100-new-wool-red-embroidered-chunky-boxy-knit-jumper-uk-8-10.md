@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/tulchan-90s-womens-100-new-wool-
 - **Colour:** Red
 - **Material:** Knit/Wool
 - **Era:** 90s
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

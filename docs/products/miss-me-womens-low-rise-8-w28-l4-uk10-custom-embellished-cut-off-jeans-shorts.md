@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/miss-me-womens-low-rise-8-w28-l4
 - **Brand:** Miss Me
 - **Colour:** Blue
 - **Material:** Denim
-- **Type:** Jeans
+- **Type:** Shorts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

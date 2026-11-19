@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/pure-collection-womens-100-cashm
 - **Brand:** Pure Collection
 - **Colour:** Blue
 - **Material:** Cashmere
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

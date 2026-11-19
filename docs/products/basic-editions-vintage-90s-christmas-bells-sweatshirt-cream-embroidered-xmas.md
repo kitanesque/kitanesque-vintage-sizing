@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/basic-editions-vintage-90s-chris
 - **Colour:** Cream
 - **Material:** Cotton/Fleece
 - **Era:** 90s
-- **Type:** Knitwear
+- **Type:** Sweatshirts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

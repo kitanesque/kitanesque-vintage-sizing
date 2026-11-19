@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/austin-reed-vintage-mens-pure-wo
 - **Colour:** Multicolour
 - **Material:** Wool
 - **Era:** 90s
-- **Type:** Jackets
+- **Type:** Blazers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/lordtaylor-womens-100-cashmere-p
 - **Brand:** Lord & Taylor
 - **Colour:** Pink
 - **Material:** Cashmere/Knit
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

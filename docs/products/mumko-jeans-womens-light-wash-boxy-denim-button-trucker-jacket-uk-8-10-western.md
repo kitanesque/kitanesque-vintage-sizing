@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/mumko-jeans-womens-light-wash-bo
 - **Brand:** Mumko
 - **Colour:** Blue
 - **Material:** Cotton/Denim
-- **Type:** Jeans
+- **Type:** Jackets
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

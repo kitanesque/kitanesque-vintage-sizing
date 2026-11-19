@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/vintage-wool-blend-fair-isle-buc
 - **Colour:** Charcoal
 - **Material:** Blend/Knit/Wool
 - **Era:** Y2K
-- **Type:** Knitwear
+- **Type:** Accessories
 - **Condition:** pre-owned, one of a kind
 
 ## Description

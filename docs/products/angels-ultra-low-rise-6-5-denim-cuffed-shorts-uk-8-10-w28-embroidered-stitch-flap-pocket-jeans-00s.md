@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/angels-ultra-low-rise-6-5-denim-
 - **Colour:** Blue
 - **Material:** Denim
 - **Era:** Y2K
-- **Type:** Jeans
+- **Type:** Shorts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

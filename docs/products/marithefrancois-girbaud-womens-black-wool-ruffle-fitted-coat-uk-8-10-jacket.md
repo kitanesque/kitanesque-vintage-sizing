@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/marithefrancois-girbaud-womens-b
 - **Brand:** Marithé+François Girbaud
 - **Colour:** Black
 - **Material:** Wool
-- **Type:** Jackets
+- **Type:** Coats
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

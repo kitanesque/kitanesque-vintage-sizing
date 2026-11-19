@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/kesta-london-womens-wool-cashmer
 - **Brand:** Kesta London
 - **Colour:** Red
 - **Material:** Blend/Cashmere/Polyamide/Wool
-- **Type:** Jackets
+- **Type:** Coats
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

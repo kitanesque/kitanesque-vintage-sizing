@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/the-simpsons-womens-team-santa-g
 - **Brand:** The Simpsons
 - **Colour:** Grey
 - **Era:** Y2K
-- **Type:** Shirts
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

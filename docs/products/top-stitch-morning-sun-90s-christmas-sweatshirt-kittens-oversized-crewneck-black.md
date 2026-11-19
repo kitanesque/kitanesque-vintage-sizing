@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/top-stitch-morning-sun-90s-chris
 - **Brand:** Top Stitch
 - **Colour:** Black
 - **Era:** 90s
-- **Type:** Knitwear
+- **Type:** Sweatshirts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

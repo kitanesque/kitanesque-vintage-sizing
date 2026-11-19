@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/john-lewis-womens-100-cashmere-l
 - **Brand:** John Lewis
 - **Colour:** Lilac
 - **Material:** Cashmere
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

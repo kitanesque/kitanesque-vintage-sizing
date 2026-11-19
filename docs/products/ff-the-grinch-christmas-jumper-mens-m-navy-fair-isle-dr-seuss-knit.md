@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/ff-the-grinch-christmas-jumper-m
 - **Brand:** F&F
 - **Colour:** Navy
 - **Material:** Knit
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

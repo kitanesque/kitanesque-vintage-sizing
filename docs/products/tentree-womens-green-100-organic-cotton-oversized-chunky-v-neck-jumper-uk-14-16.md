@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/tentree-womens-green-100-organic
 - **Brand:** Tentree
 - **Colour:** Green
 - **Material:** Cotton/Knit/Ribbed
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/oscar-de-la-renta-mens-90s-cotto
 - **Colour:** White
 - **Material:** Cotton
 - **Era:** Y2K
-- **Type:** Shirts
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

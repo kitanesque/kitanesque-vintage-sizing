@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/time-and-tru-christmas-crewneck-
 - **Brand:** Time and Tru
 - **Colour:** Red
 - **Material:** Cotton/Fleece/Polyester
-- **Type:** Knitwear
+- **Type:** Sweatshirts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

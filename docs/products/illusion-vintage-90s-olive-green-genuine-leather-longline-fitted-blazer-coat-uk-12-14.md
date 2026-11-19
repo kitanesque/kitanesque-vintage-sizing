@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/illusion-vintage-90s-olive-green
 - **Colour:** Green
 - **Material:** Leather
 - **Era:** 90s
-- **Type:** Blazers
+- **Type:** Coats
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

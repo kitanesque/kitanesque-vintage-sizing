@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/glenbrae-mens-blue-100-fine-meri
 - **Brand:** Glenbrae
 - **Colour:** Blue
 - **Material:** Wool
-- **Type:** Knitwear
+- **Type:** Waistcoats
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

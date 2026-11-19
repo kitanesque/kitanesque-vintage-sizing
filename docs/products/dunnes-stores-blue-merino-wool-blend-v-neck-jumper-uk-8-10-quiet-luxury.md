@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/dunnes-stores-blue-merino-wool-b
 - **Brand:** Dunnes Stores
 - **Colour:** Blue
 - **Material:** Blend/Knit/Wool
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

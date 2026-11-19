@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/clements-ribeiro-custom-100-meri
 - **Brand:** Clements Ribeiro
 - **Colour:** Black
 - **Material:** Knit/Organza/Ribbed/Wool
-- **Type:** Skirts
+- **Type:** Dresses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/cocoa-cashmere-womens-navy-white
 - **Brand:** Cocoa Cashmere
 - **Colour:** Navy
 - **Material:** Cashmere/Knit
-- **Type:** Knitwear
+- **Type:** Jumpers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

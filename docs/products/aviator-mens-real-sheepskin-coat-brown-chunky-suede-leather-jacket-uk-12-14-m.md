@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/aviator-mens-real-sheepskin-coat
 - **Size:** UK12
 - **Colour:** Brown
 - **Material:** Leather/Shearling/Suede
-- **Type:** Jackets
+- **Type:** Coats
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

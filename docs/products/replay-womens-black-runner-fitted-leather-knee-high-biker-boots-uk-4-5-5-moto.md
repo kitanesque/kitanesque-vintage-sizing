@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/replay-womens-black-runner-fitte
 - **Brand:** Replay
 - **Colour:** Black
 - **Material:** Leather
-- **Type:** Boots
+- **Type:** Boots & shoes
 - **Condition:** pre-owned, one of a kind
 
 ## Description

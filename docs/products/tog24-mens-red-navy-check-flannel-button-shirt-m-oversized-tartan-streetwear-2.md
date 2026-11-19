@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/tog24-mens-red-navy-check-flanne
 - **Brand:** TOG24
 - **Colour:** Navy
 - **Material:** Flannel
-- **Type:** Skirts
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

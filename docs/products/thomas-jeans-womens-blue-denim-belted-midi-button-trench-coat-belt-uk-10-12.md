@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/thomas-jeans-womens-blue-denim-b
 - **Brand:** Thomas Jeans
 - **Colour:** Blue
 - **Material:** Denim
-- **Type:** Jeans
+- **Type:** Coats
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

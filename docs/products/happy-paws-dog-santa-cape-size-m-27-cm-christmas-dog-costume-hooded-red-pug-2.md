@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/happy-paws-dog-santa-cape-size-m
 - **Brand:** Happy Paws
 - **Colour:** Black
 - **Material:** Faux fur
-- **Type:** Other pieces
+- **Type:** Accessories
 - **Condition:** pre-owned, one of a kind
 
 ## Description

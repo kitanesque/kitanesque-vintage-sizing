@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/g-star-raw-unisex-long-vest-knit
 - **Brand:** G-Star
 - **Colour:** Black
 - **Material:** Acrylic/Knit/Wool
-- **Type:** Cardigans
+- **Type:** Waistcoats
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

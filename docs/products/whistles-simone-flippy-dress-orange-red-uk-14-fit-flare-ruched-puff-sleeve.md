@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/whistles-simone-flippy-dress-ora
 - **Size:** UK14
 - **Brand:** Whistles
 - **Colour:** Orange
-- **Type:** Skirts
+- **Type:** Dresses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

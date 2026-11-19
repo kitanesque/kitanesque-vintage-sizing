@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/vintage-90s-brown-womens-lambski
 - **Colour:** Brown
 - **Material:** Lambskin/Leather
 - **Era:** 90s
-- **Type:** Other pieces
+- **Type:** Accessories
 - **Condition:** pre-owned, one of a kind
 
 ## Description

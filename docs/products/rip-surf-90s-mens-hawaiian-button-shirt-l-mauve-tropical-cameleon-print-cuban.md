@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/rip-surf-90s-mens-hawaiian-butto
 - **Colour:** Lilac
 - **Material:** Viscose
 - **Era:** 90s
-- **Type:** Shirts
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

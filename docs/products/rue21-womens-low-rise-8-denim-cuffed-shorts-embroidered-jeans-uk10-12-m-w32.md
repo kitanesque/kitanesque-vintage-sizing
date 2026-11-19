@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/rue21-womens-low-rise-8-denim-cu
 - **Brand:** Rue21
 - **Colour:** Blue
 - **Material:** Denim
-- **Type:** Jeans
+- **Type:** Shorts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

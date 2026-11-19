@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/frame-100-cashmere-square-neck-c
 - **Brand:** Frame
 - **Colour:** Brown
 - **Material:** Cashmere/Denim/Ribbed
-- **Type:** Shirts
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Description

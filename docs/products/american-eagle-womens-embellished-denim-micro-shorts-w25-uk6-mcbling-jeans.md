@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/american-eagle-womens-embellishe
 - **Colour:** Blue
 - **Material:** Denim
 - **Era:** Y2K
-- **Type:** Jeans
+- **Type:** Shorts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

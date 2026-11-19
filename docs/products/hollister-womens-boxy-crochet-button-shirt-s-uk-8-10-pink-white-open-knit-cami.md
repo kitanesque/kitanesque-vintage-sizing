@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/hollister-womens-boxy-crochet-bu
 - **Brand:** Hollister
 - **Colour:** Pink
 - **Material:** Cotton/Knit
-- **Type:** Shirts
+- **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

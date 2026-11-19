@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/esprit-jeans-womens-low-rise-den
 - **Brand:** Esprit
 - **Colour:** Blue
 - **Material:** Denim
-- **Type:** Jeans
+- **Type:** Skirts
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

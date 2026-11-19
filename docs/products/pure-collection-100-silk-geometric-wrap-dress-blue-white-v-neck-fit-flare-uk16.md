@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/pure-collection-100-silk-geometr
 - **Brand:** Pure Collection
 - **Colour:** Blue
 - **Material:** Silk
-- **Type:** Skirts
+- **Type:** Dresses
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

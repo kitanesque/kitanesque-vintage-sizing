@@ -13,7 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/ventiuno-mens-italian-vintage-br
 - **Brand:** Ventiuno
 - **Colour:** Brown
 - **Material:** Leather
-- **Type:** Jackets
+- **Type:** Blazers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

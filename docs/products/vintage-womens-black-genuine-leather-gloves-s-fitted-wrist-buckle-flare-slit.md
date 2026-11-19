@@ -12,7 +12,7 @@ canonical_url: https://kitanesque.co.uk/product/vintage-womens-black-genuine-lea
 - **Size:** S
 - **Colour:** Black
 - **Material:** Leather
-- **Type:** Other pieces
+- **Type:** Accessories
 - **Condition:** pre-owned, one of a kind
 
 ## Description

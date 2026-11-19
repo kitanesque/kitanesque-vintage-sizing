@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/miss-sixty-womens-low-9rise-carg
 - **Colour:** Green
 - **Material:** Cotton/Knit/Ribbed
 - **Era:** Y2K
-- **Type:** Knitwear
+- **Type:** Trousers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

@@ -14,7 +14,7 @@ canonical_url: https://kitanesque.co.uk/product/magilla-blue-kidz-womens-pinstri
 - **Colour:** Khaki
 - **Material:** Cotton
 - **Era:** Y2K
-- **Type:** Jackets
+- **Type:** Blazers
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements
