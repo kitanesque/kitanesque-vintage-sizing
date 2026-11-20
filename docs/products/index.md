@@ -6,11 +6,10 @@ canonical_url: https://kitanesque.co.uk/shop/
 
 # Pieces in stock at Kitanesque
 
-340 one-off pieces in stock. Clothing is measured flat, by hand. Prices in GBP, UK delivery. The shop itself, with photos and checkout, is at [kitanesque.co.uk/shop/](https://kitanesque.co.uk/shop/). Copies taken on 19 November 2026.
+339 one-off pieces in stock. Clothing is measured flat, by hand. Prices in GBP, UK delivery. The shop itself, with photos and checkout, is at [kitanesque.co.uk/shop/](https://kitanesque.co.uk/shop/). Copies taken on 20 November 2026.
 
-## Jeans (86)
+## Jeans (85)
 
-- [7 For All Mankind Womens Low 7.5”Rise Flare Jeans W28 L30.5 UK 8-10 Rhinestone](7-for-all-mankind-womens-low-7-5rise-flare-jeans-w28-l30-5-uk-8-10-rhinestone.md) - UK10 · £41
 - [9th&Main womens low-mid rise 9” flare jeans petite W27 L28 UK 8-10 dark stitch](9thmain-womens-low-mid-rise-9-flare-jeans-petite-w27-l28-uk-8-10-dark-stitch.md) - UK10 · £19.50
 - [ASOS Womens High Rise 11.5” Wide Leg Flare Black Jeans W26 L28.5 UK 8 Baggy Y2K](asos-womens-high-rise-11-5-wide-leg-flare-black-jeans-w26-l28-5-uk-8-baggy-y2k.md) - UK8 · £19.50
 - [ASOS Womens High Rise 11.5” Wide Leg Jeans W26 30 UK 8 Tan Brown Baggy denim](asos-womens-high-rise-11-5-wide-leg-jeans-w26-30-uk-8-tan-brown-baggy-denim.md) - UK8 · £19.50

@@ -4,7 +4,7 @@ description: "Second-hand knitwear by brand: bust measured against the label siz
 canonical_url: https://kitanesque.co.uk/knitwear-sizing-by-brand/
 ---
 
-> Text copy of a Kitanesque page, taken on 19 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/knitwear-sizing-by-brand/](https://kitanesque.co.uk/knitwear-sizing-by-brand/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 20 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/knitwear-sizing-by-brand/](https://kitanesque.co.uk/knitwear-sizing-by-brand/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # Knitwear Sizing by Brand
 
