@@ -28,6 +28,6 @@ Measured flat, by hand.
 
 ## Description
 
-F&F x The Grinch by Dr. Seuss Christmas jumper in navy with a Fair Isle zigzag front and back. Soft knit. It's a fun pick for Christmas parties and festive jumper day.Tagged UK M men's (chest 38–40in). It would fit women around UK 12–14, or give a relaxed oversized fit on smaller sizes.Bust 21” - pit to cuff 20” - Length 25.5”Very good condition. Colour: Navy. Size: M. Material: Knit.
+An F&F x The Grinch by Dr. Seuss Christmas jumper in navy. It has a Fair Isle zigzag pattern on the front and back, in a soft knit. It suits Christmas parties and festive jumper day. It is tagged a men’s UK M. It would also fit women around a UK 12 to 14, or give a relaxed, oversized fit on smaller sizes. Wear it with jeans and trainers, or over a shirt collar. Very good condition. F&F x The Grinch by Dr. Seuss Christmas jumper in navy with a Fair Isle zigzag front and back. Soft knit. It's a fun pick for Christmas parties and festive jumper day.Tagged UK M men's (chest 38–40in). It would fit women around UK 12–14, or give a relaxed oversized fit on smaller sizes.Bust 21” - pit to cuff 20” - Length 25.5”Very good condition. Colour: Navy. Size: M. Material: Knit.
 
 **[See the photos and buy this piece on kitanesque.co.uk](https://kitanesque.co.uk/product/ff-the-grinch-christmas-jumper-mens-m-navy-fair-isle-dr-seuss-knit/)**

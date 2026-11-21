@@ -4,23 +4,23 @@ description: "How to check cashmere, with the labels from our own stock."
 canonical_url: https://kitanesque.co.uk/is-it-real-cashmere/
 ---
 
-> Text copy of a Kitanesque page, taken on 20 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/is-it-real-cashmere/](https://kitanesque.co.uk/is-it-real-cashmere/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 21 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/is-it-real-cashmere/](https://kitanesque.co.uk/is-it-real-cashmere/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # Is It Real Cashmere? What the Labels and the Fabric Tell You
 
-**Real cashmere starts with the composition tag: it should say 100% cashmere, or give the exact blend, and the knit should agree with it.** Of the 88 cashmere pieces we have handled (36 in stock today), we have read the composition tag on 59: 54 say 100% cashmere and 5 give a blend, most often with wool (3), silk (1), merino wool (1).
+**Real cashmere starts with the composition tag: it should say 100% cashmere, or give the exact blend, and the knit should agree with it.** Of the 90 cashmere pieces we have handled (35 in stock today), we have read the composition tag on 60: 55 say 100% cashmere and 5 give a blend, most often with wool (3), silk (1), merino wool (1).
 
-Updated 17 November 2026 · built from the labels on our own pieces and rebuilt as pieces come and go.
+Updated 20 November 2026 · built from the labels on our own pieces and rebuilt as pieces come and go.
 
 ## What the label should say
 
 The composition tag should read “100% cashmere”, or the exact blend (for example “70% cashmere, 30% silk”). That is what we go by, and it is how the piece is described on its product page: the material in the title is the material on the tag, or “faux” when the tag lists a synthetic.
 
-On the 59 cashmere tags we have read, the cashmere percentage was 100% (54), 70% (1), 65% (1), 20% (1), 10% (1), 5% (1). The blends were mostly with wool (3), silk (1), merino wool (1), viscose (1), polyamide (1).
+On the 60 cashmere tags we have read, the cashmere percentage was 100% (55), 70% (1), 65% (1), 20% (1), 10% (1), 5% (1). The blends were mostly with wool (3), silk (1), merino wool (1), viscose (1), polyamide (1).
 
 **Country on the label** (38 labels with one): China (22), UK (8), Italy (2), Cambodia (2), Madagascar (1), Bangladesh (1). The country is one detail among several, not proof.
 
-**Labels we have handled most:** John Lewis (6), Marks & Spencer (5), F&F (5), Pure Collection (4), Brora (3), Repeat (3), H&M (3), Frame (2).
+**Labels we have handled most:** John Lewis (6), Marks & Spencer (5), F&F (5), Pure Collection (4), Brora (3), Repeat (3), H&M (3), Autograph (3).
 
 **What the care labels say** (43 labels with care instructions): dry flat (26), wash inside out (14), hand wash (10), wash at 30° (10), do not bleach (9), wash with similar colours (9). Every care label we have read, by material: [how to wash vintage clothes, what the labels say](https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/).
 
@@ -106,11 +106,11 @@ Composition tag: 100% cashmere · care: wash at 30°, dry clean only, dry flat.
 
 ### What does the label say on real cashmere?
 
-It gives the composition as a percentage. Of the 59 cashmere pieces whose composition tag we have read, 54 say 100% cashmere and 5 give an exact blend (wool (3), silk (1), merino wool (1), viscose (1)). A tag that only says “cashmere feel” or “cashmere touch”, or gives no percentage at all, is not a composition.
+It gives the composition as a percentage. Of the 60 cashmere pieces whose composition tag we have read, 55 say 100% cashmere and 5 give an exact blend (wool (3), silk (1), merino wool (1), viscose (1)). A tag that only says “cashmere feel” or “cashmere touch”, or gives no percentage at all, is not a composition.
 
 ### Is a cashmere blend real cashmere?
 
-Yes, when the tag gives the percentages: 70% cashmere and 30% silk is real cashmere, but it is not 100%, and we describe it as a blend. 5 of the 88 cashmere pieces we have handled are blends, most often with wool or silk.
+Yes, when the tag gives the percentages: 70% cashmere and 30% silk is real cashmere, but it is not 100%, and we describe it as a blend. 5 of the 90 cashmere pieces we have handled are blends, most often with wool or silk.
 
 ### Where was most of the cashmere you handled made?
 
@@ -118,7 +118,7 @@ Of the 38 cashmere labels with a country on them: China (22), UK (8), Italy (2),
 
 ### Which cashmere labels have you handled most?
 
-88 pieces so far (36 in stock today), most often John Lewis (6), Marks & Spencer (5), F&F (5), Pure Collection (4), Brora (3), Repeat (3), H&M (3), Frame (2).
+90 pieces so far (35 in stock today), most often John Lewis (6), Marks & Spencer (5), F&F (5), Pure Collection (4), Brora (3), Repeat (3), H&M (3), Autograph (3).
 
 ### What do cashmere care labels say?
 

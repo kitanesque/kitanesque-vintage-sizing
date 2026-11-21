@@ -28,6 +28,6 @@ Measured flat, by hand.
 
 ## Description
 
-J.Crew Collection jumper in navy 100% Italian cashmere, with a crew neck, soft and lightweight with a relaxed, slightly slouchy fit, so it's easy to layer.Tagged S, fits approx. UK 8–10 but I believe it would fit larger sizes. Worn on UK 8 for styling reference, I'm 5f 6" tall.Approx. bust 20.5” - pit to cuff 17” - Length 26”Very good condition with light wear. Colour: Navy. Size: UK 10. Material: Cashmere.
+A J.Crew Collection jumper in navy 100% Italian cashmere, with a crew neck. The knit is soft and lightweight, with a relaxed, slightly slouchy fit, so it is easy to layer. It is tagged S and fits a UK 8 to 10, and the relaxed cut may suit larger sizes too; we shot it on a UK 8 for styling reference. Wear it over a shirt collar with straight jeans, or with tailored trousers. Very good condition with light wear. J.Crew Collection jumper in navy 100% Italian cashmere, with a crew neck, soft and lightweight with a relaxed, slightly slouchy fit, so it's easy to layer.Tagged S, fits approx. UK 8–10 but I believe it would fit larger sizes. Worn on UK 8 for styling reference, I'm 5f 6" tall.Approx. bust 20.5” - pit to cuff 17” - Length 26”Very good condition with light wear. Colour: Navy. Size: UK 10. Material: Cashmere.
 
 **[See the photos and buy this piece on kitanesque.co.uk](https://kitanesque.co.uk/product/j-crew-collection-womens-italian-100-cashmere-jumper-s-navy-crew-neck-uk-8-10/)**

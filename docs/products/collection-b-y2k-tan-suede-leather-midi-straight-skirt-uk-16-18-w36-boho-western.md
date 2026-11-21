@@ -29,6 +29,6 @@ Measured flat, by hand.
 
 ## Description
 
-Collection B midi skirt in tan genuine suede leather with a drawstring tie at the waist and two front pockets. Back zip with lining. A great boho/western piece.Tagged L, fits approx. UK 16-18. Shown on UK 8 for styling reference, I'm 5f 6" tall.Approx. waist 18” - hip 22” - length 27”Good vintage condition with some wear marks on the suede, pictured. Colour: Tan. Size: UK 16. Material: Leather/Suede.
+A Y2K Collection B midi skirt in tan genuine suede leather, with a straight cut. It has a drawstring tie at the waist and two front pockets, with a back zip and a lining. It works as a boho or western piece. It is tagged L and fits a UK 16 to 18 (W36); we shot it on a UK 8 for styling reference. Wear it with a fitted knit and knee-high boots, or a denim shirt. Good vintage condition, with some wear marks on the suede, pictured. Collection B midi skirt in tan genuine suede leather with a drawstring tie at the waist and two front pockets. Back zip with lining. A great boho/western piece.Tagged L, fits approx. UK 16-18. Shown on UK 8 for styling reference, I'm 5f 6" tall.Approx. waist 18” - hip 22” - length 27”Good vintage condition with some wear marks on the suede, pictured. Colour: Tan. Size: UK 16. Material: Leather/Suede.
 
 **[See the photos and buy this piece on kitanesque.co.uk](https://kitanesque.co.uk/product/collection-b-y2k-tan-suede-leather-midi-straight-skirt-uk-16-18-w36-boho-western/)**

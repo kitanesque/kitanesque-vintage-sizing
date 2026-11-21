@@ -28,6 +28,6 @@ Measured flat, by hand.
 
 ## Description
 
-A vintage Hirsch maxi skirt in white linen with a fitted top and seamed panels flaring into a fishtail/mermaid hem. 100% linen.Tagged UK 16 / might run smaller so please check measurements, I’d say it’s ideal for approx. UK 14-16. Pinned on UK 8 for styling reference, I'm 5f 6" tall.Approx. waist 16” - hip 22” - length 34.5”Very good condition with a couple of tiny faint marks near the hem, pictured. Colour: White. Size: UK 14. Material: Linen.
+A vintage Hirsch maxi skirt in white 100% linen. It is fitted at the top, with seamed panels that flare into a fishtail, mermaid hem. It has a boho feel. It is tagged UK 16 but might run smaller, so we list it as a UK 14 to 16 (W32); please check the measurements below. We pinned it on a UK 8 for the photos. Wear it with a fitted vest top and flat sandals, or a cropped knit. Very good condition, with a couple of tiny faint marks near the hem, pictured. A vintage Hirsch maxi skirt in white linen with a fitted top and seamed panels flaring into a fishtail/mermaid hem. 100% linen.Tagged UK 16 / might run smaller so please check measurements, I’d say it’s ideal for approx. UK 14-16. Pinned on UK 8 for styling reference, I'm 5f 6" tall.Approx. waist 16” - hip 22” - length 34.5”Very good condition with a couple of tiny faint marks near the hem, pictured. Colour: White. Size: UK 14. Material: Linen.
 
 **[See the photos and buy this piece on kitanesque.co.uk](https://kitanesque.co.uk/product/hirsch-vintage-white-linen-maxi-fishtail-skirt-uk14-16-w32-mermaid-flare-boho/)**

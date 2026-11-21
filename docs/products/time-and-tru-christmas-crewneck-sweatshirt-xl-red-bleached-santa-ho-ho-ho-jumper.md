@@ -28,6 +28,6 @@ Measured flat, by hand.
 
 ## Description
 
-Time and Tru red heather sweatshirt with cool Santa with the slogan "There's some Ho Ho Hos in this house". Soft fleece lining. 58% cotton, 42% polyester.Tagged US XL (16-18), but fits approx. L /UK 16-18, or a relaxed oversized fit on smaller sizes. Worn on UK 8 for styling reference, I'm 5f 6" tall.Bust 23” - pit to cuff 29.5” - Length 25”Very good condition with light wear. Colour: Red. Size: XL. Material: Cotton/Fleece/Polyester.
+A Time and Tru Christmas crewneck sweatshirt in bleached red heather. The front has a Santa print with the slogan “There’s some Ho Ho Hos in this house”. It has a soft fleece lining, in a blend of 58% cotton and 42% polyester. It is tagged US XL (16-18) and fits a UK 16 to 18, or gives a relaxed, oversized fit on smaller sizes; we shot it on a UK 8 for styling reference. Wear it with jeans and trainers for Christmas Jumper Day. Very good condition with light wear. Time and Tru red heather sweatshirt with cool Santa with the slogan "There's some Ho Ho Hos in this house". Soft fleece lining. 58% cotton, 42% polyester.Tagged US XL (16-18), but fits approx. L /UK 16-18, or a relaxed oversized fit on smaller sizes. Worn on UK 8 for styling reference, I'm 5f 6" tall.Bust 23” - pit to cuff 29.5” - Length 25”Very good condition with light wear. Colour: Red. Size: XL. Material: Cotton/Fleece/Polyester.
 
 **[See the photos and buy this piece on kitanesque.co.uk](https://kitanesque.co.uk/product/time-and-tru-christmas-crewneck-sweatshirt-xl-red-bleached-santa-ho-ho-ho-jumper/)**
