@@ -2,9 +2,9 @@
 
 **Preferred (the three platforms and the GitHub mirror all point to the Zenodo DOI):**
 
-Dălcăran, A. (2026). *Kitanesque vintage sizing and labels: tape measurements and label data for second-hand clothing* (Version 2026-10-26) [Data set]. Kitanesque Ltd. https://doi.org/10.5281/zenodo.23674846
+Dălcăran, A. (2026). *Kitanesque vintage sizing and labels: tape measurements and label data for second-hand clothing* (Version 2026-11-22) [Data set]. Kitanesque Ltd. https://doi.org/10.5281/zenodo.24443705
 
-**Any version / the latest version:** use the concept DOI, https://doi.org/10.5281/zenodo.23452245, which always resolves to the newest version. The first version (2026-10-18, jeans and knitwear only) was titled *Kitanesque vintage sizing: label sizes against tape measurements for second-hand jeans and knitwear*; citations of it stay valid.
+**Any version / the latest version:** use the concept DOI, https://doi.org/10.5281/zenodo.23452245, which always resolves to the newest version. The first version (2026-10-18, jeans and knitwear only, DOI 10.5281/zenodo.23452246) was titled *Kitanesque vintage sizing: label sizes against tape measurements for second-hand jeans and knitwear*; citations of it stay valid. The previous version of this snapshot is 2026-10-26, DOI 10.5281/zenodo.23674846.
 
 **If quoting the live tables on the website instead:**
 
