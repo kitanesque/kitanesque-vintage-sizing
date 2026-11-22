@@ -1,12 +1,12 @@
 ---
-title: "WallFlower Womens Low rise 8.5” Bootcut Flared Jeans W27 L30 UK8 stitch pocket"
+title: "WallFlower Y2K Flared Low rise 8.5” Bootcut Blue Jeans W27 L30 UK8-10 super stretchy stitch pocket"
 description: "Wallflower · UK8 · £22.50 - in stock at Kitanesque, UK"
 canonical_url: https://kitanesque.co.uk/product/wallflower-womens-low-rise-8-5-bootcut-flared-jeans-w27-l30-uk8-stitch-pocket/
 ---
 
 > Text copy of a listing on Kitanesque, a UK vintage clothing shop. **Photos, live price and checkout: [kitanesque.co.uk/product/wallflower-womens-low-rise-8-5-bootcut-flared-jeans-w27-l30-uk8-stitch-pocket/](https://kitanesque.co.uk/product/wallflower-womens-low-rise-8-5-bootcut-flared-jeans-w27-l30-uk8-stitch-pocket/)**. One-off piece: if the live page says sold, it is gone. This copy is refreshed daily. UK delivery.
 
-# WallFlower Womens Low rise 8.5” Bootcut Flared Jeans W27 L30 UK8 stitch pocket
+# WallFlower Y2K Flared Low rise 8.5” Bootcut Blue Jeans W27 L30 UK8-10 super stretchy stitch pocket
 
 - **Price:** £22.50
 - **Size:** UK8
@@ -24,7 +24,6 @@ Measured flat, by hand.
 | Waist | 13.5 in flat (27 in round) |
 | Rise | 8.5 in |
 | Inside leg | 30 in |
-| Leg opening | 7.5 in |
 | Thigh | 9.5 in |
 
 ## Description

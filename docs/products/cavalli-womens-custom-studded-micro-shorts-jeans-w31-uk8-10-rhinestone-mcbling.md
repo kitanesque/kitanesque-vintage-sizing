@@ -1,12 +1,12 @@
 ---
-title: "Cavalli womens custom studded micro shorts jeans W31 uk8-10 rhinestone mcbling"
+title: "Cavalli Y2K 00s custom studded micro shorts jeans W31 uk10 rhinestone mcbling cowgirl"
 description: "Roberto Cavalli · UK10 · £53 - in stock at Kitanesque, UK"
 canonical_url: https://kitanesque.co.uk/product/cavalli-womens-custom-studded-micro-shorts-jeans-w31-uk8-10-rhinestone-mcbling/
 ---
 
 > Text copy of a listing on Kitanesque, a UK vintage clothing shop. **Photos, live price and checkout: [kitanesque.co.uk/product/cavalli-womens-custom-studded-micro-shorts-jeans-w31-uk8-10-rhinestone-mcbling/](https://kitanesque.co.uk/product/cavalli-womens-custom-studded-micro-shorts-jeans-w31-uk8-10-rhinestone-mcbling/)**. One-off piece: if the live page says sold, it is gone. This copy is refreshed daily. UK delivery.
 
-# Cavalli womens custom studded micro shorts jeans W31 uk8-10 rhinestone mcbling
+# Cavalli Y2K 00s custom studded micro shorts jeans W31 uk10 rhinestone mcbling cowgirl
 
 - **Price:** £53
 - **Size:** UK10

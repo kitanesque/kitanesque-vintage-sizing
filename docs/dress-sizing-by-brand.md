@@ -4,13 +4,13 @@ description: "Dresses by brand: measured bust, waist and length against the labe
 canonical_url: https://kitanesque.co.uk/dress-sizing-by-brand/
 ---
 
-> Text copy of a Kitanesque page, taken on 21 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/dress-sizing-by-brand/](https://kitanesque.co.uk/dress-sizing-by-brand/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 22 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/dress-sizing-by-brand/](https://kitanesque.co.uk/dress-sizing-by-brand/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # Vintage Dress Sizing by Brand: Label vs Tape
 
-On the 28 woven vintage and second-hand dresses we have measured, from 44 labels, the bust on the tape came out right on the UK standard for the size on the listing on average: 25% ran small (more than 1″ under), 36% were true to size (within 1″) and 39% ran large (more than 1″ over). Where the waist was measured too (17 dresses), it came out +1″ against the standard. A further 27 stretch or wrap dresses (bodycon, ribbed knit, wrap fronts) are in the in-stock list and the data but not in the comparison: a stretch dress measures well under the body it is made to stretch over and a wrap has no fixed bust, so for those the size on the listing is the guide.
+On the 28 woven vintage and second-hand dresses we have measured, from 45 labels, the bust on the tape came out right on the UK standard for the size on the listing on average: 25% ran small (more than 1″ under), 36% were true to size (within 1″) and 39% ran large (more than 1″ over). Where the waist was measured too (17 dresses), it came out +1″ against the standard. A further 28 stretch or wrap dresses (bodycon, ribbed knit, wrap fronts) are in the in-stock list and the data but not in the comparison: a stretch dress measures well under the body it is made to stretch over and a wrap has no fixed bust, so for those the size on the listing is the guide.
 
-Among the labels we have measured two or more times, Whistles came out roomiest in the bust against the UK standard for the size we listed it as (+3.5″ on average) and Zara tightest (0″). Labels with two or more measured dresses get their own row. “Listed as” is the UK size on each dress’s own listing, judged from its flat measurements, never a calculation from the old label. “vs UK standard” is how much bigger or smaller the dress measured than the standard body measurement for that listed size; a dress that is meant to skim the body measures a little over it. Women’s dresses, inches throughout, measured flat and doubled. 25 of the 55 are in stock today.
+Among the labels we have measured two or more times, Whistles came out roomiest in the bust against the UK standard for the size we listed it as (+3.5″ on average) and Zara tightest (0″). Labels with two or more measured dresses get their own row. “Listed as” is the UK size on each dress’s own listing, judged from its flat measurements, never a calculation from the old label. “vs UK standard” is how much bigger or smaller the dress measured than the standard body measurement for that listed size; a dress that is meant to skim the body measures a little over it. Women’s dresses, inches throughout, measured flat and doubled. 26 of the 56 are in stock today.
 
 ## Label by label
 
@@ -48,17 +48,19 @@ The dresses on this page that you can buy today, smallest listed size first. Eac
 | --- | --- | --- | --- | --- | --- |
 | Diane von Furstenberg 100% Silk Tiger Wrap Bodycon Mini Dress stretch | UK 6–8 | 32″ | 26″ | 35″ | £57 |
 | Guess Blue Denim Off Shoulder Button Mini Bodycon stretch | UK 6–8 | 30″ | 26″ | 28.5″ | £15 |
+| Guess Vintage y2k Black Bodycon Mini Slip Strappy stretch | UK 6–8 | 29″ | 26″ | 33″ | £12.5 |
 | Not Shy 100% Cashmere Knit Mini Fitted Dress Taupe stretch | UK 6–8 | 30″ | – | 32.5″ | £55.5 |
 | Balenciaga Archive’09 asymmetric print mini fit dress one-shoulder | UK 8–10 | 33″ | – | 40″ | £152 |
 | Clements Ribeiro Custom 100% Merino Knit Maxi Fitted Dress stretch | UK 8 | 35″ | 28″ | 55″ | £95 |
 | Coast 100% Silk Purple Strapless Prom Cocktail Mini | UK 8 | 31″ | 26.4″ | 29″ | £26.5 |
 | Dr Martens Dr. Martens Black Laser Cut Shift Mini | UK 8 | 36″ | – | 33″ | £34 |
-| Guess Vintage 90s Black Bodycon Mini Slip Strappy stretch | UK 8 | 29″ | 26″ | 33″ | £12.5 |
 | Karen Millen 100% silk off shoulder asymmetrical floral ruffle | UK 8 | 33″ | 27″ | 35.5″ | £26.5 |
 | Kate Lily Kate&Lily BNWT floral green navy mesh maxi stretch | UK 8–10 | 36″ | 24″ | 53″ | £16.5 |
 | Louis Feraud Louis Féraud 90s black velvet mini fishtail | UK 8–10 | 34″ | 29″ | 33.5″ | £67.5 |
 | Mohito Abstract brushstroke print mesh maxi dress lilac stretch | UK 8–10 | 33″ | 23″ | 49″ | £16.5 |
+| Pure Collection 100% silk geometric wrap dress blue white stretch | UK 8–16 | 33″ | – | 40″ | £28.5 |
 | Versace Versus ’11 black cashmere wool velvet ribbed stretch | UK 8–10 | 29″ | – | 37.5″ | £67.5 |
+| Zapa Paris teal ribbed maxi dress square neck stretch | UK 8–10 | 34″ | – | 53.5″ | £26.5 |
 | Zara Rust orange asymmetric zip one shoulder midi | UK 8–10 | 32″ | 26″ | 52.5″ | £18.5 |
 | Abercrombie & Fitch Abercrombie&Fitch Grey Cable Knit Mini Flare Knit stretch | UK 10–12 | 33″ | – | 29″ | £40.5 |
 | Diane von Furstenberg DVF Cream Bodycon Fitted Pencil Dress Scoop stretch | UK 10 | 34″ | 28″ | 38.5″ | £28 |
@@ -70,7 +72,6 @@ The dresses on this page that you can buy today, smallest listed size first. Eac
 | Witchy Love Love black cotton off shoulder puff sleeve stretch | UK 12 | 35″ | 31″ | 49″ | £21 |
 | Colmar Vintage 90s Utility Safari Button Shirt Fitted | UK 14 | 38″ | 36″ | 35″ | £13.5 |
 | Whistles Simone Flippy dress orange red Fit& Flare | UK 14 | 41″ | 33″ | 37.5″ | £22.5 |
-| Pure Collection 100% silk geometric wrap dress blue white stretch | UK 16 | 33″ | – | 40″ | £28.5 |
 
 ## How to use this
 
@@ -113,7 +114,7 @@ From our own listings. Every dress we sell is measured flat before it goes onlin
 
 Every dress on this page, one line each, as a plain CSV file: label, the UK size we listed, bust, waist and hips measured round, the UK standard for that size, length, decade, whether it is a stretch dress, in stock or sold, the date it was listed and a link to the listing. The file is generated from the live catalogue, so it is as current as the tables above.
 
-[kitanesque-dress-measurements.csv](https://kitanesque.co.uk/kitanesque-dress-measurements.csv) · 55 dresses · Free to use and quote with a link back to Kitanesque (CC BY 4.0).
+[kitanesque-dress-measurements.csv](https://kitanesque.co.uk/kitanesque-dress-measurements.csv) · 56 dresses · Free to use and quote with a link back to Kitanesque (CC BY 4.0).
 
 Dated snapshot of 26 October 2026, citable: [Zenodo (DOI 10.5281/zenodo.23674846)](https://doi.org/10.5281/zenodo.23674846) · [Hugging Face](https://huggingface.co/datasets/kitanesque/kitanesque-vintage-sizing) · [Kaggle](https://www.kaggle.com/datasets/andradalcaran/vintage-clothing-sizing-label-vs-tape) · [GitHub](https://github.com/kitanesque/kitanesque-vintage-sizing). New versions every few months; the file above is always current.
 

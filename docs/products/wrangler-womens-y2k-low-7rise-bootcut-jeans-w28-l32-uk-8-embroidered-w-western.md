@@ -31,6 +31,6 @@ Measured flat, by hand.
 
 ## Description
 
-Wrangler ultra low 7” rise jeans with a slim bootcut leg in a faded light-wash denim with embroidered stitched pockets in stretchy denim.Tagged US 1/2 x 32, fits approx. UK 8. Shown on UK 8 for styling reference, I'm 5f 6” tall.Approx. waist 14” - leg 31” - rise 7” - thigh 10” - hem 7.5”Good condition, with a small repaired spot below the back pocket and wear along the seams, both pictured. Colour: Blue. Size: UK 8. Inseam: 31 in. Rise: 7 in. Material: Denim.
+Y2K Wrangler low-rise jeans with a slim bootcut leg in a faded light-wash denim. The pockets have embroidered western-style stitching, including the W, and the denim has some stretch. They are tagged US 1/2 x 32 and we list them as a UK 8, W28 L32. Wear them with a cropped knit and cowboy boots. Good condition, with a small repaired spot below the back pocket and wear along the seams, both pictured. Wrangler ultra low 7” rise jeans with a slim bootcut leg in a faded light-wash denim with embroidered stitched pockets in stretchy denim.Tagged US 1/2 x 32, fits approx. UK 8. Shown on UK 8 for styling reference, I'm 5f 6” tall.Approx. waist 14” - leg 31” - rise 7” - thigh 10” - hem 7.5”Good condition, with a small repaired spot below the back pocket and wear along the seams, both pictured. Colour: Blue. Size: UK 8. Inseam: 31 in. Rise: 7 in. Material: Denim.
 
 **[See the photos and buy this piece on kitanesque.co.uk](https://kitanesque.co.uk/product/wrangler-womens-y2k-low-7rise-bootcut-jeans-w28-l32-uk-8-embroidered-w-western/)**

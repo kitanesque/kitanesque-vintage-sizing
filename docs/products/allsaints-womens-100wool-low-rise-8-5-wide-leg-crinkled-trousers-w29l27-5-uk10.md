@@ -1,12 +1,12 @@
 ---
-title: "AllSaints Womens 100%Wool Low Rise 8.5” Wide Leg Crinkled Trousers W29L27.5 UK10"
+title: "Vintage AllSaints Pure 100% Virgin Wool Low Rise 8.5” Wide Leg Crinkled Trousers W29 L27.5 UK8-10"
 description: "AllSaints · UK10 · £72 - in stock at Kitanesque, UK"
 canonical_url: https://kitanesque.co.uk/product/allsaints-womens-100wool-low-rise-8-5-wide-leg-crinkled-trousers-w29l27-5-uk10/
 ---
 
 > Text copy of a listing on Kitanesque, a UK vintage clothing shop. **Photos, live price and checkout: [kitanesque.co.uk/product/allsaints-womens-100wool-low-rise-8-5-wide-leg-crinkled-trousers-w29l27-5-uk10/](https://kitanesque.co.uk/product/allsaints-womens-100wool-low-rise-8-5-wide-leg-crinkled-trousers-w29l27-5-uk10/)**. One-off piece: if the live page says sold, it is gone. This copy is refreshed daily. UK delivery.
 
-# AllSaints Womens 100%Wool Low Rise 8.5” Wide Leg Crinkled Trousers W29L27.5 UK10
+# Vintage AllSaints Pure 100% Virgin Wool Low Rise 8.5” Wide Leg Crinkled Trousers W29 L27.5 UK8-10
 
 - **Price:** £72
 - **Size:** UK10

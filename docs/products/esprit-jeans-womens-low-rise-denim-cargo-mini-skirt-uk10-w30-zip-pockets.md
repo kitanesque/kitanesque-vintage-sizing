@@ -1,12 +1,12 @@
 ---
-title: "Esprit Jeans Womens Low rise Denim Cargo Mini Skirt UK10 W30 Zip Pockets"
+title: "Esprit y2k Low rise Denim Mini Skirt UK 8-10 W30 Zip Pockets Cargo grunge casual festival"
 description: "Esprit · UK10 · £20.50 - in stock at Kitanesque, UK"
 canonical_url: https://kitanesque.co.uk/product/esprit-jeans-womens-low-rise-denim-cargo-mini-skirt-uk10-w30-zip-pockets/
 ---
 
 > Text copy of a listing on Kitanesque, a UK vintage clothing shop. **Photos, live price and checkout: [kitanesque.co.uk/product/esprit-jeans-womens-low-rise-denim-cargo-mini-skirt-uk10-w30-zip-pockets/](https://kitanesque.co.uk/product/esprit-jeans-womens-low-rise-denim-cargo-mini-skirt-uk10-w30-zip-pockets/)**. One-off piece: if the live page says sold, it is gone. This copy is refreshed daily. UK delivery.
 
-# Esprit Jeans Womens Low rise Denim Cargo Mini Skirt UK10 W30 Zip Pockets
+# Esprit y2k Low rise Denim Mini Skirt UK 8-10 W30 Zip Pockets Cargo grunge casual festival
 
 - **Price:** £20.50
 - **Size:** UK10

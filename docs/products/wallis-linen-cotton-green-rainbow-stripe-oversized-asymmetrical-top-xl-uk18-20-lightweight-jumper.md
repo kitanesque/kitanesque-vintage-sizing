@@ -1,19 +1,19 @@
 ---
-title: "Wallis Linen Cotton Green Rainbow Stripe Oversized Asymmetrical Top XL UK18-20 lightweight jumper"
+title: "Wallis Womens Linen Cotton Green Rainbow Stripe Oversized Asymmetrical Top XL Slouchy boho"
 description: "Wallis · UK18 · £13.50 - in stock at Kitanesque, UK"
 canonical_url: https://kitanesque.co.uk/product/wallis-linen-cotton-green-rainbow-stripe-oversized-asymmetrical-top-xl-uk18-20-lightweight-jumper/
 ---
 
 > Text copy of a listing on Kitanesque, a UK vintage clothing shop. **Photos, live price and checkout: [kitanesque.co.uk/product/wallis-linen-cotton-green-rainbow-stripe-oversized-asymmetrical-top-xl-uk18-20-lightweight-jumper/](https://kitanesque.co.uk/product/wallis-linen-cotton-green-rainbow-stripe-oversized-asymmetrical-top-xl-uk18-20-lightweight-jumper/)**. One-off piece: if the live page says sold, it is gone. This copy is refreshed daily. UK delivery.
 
-# Wallis Linen Cotton Green Rainbow Stripe Oversized Asymmetrical Top XL UK18-20 lightweight jumper
+# Wallis Womens Linen Cotton Green Rainbow Stripe Oversized Asymmetrical Top XL Slouchy boho
 
 - **Price:** £13.50 (was £16)
 - **Size:** UK18
 - **Brand:** Wallis
 - **Colour:** Green
 - **Material:** Cotton/Knit/Linen
-- **Type:** Jumpers
+- **Type:** Tops
 - **Condition:** pre-owned, one of a kind
 
 ## Measurements

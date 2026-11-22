@@ -1,12 +1,12 @@
 ---
-title: "Zapa Paris teal ribbed maxi dress square neck minimalist bodycon Y2K 00s sheer S"
+title: "Zapa Paris teal ribbed maxi dress square neck minimalist bodycon Y2K 00s sheer summer"
 description: "Zapa · S · £26.50 - in stock at Kitanesque, UK"
 canonical_url: https://kitanesque.co.uk/product/zapa-paris-teal-ribbed-maxi-dress-square-neck-minimalist-bodycon-y2k-00s-sheer-s/
 ---
 
 > Text copy of a listing on Kitanesque, a UK vintage clothing shop. **Photos, live price and checkout: [kitanesque.co.uk/product/zapa-paris-teal-ribbed-maxi-dress-square-neck-minimalist-bodycon-y2k-00s-sheer-s/](https://kitanesque.co.uk/product/zapa-paris-teal-ribbed-maxi-dress-square-neck-minimalist-bodycon-y2k-00s-sheer-s/)**. One-off piece: if the live page says sold, it is gone. This copy is refreshed daily. UK delivery.
 
-# Zapa Paris teal ribbed maxi dress square neck minimalist bodycon Y2K 00s sheer S
+# Zapa Paris teal ribbed maxi dress square neck minimalist bodycon Y2K 00s sheer summer
 
 - **Price:** £26.50 (was £31.50)
 - **Size:** S

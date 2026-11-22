@@ -1,12 +1,12 @@
 ---
-title: "New York & Company Mens Leather Glossy Black Belted Midi Trench Coat XL UK 16–18"
+title: "New York & Company Mens Oversized Leather Glossy Black Belted Midi Trench Coat XL Jacket"
 description: "New York & Company · UK16 · £58.50 - in stock at Kitanesque, UK"
 canonical_url: https://kitanesque.co.uk/product/new-york-company-mens-leather-glossy-black-belted-midi-trench-coat-xl-uk-16-18/
 ---
 
 > Text copy of a listing on Kitanesque, a UK vintage clothing shop. **Photos, live price and checkout: [kitanesque.co.uk/product/new-york-company-mens-leather-glossy-black-belted-midi-trench-coat-xl-uk-16-18/](https://kitanesque.co.uk/product/new-york-company-mens-leather-glossy-black-belted-midi-trench-coat-xl-uk-16-18/)**. One-off piece: if the live page says sold, it is gone. This copy is refreshed daily. UK delivery.
 
-# New York & Company Mens Leather Glossy Black Belted Midi Trench Coat XL UK 16–18
+# New York & Company Mens Oversized Leather Glossy Black Belted Midi Trench Coat XL Jacket
 
 - **Price:** £58.50
 - **Size:** UK16
