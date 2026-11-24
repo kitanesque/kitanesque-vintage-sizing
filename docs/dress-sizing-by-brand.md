@@ -4,7 +4,7 @@ description: "Dresses by brand: measured bust, waist and length against the labe
 canonical_url: https://kitanesque.co.uk/dress-sizing-by-brand/
 ---
 
-> Text copy of a Kitanesque page, taken on 22 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/dress-sizing-by-brand/](https://kitanesque.co.uk/dress-sizing-by-brand/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 23 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/dress-sizing-by-brand/](https://kitanesque.co.uk/dress-sizing-by-brand/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # Vintage Dress Sizing by Brand: Label vs Tape
 
@@ -116,7 +116,7 @@ Every dress on this page, one line each, as a plain CSV file: label, the UK size
 
 [kitanesque-dress-measurements.csv](https://kitanesque.co.uk/kitanesque-dress-measurements.csv) · 56 dresses · Free to use and quote with a link back to Kitanesque (CC BY 4.0).
 
-Dated snapshot of 26 October 2026, citable: [Zenodo (DOI 10.5281/zenodo.23674846)](https://doi.org/10.5281/zenodo.23674846) · [Hugging Face](https://huggingface.co/datasets/kitanesque/kitanesque-vintage-sizing) · [Kaggle](https://www.kaggle.com/datasets/andradalcaran/vintage-clothing-sizing-label-vs-tape) · [GitHub](https://github.com/kitanesque/kitanesque-vintage-sizing). New versions every few months; the file above is always current.
+Dated snapshot of 22 November 2026, citable: [Zenodo (DOI 10.5281/zenodo.24443705)](https://doi.org/10.5281/zenodo.24443705) · [Hugging Face](https://huggingface.co/datasets/kitanesque/kitanesque-vintage-sizing) · [Kaggle](https://www.kaggle.com/datasets/andradalcaran/vintage-clothing-sizing-label-vs-tape) · [GitHub](https://github.com/kitanesque/kitanesque-vintage-sizing). New versions every few months; the file above is always current.
 
 Related: [Size guide](https://kitanesque.co.uk/size-guide/) · [Will it fit?](https://kitanesque.co.uk/will-it-fit/) · [Jeans sizing by brand](https://kitanesque.co.uk/jeans-sizing-by-brand/) · [Knitwear sizing by brand](https://kitanesque.co.uk/knitwear-sizing-by-brand/) · [Italian, French and German sizes to UK](https://kitanesque.co.uk/italian-french-german-sizes-to-uk/) · [All women’s dresses](https://kitanesque.co.uk/product-category/women/all-womens-dresses/)
 

@@ -4,7 +4,7 @@ description: "Second-hand knitwear by brand: bust measured against the label siz
 canonical_url: https://kitanesque.co.uk/knitwear-sizing-by-brand/
 ---
 
-> Text copy of a Kitanesque page, taken on 22 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/knitwear-sizing-by-brand/](https://kitanesque.co.uk/knitwear-sizing-by-brand/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 23 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/knitwear-sizing-by-brand/](https://kitanesque.co.uk/knitwear-sizing-by-brand/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # Knitwear Sizing by Brand
 
@@ -14,19 +14,19 @@ Labels with three or more measured pieces get their own row. “Listed as” is 
 
 ## Label by label
 
-| Label | Pieces | Listed as | Bust, round | Bust vs UK standard | Runs | Length | Main fibre |
+| Label | Pieces | Listed as | Bust, round | Bust vs UK standard | Cut | Length | Main fibre |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Marks & Spencer | 6 (2 in stock) | UK 6–16 | 33–43″ | +1″ | close to the label | 21–25.5″ | Cashmere |
-| F&F | 5 (1 in stock) | UK 8–14 | 34–38″ | 0″ | close to the label | 22–24″ | Cashmere |
-| John Lewis | 5 (2 in stock) | UK 8–16 | 33–42″ | +1″ | close to the label | 20.5–24″ | Cashmere |
-| Autograph | 4 (2 in stock) | UK 6–20 | 31–47″ | −0.5″ | close to the label | 19.5–25″ | Cashmere |
-| Pure Collection | 4 (2 in stock) | UK 6–12 | 28–42″ | +2″ | close to the label | 20–25″ | Cashmere |
-| Brora | 3 (1 in stock) | UK 8–18 | 34–45″ | +1″ | close to the label | 19–28.5″ | Cashmere |
-| Phase Eight | 3 | UK 10–16 | 35.2–42″ | +0.5″ | close to the label | 20.5–22″ | Cotton |
-| Repeat | 3 (2 in stock) | UK 8–10 | 36–40″ | +3.5″ | roomy | 27–35″ | Cashmere |
-| Zara | 3 | UK 8–12 | 36–38″ | +2″ | close to the label | 27–31.5″ | Cashmere |
+| Marks & Spencer | 6 (2 in stock) | UK 6–16 | 33–43″ | +1″ | standard | 21–25.5″ | Cashmere |
+| F&F | 5 (1 in stock) | UK 8–14 | 34–38″ | 0″ | standard | 22–24″ | Cashmere |
+| John Lewis | 5 (2 in stock) | UK 8–16 | 33–42″ | +1″ | standard | 20.5–24″ | Cashmere |
+| Autograph | 4 (2 in stock) | UK 6–20 | 31–47″ | −0.5″ | standard | 19.5–25″ | Cashmere |
+| Pure Collection | 4 (2 in stock) | UK 6–12 | 28–42″ | +2″ | standard | 20–25″ | Cashmere |
+| Brora | 3 (1 in stock) | UK 8–18 | 34–45″ | +1″ | standard | 19–28.5″ | Cashmere |
+| Phase Eight | 3 | UK 10–16 | 35.2–42″ | +0.5″ | standard | 20.5–22″ | Cotton |
+| Repeat | 3 (2 in stock) | UK 8–10 | 36–40″ | +3.5″ | relaxed | 27–35″ | Cashmere |
+| Zara | 3 | UK 8–12 | 36–38″ | +2″ | standard | 27–31.5″ | Cashmere |
 
-“Runs” uses the same thresholds as our brand pages: more than 1.5″ under the standard is “runs small”, more than 2.5″ over is “roomy”, anything between is close to the label.
+“Cut” compares the bust with the UK standard for the size we listed each piece as (we size by the tape, not the label): more than 1.5″ under is a fitted cut, more than 2.5″ over a relaxed cut, anything between a standard cut.
 
 ## By the size we listed
 
@@ -50,17 +50,17 @@ Every knitted piece we have measured, whatever the brand, grouped by the UK size
 ## How to use this
 
 - Find your usual UK size in the second table and read the bust range next to it: that is what we have listed at your size.
-- A label marked “runs small” in the first table is one to size up in; “roomy” is cut for layering or an oversized look.
+- A label marked “fitted” in the first table sits close to the body for its size; “relaxed” is cut for layering or an oversized look.
 - Before you buy, open the listing: each piece carries its own measurements, and [Will it fit?](https://kitanesque.co.uk/will-it-fit/) checks them against your size.
 - Which cashmere labels are worth buying second-hand, and at what price: [our cashmere guide](https://kitanesque.co.uk/second-hand-cashmere-brands-prices/).
 
 ## Questions people ask
 
-**Does vintage knitwear run true to size?** Mostly, with a lean towards roomy. Across the 123 knitted pieces we have measured, the bust came out +1.5″ against the UK standard for the size we listed on average, and 33 of them were within 1.5 inches of it. Among the labels we have measured three or more times, Repeat came out roomiest against the UK standard for the size we listed it as (+3.5″ on average) and Autograph closest to it (−0.5″).
+**Does vintage knitwear run true to size?** We list every knit by its own measurements, not by the label, so the question becomes how roomy the cut is for its size. Across the 123 knitted pieces we have measured, the bust came out +1.5″ against the UK standard for the size we listed on average, and 33 of them were within 1.5 inches of it. Among the labels we have measured three or more times, Repeat came out roomiest against the UK standard for the size we listed it as (+3.5″ on average) and Autograph closest to it (−0.5″).
 
-**Does Marks & Spencer knitwear run small or true to size?** On the 6 Marks & Spencer pieces we measured, the bust came out +1″ against the UK standard for the size we listed on average, which we would call close to the label. The 2 pieces we listed as UK 14–16 measured 36–41″ round, against a standard of about 40″ for that size. Measured flat on each piece, not the brand's chart.
+**Does Marks & Spencer knitwear run small or true to size?** We size by the tape, not the label, so this is how the cut sits for its size. On the 6 Marks & Spencer pieces we measured, the bust came out +1″ against the UK standard for the size we listed on average: a standard cut. The 2 pieces we listed as UK 14–16 measured 36–41″ round, against a standard of about 40″ for that size. Measured flat on each piece, not the brand's chart.
 
-**Does F&F knitwear run small or true to size?** On the 5 F&F pieces we measured, the bust came out 0″ against the UK standard for the size we listed on average, which we would call close to the label. The 2 pieces we listed as UK 8–10 measured 35–38″ round, against a standard of about 34″ for that size. Measured flat on each piece, not the brand's chart.
+**Does F&F knitwear run small or true to size?** We size by the tape, not the label, so this is how the cut sits for its size. On the 5 F&F pieces we measured, the bust came out 0″ against the UK standard for the size we listed on average: a standard cut. The 2 pieces we listed as UK 8–10 measured 35–38″ round, against a standard of about 34″ for that size. Measured flat on each piece, not the brand's chart.
 
 **Where do these numbers come from?** From our own listings. Every knitted piece we sell is measured flat before it goes online, and this page reads those measurements straight from the catalogue, sold pieces included. It rebuilds itself when a piece is added or sold; the newest piece in it was listed on 22 November 2026.
 
@@ -70,6 +70,6 @@ Every piece in these tables, one line each, as a plain CSV file: brand, the UK s
 
 [kitanesque-knitwear-measurements.csv](https://kitanesque.co.uk/kitanesque-knitwear-measurements.csv) · 123 pieces · Free to use and quote with a link back to Kitanesque (CC BY 4.0).
 
-Dated snapshot of 26 October 2026, citable: [Zenodo (DOI 10.5281/zenodo.23674846)](https://doi.org/10.5281/zenodo.23674846) · [Hugging Face](https://huggingface.co/datasets/kitanesque/kitanesque-vintage-sizing) · [Kaggle](https://www.kaggle.com/datasets/andradalcaran/vintage-clothing-sizing-label-vs-tape) · [GitHub](https://github.com/kitanesque/kitanesque-vintage-sizing). All versions: [DOI 10.5281/zenodo.23452245](https://doi.org/10.5281/zenodo.23452245). New versions every few months; the file above is always current.
+Dated snapshot of 22 November 2026, citable: [Zenodo (DOI 10.5281/zenodo.24443705)](https://doi.org/10.5281/zenodo.24443705) · [Hugging Face](https://huggingface.co/datasets/kitanesque/kitanesque-vintage-sizing) · [Kaggle](https://www.kaggle.com/datasets/andradalcaran/vintage-clothing-sizing-label-vs-tape) · [GitHub](https://github.com/kitanesque/kitanesque-vintage-sizing). All versions: [DOI 10.5281/zenodo.23452245](https://doi.org/10.5281/zenodo.23452245). New versions every few months; the file above is always current.
 
 Built from the measurements on our own listings and rebuilt as pieces come and go. Jumpers, cardigans and knitted dresses; sweatshirts and fleeces are left out. Newest piece listed 22 November 2026.

@@ -4,13 +4,13 @@ description: "What the care labels on our vintage pieces actually say."
 canonical_url: https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/
 ---
 
-> Text copy of a Kitanesque page, taken on 22 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/](https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 23 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/](https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # How to Wash Vintage Cashmere, Silk and Wool: What the Care Labels Say
 
 Of the 40 cashmere care labels we have read, 11 say hand wash (9 with no temperature, 2 with one), 13 allow a machine wash, 5 say dry clean only or do not wash. 26 say dry flat and 6 say do not tumble dry. Of the 19 wool care labels we have read, 1 says hand wash (with a temperature), 4 allow a machine wash, 9 say dry clean only or do not wash. 2 say dry flat and 4 say do not tumble dry. Of the 3 silk care labels we have read, 1 says dry clean only or do not wash. 1 says dry flat.
 
-Those are the care labels on our own pieces, read from the label photos: 193 labels so far, 97 of them on pieces in stock, sold pieces included. Nothing below is a rule of ours: the table counts what the labels say, and the right-hand column is the care line we already print on each piece. When they differ, the label on the piece wins. Labels read up to 22 November 2026.
+Those are the care labels on our own pieces, read from the label photos: 194 labels so far, 98 of them on pieces in stock, sold pieces included. Nothing below is a rule of ours: the table counts what the labels say, and the right-hand column is the care line we already print on each piece. When they differ, the label on the piece wins. Labels read up to 23 November 2026.
 
 ## What the labels say, by material
 
@@ -24,7 +24,7 @@ Those are the care labels on our own pieces, read from the label photos: 193 lab
 | Viscose and rayon | 12 (5 in stock) | wash with similar colours 4 · dry clean only 3 · wash inside out 3 · iron low 3 | Hand wash cold or a 30° delicate cycle; don’t wring; dry flat or on a hanger. It can shrink in heat. |
 | Synthetics | 25 (13 in stock) | do not bleach 11 · dry flat 7 · wash inside out 7 · wash with similar colours 7 | Wash at 30°, hang to dry and use a cool iron. |
 | Leather, suede and sheepskin | 10 (7 in stock) | dry clean only 3 · specialist leather clean 3 · do not bleach 2 · machine wash 1 | Wipe with a damp cloth, condition now and then and hang on a wide hanger. Specialist leather cleaner only, never the machine. |
-| Other or not stated | 23 (10 in stock) | iron low 8 · do not bleach 7 · machine wash 6 · wash with similar colours 5 | as the label says |
+| Other or not stated | 24 (11 in stock) | iron low 9 · machine wash 7 · do not bleach 7 · tumble dry low 5 | as the label says |
 
 A label can carry several lines (wash, dry, iron, bleach), so the counts add up to more than the number of labels. Fibre is the main one on the composition tag; a cashmere-silk jumper counts as cashmere.
 
@@ -130,11 +130,11 @@ Only when the label says so. On the 40 cashmere labels we have read, 11 say hand
 
 ### Does "dry clean only" really mean it?
 
-We treat it as it reads. 23 of the 193 labels we have read say dry clean only, most of them on wool (7), cashmere (5), synthetics (4). On tailored wool and lined pieces our own care line says: Dry clean. Brush after wearing, hang on a shaped hanger and steam out creases.
+We treat it as it reads. 23 of the 194 labels we have read say dry clean only, most of them on wool (7), cashmere (5), synthetics (4). On tailored wool and lined pieces our own care line says: Dry clean. Brush after wearing, hang on a shaped hanger and steam out creases.
 
 ### Why do so many labels say "wash with similar colours" or "wash inside out"?
 
-Because the dye can run and the surface can rub. 47 labels say wash with similar colours and 43 say wash inside out; on cotton and denim alone the two lines appear 18 and 16 times (33 of the 58 cotton pieces are jeans or denim). Inside out keeps the surface, the print and the embroidery away from the drum; similar colours keeps a bleeding dye off lighter pieces.
+Because the dye can run and the surface can rub. 47 labels say wash with similar colours and 44 say wash inside out; on cotton and denim alone the two lines appear 18 and 16 times (33 of the 58 cotton pieces are jeans or denim). Inside out keeps the surface, the print and the embroidery away from the drum; similar colours keeps a bleeding dye off lighter pieces.
 
 ### How do I dry a jumper flat?
 
@@ -142,12 +142,12 @@ Because the dye can run and the surface can rub. 47 labels say wash with similar
 
 ### What does "do not bleach" mean on a vintage label?
 
-It is the most common line on the labels we have read: 60 of 193. It means no chlorine and no oxygen bleach; both strip colour and weaken the fibre, and on an old piece they also lift the age marks unevenly.
+It is the most common line on the labels we have read: 60 of 194. It means no chlorine and no oxygen bleach; both strip colour and weaken the fibre, and on an old piece they also lift the age marks unevenly.
 
 ### Where do these numbers come from?
 
-From the photographs of the labels on our own pieces, in stock and sold: 193 care labels read so far, 97 of them on pieces in stock. Each piece shows its own care line on its listing; this page adds them up and rebuilds itself when a piece is added, sold or re-read. Latest label read on 22 November 2026.
+From the photographs of the labels on our own pieces, in stock and sold: 194 care labels read so far, 98 of them on pieces in stock. Each piece shows its own care line on its listing; this page adds them up and rebuilds itself when a piece is added, sold or re-read. Latest label read on 23 November 2026.
 
 Related: [how we check whether a vintage designer piece is real](https://kitanesque.co.uk/authentication/) · [second-hand cashmere brands and prices](https://kitanesque.co.uk/second-hand-cashmere-brands-prices/) · [cashmere knitwear in stock](https://kitanesque.co.uk/product-category/women/cashmere-knitwear/) · [silk in stock](https://kitanesque.co.uk/product-category/women/silk/).
 
-Updated 22 November 2026, from the label photos on our own listings; rebuilt as pieces come and go.
+Updated 23 November 2026, from the label photos on our own listings; rebuilt as pieces come and go.

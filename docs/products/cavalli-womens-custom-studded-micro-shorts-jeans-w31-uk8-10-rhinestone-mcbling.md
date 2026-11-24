@@ -13,6 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/cavalli-womens-custom-studded-mi
 - **Brand:** Roberto Cavalli
 - **Colour:** Blue
 - **Material:** Denim
+- **Era:** Y2K
 - **Type:** Shorts
 - **Condition:** pre-owned, one of a kind
 

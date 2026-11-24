@@ -13,6 +13,7 @@ canonical_url: https://kitanesque.co.uk/product/transformazioni-tessili-floral-r
 - **Brand:** Trasformazioni Tessili
 - **Colour:** Green
 - **Material:** Cotton
+- **Era:** 90s
 - **Type:** Shirts & blouses
 - **Condition:** pre-owned, one of a kind
 

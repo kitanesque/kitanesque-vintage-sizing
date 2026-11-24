@@ -4,7 +4,7 @@ description: "How to check cashmere, with the labels from our own stock."
 canonical_url: https://kitanesque.co.uk/is-it-real-cashmere/
 ---
 
-> Text copy of a Kitanesque page, taken on 22 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/is-it-real-cashmere/](https://kitanesque.co.uk/is-it-real-cashmere/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 23 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/is-it-real-cashmere/](https://kitanesque.co.uk/is-it-real-cashmere/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # Is It Real Cashmere? What the Labels and the Fabric Tell You
 
