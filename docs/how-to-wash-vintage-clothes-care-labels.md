@@ -4,19 +4,19 @@ description: "What the care labels on our vintage pieces actually say."
 canonical_url: https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/
 ---
 
-> Text copy of a Kitanesque page, taken on 23 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/](https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 24 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/](https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # How to Wash Vintage Cashmere, Silk and Wool: What the Care Labels Say
 
-Of the 40 cashmere care labels we have read, 11 say hand wash (9 with no temperature, 2 with one), 13 allow a machine wash, 5 say dry clean only or do not wash. 26 say dry flat and 6 say do not tumble dry. Of the 19 wool care labels we have read, 1 says hand wash (with a temperature), 4 allow a machine wash, 9 say dry clean only or do not wash. 2 say dry flat and 4 say do not tumble dry. Of the 3 silk care labels we have read, 1 says dry clean only or do not wash. 1 says dry flat.
+Of the 41 cashmere care labels we have read, 12 say hand wash (10 with no temperature, 2 with one), 13 allow a machine wash, 5 say dry clean only or do not wash. 27 say dry flat and 6 say do not tumble dry. Of the 19 wool care labels we have read, 1 says hand wash (with a temperature), 4 allow a machine wash, 9 say dry clean only or do not wash. 2 say dry flat and 4 say do not tumble dry. Of the 3 silk care labels we have read, 1 says dry clean only or do not wash. 1 says dry flat.
 
-Those are the care labels on our own pieces, read from the label photos: 194 labels so far, 98 of them on pieces in stock, sold pieces included. Nothing below is a rule of ours: the table counts what the labels say, and the right-hand column is the care line we already print on each piece. When they differ, the label on the piece wins. Labels read up to 23 November 2026.
+Those are the care labels on our own pieces, read from the label photos: 195 labels so far, 99 of them on pieces in stock, sold pieces included. Nothing below is a rule of ours: the table counts what the labels say, and the right-hand column is the care line we already print on each piece. When they differ, the label on the piece wins. Labels read up to 24 November 2026.
 
 ## What the labels say, by material
 
 | Material | Labels read | Most common instructions | Our care line on the pieces |
 | --- | --- | --- | --- |
-| Cashmere | 40 (17 in stock) | dry flat 26 · wash inside out 12 · wash at 30° 10 · hand wash, no temperature 9 | Hand wash cold with a wool wash, press the water out in a towel and dry flat. Fold it rather than hang it. |
+| Cashmere | 41 (18 in stock) | dry flat 27 · wash inside out 12 · hand wash, no temperature 10 · wash at 30° 10 | Hand wash cold with a wool wash, press the water out in a towel and dry flat. Fold it rather than hang it. |
 | Wool | 19 (6 in stock) | do not bleach 7 · dry clean only 7 · iron low 5 · do not tumble dry 4 | Hand wash cold or on the wool cycle, dry flat and fold rather than hang. No tumble dryer. |
 | Silk | 3 (3 in stock) | do not bleach 3 · do not wash 1 · gentle dry clean 1 · dry flat 1 | Hand wash cold and briefly with a mild detergent, or dry clean. Don’t soak or wring; dry flat in the shade; iron low on the reverse. |
 | Cotton and denim (33 denim) | 58 (34 in stock) | machine wash 25 · do not bleach 20 · wash with similar colours 18 · wash inside out 16 | Wash at 30–40° with similar colours, hang to dry and iron medium. |
@@ -28,14 +28,14 @@ Those are the care labels on our own pieces, read from the label photos: 194 lab
 
 A label can carry several lines (wash, dry, iron, bleach), so the counts add up to more than the number of labels. Fibre is the main one on the composition tag; a cashmere-silk jumper counts as cashmere.
 
-## How to wash vintage cashmere: what 40 labels say
+## How to wash vintage cashmere: what 41 labels say
 
-Of the 40 cashmere care labels we have read, 11 say hand wash (9 with no temperature, 2 with one), 13 allow a machine wash, 5 say dry clean only or do not wash. 26 say dry flat and 6 say do not tumble dry.
+Of the 41 cashmere care labels we have read, 12 say hand wash (10 with no temperature, 2 with one), 13 allow a machine wash, 5 say dry clean only or do not wash. 27 say dry flat and 6 say do not tumble dry.
 
-- **Dry flat** (26 labels): lay it out flat to dry rather than hanging it, so the weight of the water does not stretch it
+- **Dry flat** (27 labels): lay it out flat to dry rather than hanging it, so the weight of the water does not stretch it
 - **Wash inside out** (12 labels): turn it inside out to protect the surface, the print or the embroidery
+- **Hand wash, no temperature** (10 labels): by hand in cool water, not in the machine
 - **Wash at 30°** (10 labels): machine wash at 30 °C, the cool cycle
-- **Hand wash, no temperature** (9 labels): by hand in cool water, not in the machine
 
 On our cashmere pieces we print: Hand wash cold with a wool wash, press the water out in a towel and dry flat. Fold it rather than hang it.
 
@@ -126,11 +126,11 @@ A few of the care labels behind the numbers, photographed on the pieces. Each li
 
 ### Can I machine wash vintage cashmere?
 
-Only when the label says so. On the 40 cashmere labels we have read, 11 say hand wash (9 with no temperature, 2 with one), 13 allow a machine wash and 5 say dry clean only; 26 say dry flat. On our cashmere pieces we print: Hand wash cold with a wool wash, press the water out in a towel and dry flat. Fold it rather than hang it. The label on the piece wins over any general rule.
+Only when the label says so. On the 41 cashmere labels we have read, 12 say hand wash (10 with no temperature, 2 with one), 13 allow a machine wash and 5 say dry clean only; 27 say dry flat. On our cashmere pieces we print: Hand wash cold with a wool wash, press the water out in a towel and dry flat. Fold it rather than hang it. The label on the piece wins over any general rule.
 
 ### Does "dry clean only" really mean it?
 
-We treat it as it reads. 23 of the 194 labels we have read say dry clean only, most of them on wool (7), cashmere (5), synthetics (4). On tailored wool and lined pieces our own care line says: Dry clean. Brush after wearing, hang on a shaped hanger and steam out creases.
+We treat it as it reads. 23 of the 195 labels we have read say dry clean only, most of them on wool (7), cashmere (5), synthetics (4). On tailored wool and lined pieces our own care line says: Dry clean. Brush after wearing, hang on a shaped hanger and steam out creases.
 
 ### Why do so many labels say "wash with similar colours" or "wash inside out"?
 
@@ -138,16 +138,16 @@ Because the dye can run and the surface can rub. 47 labels say wash with similar
 
 ### How do I dry a jumper flat?
 
-43 labels say dry flat, 28 of them on cashmere and wool. Flat means laid out on a towel, pushed back into shape, away from direct heat; hanging a wet knit stretches it under its own weight. On our wool knits we print: Hand wash cold or on the wool cycle, dry flat and fold rather than hang. No tumble dryer.
+44 labels say dry flat, 29 of them on cashmere and wool. Flat means laid out on a towel, pushed back into shape, away from direct heat; hanging a wet knit stretches it under its own weight. On our wool knits we print: Hand wash cold or on the wool cycle, dry flat and fold rather than hang. No tumble dryer.
 
 ### What does "do not bleach" mean on a vintage label?
 
-It is the most common line on the labels we have read: 60 of 194. It means no chlorine and no oxygen bleach; both strip colour and weaken the fibre, and on an old piece they also lift the age marks unevenly.
+It is the most common line on the labels we have read: 60 of 195. It means no chlorine and no oxygen bleach; both strip colour and weaken the fibre, and on an old piece they also lift the age marks unevenly.
 
 ### Where do these numbers come from?
 
-From the photographs of the labels on our own pieces, in stock and sold: 194 care labels read so far, 98 of them on pieces in stock. Each piece shows its own care line on its listing; this page adds them up and rebuilds itself when a piece is added, sold or re-read. Latest label read on 23 November 2026.
+From the photographs of the labels on our own pieces, in stock and sold: 195 care labels read so far, 99 of them on pieces in stock. Each piece shows its own care line on its listing; this page adds them up and rebuilds itself when a piece is added, sold or re-read. Latest label read on 24 November 2026.
 
 Related: [how we check whether a vintage designer piece is real](https://kitanesque.co.uk/authentication/) · [second-hand cashmere brands and prices](https://kitanesque.co.uk/second-hand-cashmere-brands-prices/) · [cashmere knitwear in stock](https://kitanesque.co.uk/product-category/women/cashmere-knitwear/) · [silk in stock](https://kitanesque.co.uk/product-category/women/silk/).
 
-Updated 23 November 2026, from the label photos on our own listings; rebuilt as pieces come and go.
+Updated 24 November 2026, from the label photos on our own listings; rebuilt as pieces come and go.

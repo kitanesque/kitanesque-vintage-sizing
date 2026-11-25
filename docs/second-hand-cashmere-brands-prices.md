@@ -4,7 +4,7 @@ description: "What makes cashmere expensive, and when the cheap kind is fine."
 canonical_url: https://kitanesque.co.uk/second-hand-cashmere-brands-prices/
 ---
 
-> Text copy of a Kitanesque page, taken on 23 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/second-hand-cashmere-brands-prices/](https://kitanesque.co.uk/second-hand-cashmere-brands-prices/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 24 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/second-hand-cashmere-brands-prices/](https://kitanesque.co.uk/second-hand-cashmere-brands-prices/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # What Makes Cashmere Expensive, and When the Cheap Stuff Is Fine
 

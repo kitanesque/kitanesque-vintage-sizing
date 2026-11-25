@@ -4,7 +4,7 @@ description: "Vintage jeans by brand: label waist against the tape."
 canonical_url: https://kitanesque.co.uk/jeans-sizing-by-brand/
 ---
 
-> Text copy of a Kitanesque page, taken on 23 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/jeans-sizing-by-brand/](https://kitanesque.co.uk/jeans-sizing-by-brand/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 24 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/jeans-sizing-by-brand/](https://kitanesque.co.uk/jeans-sizing-by-brand/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # Jeans Sizing by Brand
 
@@ -18,7 +18,7 @@ Labels with three or more measured pairs get their own row. “Listed as” is t
 | --- | --- | --- | --- | --- | --- | --- |
 | Silver | 8 (7 in stock) | W26–W33 | +2″ | 7–9″ | 29–32″ | W26 → UK 8 · W27 → UK 8–10 · W29 → UK 8–10 · W32 → UK 14 · W33 → UK 12–14 |
 | Maurices | 6 (5 in stock) | US/EU sizes | no W on the label | 7.5–10″ | 28.5–32.5″ | – |
-| True Religion | 6 (3 in stock) | W23–W33 | +2″ | 6.5–9″ | 27–34″ | W23 → UK 4–6 · W26 → UK 8 · W27 → UK 8 · W29 → UK 10 · W33 → UK 16 |
+| True Religion | 6 (2 in stock) | W23–W33 | +2″ | 6.5–9″ | 27–34″ | W23 → UK 4–6 · W26 → UK 8 · W27 → UK 8 · W29 → UK 10 · W33 → UK 16 |
 | Wallflower | 6 (4 in stock) | US/EU sizes | no W on the label | 8–9.5″ | 30–32.5″ | – |
 | Miss Me | 5 (2 in stock) | W25–W30 | +2″ | 7–8.5″ | 30–33.5″ | W25 → UK 8 · W26 → UK 8 · W27 → UK 8 · W30 → UK 12 |
 | l.e.i. | 4 (1 in stock) | US/EU sizes | no W on the label | 7.5–10″ | 26.5–31.5″ | – |

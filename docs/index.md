@@ -19,8 +19,8 @@ Text copies of the guides on [kitanesque.co.uk](https://kitanesque.co.uk/), a UK
 
 ## Pieces in stock
 
-[All 371 pieces in stock, with size, price and measurements](products/index.md), one page per piece.
+[All 377 pieces in stock, with size, price and measurements](products/index.md), one page per piece.
 
 The measurements are also published as open data (CSV, CC BY 4.0): [DOI 10.5281/zenodo.23452245](https://doi.org/10.5281/zenodo.23452245).
 
-Copies taken on 23 November 2026.
+Copies taken on 24 November 2026.
