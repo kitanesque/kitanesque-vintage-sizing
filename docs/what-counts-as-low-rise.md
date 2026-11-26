@@ -4,15 +4,15 @@ description: "Front rise measured on our vintage jeans: where low-rise starts an
 canonical_url: https://kitanesque.co.uk/what-counts-as-low-rise/
 ---
 
-> Text copy of a Kitanesque page, taken on 24 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/what-counts-as-low-rise/](https://kitanesque.co.uk/what-counts-as-low-rise/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 25 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/what-counts-as-low-rise/](https://kitanesque.co.uk/what-counts-as-low-rise/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # What Counts as Low-Rise? Rise Measured on Vintage Jeans
 
-On the 145 pairs of jeans we have measured flat, the front rise runs from 6″ to 12.5″ with a median of 8.5″; 59 of them (41 %) sit at 8″ or under, which is what we call low-rise.
+On the 147 pairs of jeans we have measured flat, the front rise runs from 6″ to 12.5″ with a median of 8.5″; 60 of them (41 %) sit at 8″ or under, which is what we call low-rise.
 
 Our working bands, on the front rise measured flat from the crotch seam to the top of the waistband: **low** under 8.5″ (8″ or under on a tape read to the half inch), with **ultra-low** under 7″ as the lowest part of it; **mid** 8.5–10.5″; **high** over 10.5″. The same bands as our fit checker and [size guide](https://kitanesque.co.uk/size-guide/). Brands name the same measurement differently on the label and in their charts; the tape is what we go by. Our [Low-rise jeans](https://kitanesque.co.uk/product-category/women/low-rise-jeans/) category collects every pair at 8″ or under, plus the pairs the label itself calls low-rise.
 
-## Where the 145 pairs sit
+## Where the 147 pairs sit
 
 Pairs per half inch of front rise, in stock and sold. One bar is one half-inch step.
 
@@ -20,7 +20,7 @@ Pairs per half inch of front rise, in stock and sold. One bar is one half-inch s
 
 6.5″: 3
 
-7″: 20
+7″: 21
 
 7.5″: 20
 
@@ -42,9 +42,9 @@ Pairs per half inch of front rise, in stock and sold. One bar is one half-inch s
 
 12″: 1
 
-12.5″: 1
+12.5″: 2
 
-Ultra-low under 7″: 6 pairs · Low 7″ to under 8.5″: 53 pairs · Mid 8.5–10.5″: 75 pairs · High over 10.5″: 11 pairs
+Ultra-low under 7″: 6 pairs · Low 7″ to under 8.5″: 54 pairs · Mid 8.5–10.5″: 75 pairs · High over 10.5″: 12 pairs
 
 ## Label by label
 
@@ -59,7 +59,9 @@ Labels with 3 or more measured pairs. The rise is our tape on each pair; “smal
 | Miss Me | 5 | 7″ | 7.5″ | 8.5″ | Y2K | 28″ round | 2 |
 | l.e.i. | 4 | 7.5″ | 9″ | 10″ | Y2K | 29″ round | 1 |
 | Wrangler | 4 | 7″ | 9″ | 10″ | Y2K | 28″ round | 3 |
+| ASOS | 3 | 11.5″ | 11.5″ | 12.5″ | Y2K | 28″ round | 3 |
 | Cato | 3 | 9″ | 9.5″ | 10.5″ | Y2K | 29″ round | 3 |
+| Miss Sixty | 3 | 6″ | 7″ | 8.5″ | Y2K | 31″ round | 2 |
 
 ## Era by era
 
@@ -67,7 +69,7 @@ The era is the tag on the listing (Y2K, 90s and so on); pairs without a decade o
 
 | Era | Pairs | Rise, median | At 8″ or under | Lowest | Highest |
 | --- | --- | --- | --- | --- | --- |
-| Y2K | 89 | 8.5″ | 36 | 6″ | 12.5″ |
+| Y2K | 91 | 8.5″ | 37 | 6″ | 12.5″ |
 | 90s | 3 (too few to call a rule) | 11.5″ | 0 | 11″ | 11.5″ |
 | No era on the label | 53 | 8.5″ | 23 | 6.5″ | 11.5″ |
 
@@ -78,7 +80,7 @@ The era is the tag on the listing (Y2K, 90s and so on); pairs without a decade o
 - [Rock Revival Womens Ultra low 6.5” rise slim jeans W26 L30.5 UK…](https://kitanesque.co.uk/product/rock-revival-womens-ultra-low-6-5-rise-slim-jeans-w26-l30-5-uk-8-y2k-00s-stitch/) — rise 6.5″ · waistband 27″ round (W26) · listed as UK 8 · £58.50
 - [Garage Womens Y2K Ultra Low 6.5”Rise Flare Petite Jeans UK 8…](https://kitanesque.co.uk/product/garage-womens-y2k-ultra-low-6-5rise-flare-petite-jeans-uk-8-w31-l30-embroidered/) — rise 6.5″ · waistband 31″ round · listed as UK 8 · £34
 
-### Low (7″ to under 8.5″): 32 in stock
+### Low (7″ to under 8.5″): 33 in stock
 
 - [Miss Me Y2K Womens low rise 7”embellished embroidered bootcut…](https://kitanesque.co.uk/product/miss-me-y2k-womens-low-rise-7embellished-embroidered-bootcut-jeans-w26l32-5-uk8/) — rise 7″ · waistband 28″ round (W26) · listed as UK 8 · £45
 - [Rock Revival Womens distressed low 7” rise bootcut jeans W26…](https://kitanesque.co.uk/product/rock-revival-womens-distressed-low-7-rise-bootcut-jeans-w26-l30-5-uk-8-y2k-00s/) — rise 7″ · waistband 29″ round (W26) · listed as UK 8 · £58.50
@@ -92,6 +94,7 @@ The era is the tag on the listing (Y2K, 90s and so on); pairs without a decade o
 - [Miss Me Womens Low 7”Rise Straight Jeans W27 L33.5 UK 8 Y2K…](https://kitanesque.co.uk/product/miss-me-womens-low-7rise-straight-jeans-w27-l33-5-uk-8-y2k-embellished-pocket/) — rise 7″ · waistband 29″ round (W27) · listed as UK 8 · £39.50
 - [Citizens of Humanity Womens Low 7”Rise Bootcut Jeans W30 L31.5…](https://kitanesque.co.uk/product/citizens-of-humanity-womens-low-7rise-bootcut-jeans-w30-l31-5-uk-8-10-sequin/) — rise 7″ · waistband 32″ round (W30) · listed as UK 8–10 · £40.50
 - [Wrangler Womens Y2K Low 7”Rise Bootcut Jeans W28 L32 UK 8…](https://kitanesque.co.uk/product/wrangler-womens-y2k-low-7rise-bootcut-jeans-w28-l32-uk-8-embroidered-w-western/) — rise 7″ · waistband 28″ round · listed as UK 8 · £18
+- [Miss Sixty Y2K Ultra Low 7”Rise Flared Jeans W30 L32 UK 10 Made…](https://kitanesque.co.uk/product/miss-sixty-y2k-ultra-low-7rise-flared-jeans-w30-l32-uk-10-made-in-italy-faded-blue-stretch/) — rise 7″ · waistband 34″ round (W30) · listed as UK 10 · £37.50
 - [Moschino Women Embroidery Sashiko Patch Low Rise 7.5” W29L31 UK…](https://kitanesque.co.uk/product/moschino-women-embroidery-sashiko-patch-low-rise-7-5-w29l31-uk-10-bootcut-jeans/) — rise 7.5″ · waistband 31″ round · listed as UK 10 · £145
 - [Roberto Cavalli Womens leopard print slim bootcut jeans low…](https://kitanesque.co.uk/product/roberto-cavalli-womens-leopard-print-slim-bootcut-jeans-low-rise-7-5-w29l34-uk8/) — rise 7.5″ · waistband 27″ round (W29) · listed as UK 8 · £85.50
 - [True Religion Julie Womens Low rise 7.5” slim skinny W23L29.5”…](https://kitanesque.co.uk/product/true-religion-julie-womens-low-rise-7-5-slim-skinny-w23l29-5-uk-4-6-blue-jeans/) — rise 7.5″ · waistband 24″ round (W23) · listed as UK 4–6 · £36
@@ -113,7 +116,7 @@ The era is the tag on the listing (Y2K, 90s and so on); pairs without a decade o
 - [Privacy Wear Womens Y2K Low 8”Rise Bootcut Jeans W37L29 UK…](https://kitanesque.co.uk/product/privacy-wear-womens-y2k-low-8rise-bootcut-jeans-w37l29-uk-16-18-contrast-stitch/) — rise 8″ · waistband 37″ round · listed as UK 16–18 · £24
 - [Wallflower low 8”rise blue bootcut jeans W27 L30.5 UK 10…](https://kitanesque.co.uk/product/wallflower-low-8rise-blue-bootcut-jeans-w27-l30-5-uk-10-stretchy-embroidered-stitch-pocket-y2k/) — rise 8″ · waistband 27″ round · listed as UK 10 · £19.50
 
-### Mid (8.5–10.5″): 53 in stock
+### Mid (8.5–10.5″): 52 in stock
 
 - [WallFlower Y2K Flared Low rise 8.5” Bootcut Blue Jeans W27 L30…](https://kitanesque.co.uk/product/wallflower-womens-low-rise-8-5-bootcut-flared-jeans-w27-l30-uk8-stitch-pocket/) — rise 8.5″ · waistband 27″ round · listed as UK 8–10 · £22.50
 - [Axcess Liz Claiborne Womens Low Rise 8.5” Bootcut Flare Jeans…](https://kitanesque.co.uk/product/axcess-liz-claiborne-womens-low-rise-8-5-bootcut-flare-jeans-uk10-s-w29-stitch/) — rise 8.5″ · waistband 29″ round · listed as UK 10 · £25
@@ -125,7 +128,6 @@ The era is the tag on the listing (Y2K, 90s and so on); pairs without a decade o
 - [Vigold Womens Y2K Low 8.5”Rise Sweet Flare Jeans UK 12-14 W35…](https://kitanesque.co.uk/product/vigold-womens-y2k-low-8-5rise-sweet-flare-jeans-uk-12-14-w35-l32-5-embroidered/) — rise 8.5″ · waistband 35″ round · listed as UK 12–14 · £31.50
 - [Maurices womens bootcut low 8.5”rise blue jeans UK12 W32L28.5…](https://kitanesque.co.uk/product/maurices-womens-bootcut-low-8-5rise-blue-jeans-uk12-w32l28-5-petite-embroidered/) — rise 8.5″ · waistband 32″ round · listed as UK 12 · £21.50
 - [True Religion Womens Custom Hand Painted Bootcut Jeans W29L34…](https://kitanesque.co.uk/product/true-religion-womens-custom-hand-painted-bootcut-jeans-w29l34-uk-10-low-8-5rise/) — rise 8.5″ · waistband 31″ round (W29) · listed as UK 10 · £55
-- [Warehouse One Womens Low 8.5”Rise Bootcut Jeans W29 L35 Tall UK…](https://kitanesque.co.uk/product/warehouse-one-womens-low-8-5rise-bootcut-jeans-w29-l35-tall-uk-10-embroidered/) — rise 8.5″ · waistband 31″ round (W29) · listed as UK 10 · £25
 - [Rock & Roll Denim Y2K Low 8.5”Rise Bootcut Jeans W27 L29 UK 6-8…](https://kitanesque.co.uk/product/rock-roll-denim-y2k-low-8-5rise-bootcut-jeans-w27-l29-uk-6-8-stitch-western/) — rise 8.5″ · waistband 27″ round · listed as UK 6–8 · £24
 - [Wallflower Flare low 8.5”rise blue jeans W34 L30 UK 12-14…](https://kitanesque.co.uk/product/wallflower-flare-low-8-5rise-blue-jeans-w34-l30-uk-12-14-embroidered-stitch-pocket-y2k-00s/) — rise 8.5″ · waistband 34″ round · listed as UK 12–14 · £29.50
 - [Earl Jeans Womens Low 9” Rise W31 L31 UK10 Embellished Chunky…](https://kitanesque.co.uk/product/earl-jeans-womens-low-9-rise-w31-l31-uk10-embellished-chunky-rhinestone-bootcut/) — rise 9″ · waistband 31″ round · listed as UK 10 · £24
@@ -169,23 +171,24 @@ The era is the tag on the listing (Y2K, 90s and so on); pairs without a decade o
 - [NCE Nucleo Y2K Mid 10.5”Rise Bootcut Jeans W36 L32 UK 16-18…](https://kitanesque.co.uk/product/nce-nucleo-y2k-mid-10-5rise-bootcut-jeans-w36-l32-uk-16-18-embroidered-rhinestone-flare-denim/) — rise 10.5″ · waistband 36″ round · listed as UK 16–18 · £18
 - [Style & Co Y2K Mid 10.5”Rise Bootcut Jeans UK 14 W33 L33 Dark…](https://kitanesque.co.uk/product/style-co-y2k-mid-10-5rise-bootcut-jeans-uk-14-w33-l33-dark-wash-embroidered-pocket-stretch-denim/) — rise 10.5″ · waistband 33″ round · listed as UK 14 · £21.50
 
-### High (over 10.5″): 5 in stock
+### High (over 10.5″): 6 in stock
 
 - [Bianca Womens indigo high 11” rise embroidered floral capri…](https://kitanesque.co.uk/product/bianca-womens-indigo-high-11-rise-embroidered-floral-capri-jeans-w27l25-uk-8-10/) — rise 11″ · waistband 27″ round · listed as UK 8–10 · £34
 - [Diesel Custom Wide Baggy Leg Jeans W29L31 UK 10 High 11”Rise…](https://kitanesque.co.uk/product/diesel-custom-wide-baggy-leg-jeans-w29l31-uk-10-high-11rise-lace-up-leopard-zip/) — rise 11″ · waistband 31″ round (W29) · listed as UK 10 · £115
 - [Vagabond womens wide leg jeans W30 L30 UK 8-10 blue pleated…](https://kitanesque.co.uk/product/vagabond-womens-wide-leg-jeans-w30-l30-uk-8-10-blue-pleated-high-rise-11-5/) — rise 11.5″ · waistband 30″ round · listed as UK 8–10 · £31.50
 - [ASOS Womens High Rise 11.5” Wide Leg Jeans W26 30 UK 8 Tan…](https://kitanesque.co.uk/product/asos-womens-high-rise-11-5-wide-leg-jeans-w26-30-uk-8-tan-brown-baggy-denim/) — rise 11.5″ · waistband 28″ round (W26) · listed as UK 8 · £19.50
 - [ASOS Womens High Rise 11.5” Wide Leg Flare Black Jeans W26…](https://kitanesque.co.uk/product/asos-womens-high-rise-11-5-wide-leg-flare-black-jeans-w26-l28-5-uk-8-baggy-y2k/) — rise 11.5″ · waistband 29″ round (W26) · listed as UK 8 · £19.50
+- [Asos High 12.5”Rise Baggy Barrel Dad Jeans W28 L30.5 UK 8…](https://kitanesque.co.uk/product/asos-high-12-5rise-baggy-barrel-dad-jeans-w28-l30-5-uk-8-washed-sand-beige-relaxed-wide-leg-y2k/) — rise 12.5″ · waistband 28″ round (W28) · listed as UK 8 · £14
 
 ## Questions about rise
 
 ### Is an 8-inch rise low-rise?
 
-Yes, on our tape. Our low band is everything under 8.5″, so on a tape read to the half inch an 8″ front rise is the top of it: of the 145 pairs of jeans we have measured flat, 59 sit at 8″ or under and go into our Low-rise jeans category. At 8.5″ a pair reads as mid-rise here, mid runs to 10.5″, and over 10.5″ is high. The median across everything we have measured is 8.5″. Brands name the same measurement differently on the label, so we go by the tape, not the chart.
+Yes, on our tape. Our low band is everything under 8.5″, so on a tape read to the half inch an 8″ front rise is the top of it: of the 147 pairs of jeans we have measured flat, 60 sit at 8″ or under and go into our Low-rise jeans category. At 8.5″ a pair reads as mid-rise here, mid runs to 10.5″, and over 10.5″ is high. The median across everything we have measured is 8.5″. Brands name the same measurement differently on the label, so we go by the tape, not the chart.
 
 ### What rise did Y2K jeans have?
 
-On the 89 pairs tagged Y2K that we have measured, the median front rise is 8.5″; 36 of them sit at 8″ or under and the lowest is 6″. The 3 pairs tagged 90s on our rail sit higher, with a median of 11.5″, though that is too few to call a rule. Our tape, laid flat, not the brand's chart.
+On the 91 pairs tagged Y2K that we have measured, the median front rise is 8.5″; 37 of them sit at 8″ or under and the lowest is 6″. The 3 pairs tagged 90s on our rail sit higher, with a median of 11.5″, though that is too few to call a rule. Our tape, laid flat, not the brand's chart.
 
 ### How do I measure the rise?
 
@@ -193,20 +196,20 @@ Lay the jeans flat and buttoned, then measure the front from the crotch seam, wh
 
 ### Does low-rise mean a smaller waist?
 
-No. A low rise puts the waistband lower, on the hips, where the body is wider, so the waistband measures more than the number on the label, not less. On our low and ultra-low pairs the waistband measures on average 2.5″ more than the label number; on our mid and high pairs, 2.2″ more. The label waist tells you the size the pair was cut for; the waistband measurement in the listing tells you where it will actually sit.
+No. A low rise puts the waistband lower, on the hips, where the body is wider, so the waistband measures more than the number on the label, not less. On our low and ultra-low pairs the waistband measures on average 2.6″ more than the label number; on our mid and high pairs, 2.1″ more. The label waist tells you the size the pair was cut for; the waistband measurement in the listing tells you where it will actually sit.
 
 ### Are low-rise jeans back?
 
-We cannot speak for fashion, but we can count. Of the 145 pairs of jeans we have measured, 59 sit at 8″ or under, and 34 of those are in stock right now. Most of them date from the Y2K years: 36 of the 89 Y2K pairs we have measured are low or ultra-low. Every pair on this page links to its listing, with the full measurements.
+We cannot speak for fashion, but we can count. Of the 147 pairs of jeans we have measured, 60 sit at 8″ or under, and 35 of those are in stock right now. Most of them date from the Y2K years: 37 of the 91 Y2K pairs we have measured are low or ultra-low. Every pair on this page links to its listing, with the full measurements.
 
 ## Download the data
 
 Every pair on this page, one line each, as a plain CSV file: brand, label waist, era, the front rise measured flat and the band it falls in (ultra-low, low, mid or high), waistband measured round, inside leg, the UK size we listed it as, women’s or men’s cut, in stock or sold, the date it was listed and a link to the listing. The file is generated from the live catalogue, so it is as current as the numbers above.
 
-[kitanesque-rise-measurements.csv](https://kitanesque.co.uk/kitanesque-rise-measurements.csv) · 145 pairs · Free to use and quote with a link back to Kitanesque (CC BY 4.0).
+[kitanesque-rise-measurements.csv](https://kitanesque.co.uk/kitanesque-rise-measurements.csv) · 147 pairs · Free to use and quote with a link back to Kitanesque (CC BY 4.0).
 
 Dated snapshot of 22 November 2026, citable: [Zenodo (DOI 10.5281/zenodo.24443705)](https://doi.org/10.5281/zenodo.24443705) · [Hugging Face](https://huggingface.co/datasets/kitanesque/kitanesque-vintage-sizing) · [Kaggle](https://www.kaggle.com/datasets/andradalcaran/vintage-clothing-sizing-label-vs-tape) · [GitHub](https://github.com/kitanesque/kitanesque-vintage-sizing). New versions every few months; the file above is always current.
 
 **Related:** [Jeans sizing by brand](https://kitanesque.co.uk/jeans-sizing-by-brand/) · [How we measure jeans: waist, rise, inseam](https://kitanesque.co.uk/how-to-measure-jeans-waist-rise-inseam/) · [Low-rise jeans in stock](https://kitanesque.co.uk/product-category/women/low-rise-jeans/) · [Y2K low-rise jeans brands](https://kitanesque.co.uk/y2k-low-rise-jeans-brands/) · [Will it fit?](https://kitanesque.co.uk/will-it-fit/)
 
-Built from the measurements on our own listings and rebuilt as pieces come and go; jeans only, in stock and sold, trousers and shorts left out. Updated 22 November 2026.
+Built from the measurements on our own listings and rebuilt as pieces come and go; jeans only, in stock and sold, trousers and shorts left out. Updated 25 November 2026.

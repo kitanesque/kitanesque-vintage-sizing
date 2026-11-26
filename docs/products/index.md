@@ -6,9 +6,9 @@ canonical_url: https://kitanesque.co.uk/shop/
 
 # Pieces in stock at Kitanesque
 
-377 one-off pieces in stock. Clothing is measured flat, by hand. Prices in GBP, UK delivery. The shop itself, with photos and checkout, is at [kitanesque.co.uk/shop/](https://kitanesque.co.uk/shop/). Copies taken on 24 November 2026.
+383 one-off pieces in stock. Clothing is measured flat, by hand. Prices in GBP, UK delivery. The shop itself, with photos and checkout, is at [kitanesque.co.uk/shop/](https://kitanesque.co.uk/shop/). Copies taken on 25 November 2026.
 
-## Jeans (92)
+## Jeans (93)
 
 - [9th&Main womens low-mid rise 9” flare jeans petite W27 L28 UK 8-10 dark stitch](9thmain-womens-low-mid-rise-9-flare-jeans-petite-w27-l28-uk-8-10-dark-stitch.md) - UK10 · £19.50
 - [ASOS Womens High Rise 11.5” Wide Leg Flare Black Jeans W26 L28.5 UK 8 Baggy Y2K](asos-womens-high-rise-11-5-wide-leg-flare-black-jeans-w26-l28-5-uk-8-baggy-y2k.md) - UK8 · £19.50
@@ -20,6 +20,7 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Anoname Womens Y2K Low 8”Rise Flare Jeans W29L33 UK10 Studded Embroidered Floral](anoname-womens-y2k-low-8rise-flare-jeans-w29l33-uk10-studded-embroidered-floral.md) - UK10 · £28.50
 - [Apt.9 Womens Y2K Low-Mid Rise 9” Bootcut Jeans W33 L31.5 UK12 Flap Pocket Stitch](apt-9-womens-y2k-low-mid-rise-9-bootcut-jeans-w33-l31-5-uk12-flap-pocket-stitch.md) - UK12 · £25
 - [Arya Womens Bootcut Flare low 8”rise blue jeans W34 L28 UK 12-14 embroidered y2k](arya-womens-bootcut-flare-low-8rise-blue-jeans-w34-l28-uk-12-14-embroidered-y2k.md) - UK12 · £18
+- [Asos High 12.5”Rise Baggy Barrel Dad Jeans W28 L30.5 UK 8 Washed Sand Beige Relaxed Wide Leg Y2K](asos-high-12-5rise-baggy-barrel-dad-jeans-w28-l30-5-uk-8-washed-sand-beige-relaxed-wide-leg-y2k.md) - UK8 · £14
 - [Axcess Liz Claiborne Womens Low Rise 8.5” Bootcut Flare Jeans UK10/S W29 Stitch](axcess-liz-claiborne-womens-low-rise-8-5-bootcut-flare-jeans-uk10-s-w29-stitch.md) - UK10 · £25
 - [B.S Jeans Womens Y2K Mid 10”Rise Bootcut Flare Jeans UK 10 W29L30.5 Embroidered](b-s-jeans-womens-y2k-mid-10rise-bootcut-flare-jeans-uk-10-w29l30-5-embroidered.md) - UK10 · £23
 - [BKE Womens Low 7”Rise Flare Jeans W30 L30.5 UK 10-12 Y2K Flap Contrast Stitch](bke-womens-low-7rise-flare-jeans-w30-l30-5-uk-10-12-y2k-flap-contrast-stitch.md) - UK10 · £35
@@ -60,6 +61,7 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Miss Me Womens Low 7”Rise Straight Jeans W27 L33.5 UK 8 Y2K Embellished Pocket](miss-me-womens-low-7rise-straight-jeans-w27-l33-5-uk-8-y2k-embellished-pocket.md) - UK8 · £39.50
 - [Miss Me Y2K Womens low rise 7”embellished embroidered bootcut jeans W26L32.5 UK8](miss-me-y2k-womens-low-rise-7embellished-embroidered-bootcut-jeans-w26l32-5-uk8.md) - UK8 · £45
 - [Miss Sixty Womens Petite Low Rise 8.5” Off-White Bootcut Jeans W28 L27.5 UK 8](miss-sixty-womens-petite-low-rise-8-5-off-white-bootcut-jeans-w28-l27-5-uk-8.md) - UK8 · £36
+- [Miss Sixty Y2K Ultra Low 7”Rise Flared Jeans W30 L32 UK 10 Made in Italy Faded Blue Stretch](miss-sixty-y2k-ultra-low-7rise-flared-jeans-w30-l32-uk-10-made-in-italy-faded-blue-stretch.md) - UK10 · £37.50
 - [Moschino Women Embroidery Sashiko Patch Low Rise 7.5” W29L31 UK 10 Bootcut Jeans](moschino-women-embroidery-sashiko-patch-low-rise-7-5-w29l31-uk-10-bootcut-jeans.md) - UK10 · £145
 - [NCE Nucleo Y2K Mid 10.5”Rise Bootcut Jeans W36 L32 UK 16-18 Embroidered Rhinestone Flare Denim](nce-nucleo-y2k-mid-10-5rise-bootcut-jeans-w36-l32-uk-16-18-embroidered-rhinestone-flare-denim.md) - UK16 · £18
 - [Paige Womens Y2K Low 8”Rise Flared Jeans W29 L31 UK 10 Embroidered Rhinestone](paige-womens-y2k-low-8rise-flared-jeans-w29-l31-uk-10-embroidered-rhinestone.md) - UK10 · £32
@@ -95,7 +97,6 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Wallflower Flare low 8.5”rise blue jeans W34 L30 UK 12-14 embroidered stitch pocket y2k 00s](wallflower-flare-low-8-5rise-blue-jeans-w34-l30-uk-12-14-embroidered-stitch-pocket-y2k-00s.md) - UK12 · £29.50
 - [Wallflower low 8”rise blue bootcut jeans W27 L30.5 UK 10 Stretchy embroidered stitch pocket y2k](wallflower-low-8rise-blue-bootcut-jeans-w27-l30-5-uk-10-stretchy-embroidered-stitch-pocket-y2k.md) - UK10 · £19.50
 - [Wallflower y2k mid 9.5”rise blue flared bootcut jeans W33 L30 UK 12-14 embroidered stitch pocket](wallflower-y2k-mid-9-5rise-blue-flared-bootcut-jeans-w33-l30-uk-12-14-embroidered-stitch-pocket.md) - UK12 · £24
-- [Warehouse One Womens Low 8.5”Rise Bootcut Jeans W29 L35 Tall UK 10 Embroidered](warehouse-one-womens-low-8-5rise-bootcut-jeans-w29-l35-tall-uk-10-embroidered.md) - UK10 · £25
 - [White House womens bootcut flare black jeans low rise 8.5” W32 L28.5 UK 12 y2k](white-house-womens-bootcut-flare-black-jeans-low-rise-8-w32-l28-5-uk-12-y2k.md) - UK12 · £25
 - [Womens Y2K Mid 10.5”Rise Bootcut Jeans W33 L32 UK 16-18 Rhinestone Flap Pockets](womens-y2k-mid-10-5rise-bootcut-jeans-w33-l32-uk-16-18-rhinestone-flap-pockets.md) - UK16 · £18
 - [Womens y2k Flare mid 9”rise blue jeans W27 L29 Petite UK 8 embroidered flap 00s](womens-y2k-flare-mid-9rise-blue-jeans-w27-l29-petite-uk-8-embroidered-flap-00s.md) - UK8 · £13.50
@@ -172,6 +173,38 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Tahari Womens Pure 100% Cashmere Jumper Grey UK 12 Stitch Oversized Sweater](tahari-womens-pure-100-cashmere-jumper-grey-uk-12-stitch-oversized-sweater.md) - UK12 · £43
 - [Tulchan 90s Womens 100% new wool red embroidered chunky boxy knit jumper UK 8-10](tulchan-90s-womens-100-new-wool-red-embroidered-chunky-boxy-knit-jumper-uk-8-10.md) - UK10 · £58.50
 
+## Sweatshirts (29)
+
+- [Basic Editions Vintage 90s Christmas Bells Sweatshirt Cream Embroidered Xmas](basic-editions-vintage-90s-christmas-bells-sweatshirt-cream-embroidered-xmas.md) - £21.50
+- [Bo+Tee womens red embroidered heart cropped oversized sweatshirt UK 10–12 boxy](botee-womens-red-embroidered-heart-cropped-oversized-sweatshirt-uk-10-12-boxy.md) - UK10 · £15
+- [Calvin Klein & Andy Warhol Portrait Pinup Print Sweatshirt White Pink XS UK 6-8-10 Pop-Art Y2k](calvin-klein-x-andy-warhol-portrait-print-sweatshirt-white-pink-xs-pop-art-y2k.md) - UK6 · £27
+- [Diesel womens reversible sequin logo black sweatshirt UK8–10 shimmer silver star](diesel-womens-reversible-sequin-logo-black-sweatshirt-uk8-10-shimmer-silver-star.md) - UK8 · £33
+- [Disney Stitch Light Up Christmas Blue Sweatshirt UK 8 Merry Stitchmas Navy Fair Isle Crewneck LED](disney-stitch-light-up-christmas-blue-sweatshirt-uk-8-merry-stitchmas-navy-fair-isle-crewneck-led.md) - UK8 · £18
+- [Freeze Light Up Christmas Black Sweatshirt UK 10-12 Black Jingle All The Way Xmas Lights Led](freeze-light-up-christmas-black-sweatshirt-uk-10-12-black-jingle-all-the-way-xmas-lights-led.md) - UK10 · £13.50
+- [Fruit of the Loom Vintage 1998 Jingle Bell Run Crewneck Sweatshirt XL Grey Christmas 90s](fruit-of-the-loom-vintage-1998-jingle-bell-run-crewneck-sweatshirt-xl-grey-christmas-90s.md) - XL · £21.50
+- [Fruit of the Loom Womens 90s Christmas Sweatshirt L Cowboy Snowman Horse Cream](fruit-of-the-loom-womens-90s-christmas-sweatshirt-l-cowboy-snowman-horse-cream.md) - L · £23
+- [Ghostbusters Christmas Jumper S UK 8-10 Black Orange Ugly Sweatshirt Retro 80s Ghost Movie](ghostbusters-christmas-jumper-s-uk-8-10-black-orange-ugly-sweatshirt-retro-80s-ghost-movie.md) - UK10 · £10.50
+- [Gildan Christmas Jumper Sweatshirt Unisex M UK 12-14 Green Reindeer Sunglasses Ugly Xmas Crewneck](gildan-christmas-jumper-sweatshirt-unisex-m-uk-12-14-green-reindeer-sunglasses-ugly-xmas-crewneck.md) - UK12 · £15
+- [Gildan Christmas UK 14-16 Black Moose Fair Isle Ugly Christmas Sweatshirt Unisex Crewneck](gildan-christmas-uk-14-16-black-moose-fair-isle-ugly-christmas-sweatshirt-unisex-crewneck.md) - UK14 · £15
+- [Gildan Touchdown Jesus Clemson Tigers Oversized Christmas Sweatshirt XL Purple Orange Football](gildan-touchdown-jesus-clemson-tigers-oversized-christmas-sweatshirt-xl-purple-orange-football.md) - XL · £19.50
+- [Hasting & Smith Vintage Embroidered Sweatshirt 2X UK 22 Bridge Autumn Grannycore](hasting-smith-vintage-embroidered-sweatshirt-2x-uk-22-bridge-autumn-grannycore.md) - UK22 · £18
+- [Holiday Time World's Tallest Elf Christmas Red Ugly Sweatshirt Funny Xmas Oversized Crewneck Fleece](holiday-time-worlds-tallest-elf-christmas-red-ugly-sweatshirt-funny-xmas-oversized-crewneck-fleece.md) - £10.50
+- [Jerzees Womens 90s Collared Sweatshirt UK 10-12 Purple Applique Diva Lady Hat](jerzees-womens-90s-collared-sweatshirt-uk-10-12-purple-applique-diva-lady-hat.md) - UK10 · £25
+- [Lee Heavyweight 90s USPS Christmas Sweatshirt XL Green Santa Candy crewneck](lee-heavyweight-90s-usps-christmas-sweatshirt-xl-green-santa-candy-crewneck.md) - XL · £30.50
+- [M&C Sportswear Vintage Let It Snow Polar Bear Embroidered Sweatshirt UK 12 Xmas](mc-sportswear-vintage-let-it-snow-polar-bear-embroidered-sweatshirt-uk-12-xmas.md) - UK12 · £21.50
+- [Mad Engine Christmas Sweatshirt Red Stay Cool Snowman Graphic Festive Jumper Crew Neck](mad-engine-christmas-sweatshirt-red-stay-cool-snowman-graphic-festive-crew-neck.md) - £9
+- [Morning Star Vintage 90s Embroidered Hug a Snowman Christmas Crewneck Sweatshirt UK 10-12 Grey](morning-star-vintage-90s-embroidered-hug-a-snowman-christmas-crewneck-sweatshirt-uk-10-12-grey.md) - UK10 · £19.50
+- [Morning Sun Vintage 90s Four Seasons Tree Sweatshirt M Navy Green Mock Neck USA](morning-sun-vintage-90s-four-seasons-tree-sweatshirt-m-navy-green-mock-neck-usa.md) - M · £28.50
+- [Northern Reflections Vintage 90s Snowman crewneck Sweatshirt M UK 12 Cream White Christmas](northern-reflections-vintage-90s-snowman-crewneck-sweatshirt-m-uk-12-cream-white-christmas.md) - UK12 · £21.50
+- [Spencer's Ho Ho Hammered Christmas Sweatshirt M Green Glitter Santa Reindeer](spencers-ho-ho-hammered-christmas-sweatshirt-m-green-glitter-santa-reindeer.md) - M · £13.50
+- [Star Wars Christmas Jumper L Grey Darth Vader Stormtrooper Fair Isle Print Sweatshirt Gildan Unisex](star-wars-christmas-jumper-l-grey-darth-vader-stormtrooper-fair-isle-print-sweatshirt-gildan-unisex.md) - L · £19.50
+- [Star Wars Darth Vader Christmas Jumper Sweatshirt M UK 12 Sithmas Red Xmas](star-wars-darth-vader-christmas-jumper-sweatshirt-m-uk-12-sithmas-red-xmas.md) - UK12 · £15
+- [Time and Tru Christmas Crewneck Sweatshirt XL Red Bleached Santa Ho Ho Ho Jumper](time-and-tru-christmas-crewneck-sweatshirt-xl-red-bleached-santa-ho-ho-ho-jumper.md) - XL · £9
+- [Top Stitch 90s Christmas Sweatshirt Cat Santa Glitter Oversized Crewneck Black](top-stitch-90s-christmas-sweatshirt-cat-santa-glitter-oversized-crewneck-black.md) - £21.50
+- [Top Stitch Morning Sun 90s Christmas Sweatshirt Kittens Oversized crewneck black](top-stitch-morning-sun-90s-christmas-sweatshirt-kittens-oversized-crewneck-black.md) - £28.50
+- [Valories Folk Art Applique Vintage 90s Christmas Sweatshirt XL Green Santa](valories-folk-art-applique-vintage-90s-christmas-sweatshirt-xl-green-santa.md) - XL · £30.50
+- [Vintage 90s Womens Christmas Sweatshirt Collared Tartan Heart Bow White UK 12-14](vintage-90s-womens-christmas-sweatshirt-collared-tartan-heart-bow-white-uk-12-14.md) - UK12 · £28.50
+
 ## Tops (28)
 
 - [ASOS womens Metallic Knit Cropped Cami Top Bronze Shimmer Y2K UK10 clubwear glam](asos-womens-metallic-knit-cropped-cami-top-bronze-shimmer-y2k-uk10-clubwear-glam-2.md) - UK10 · £11.50
@@ -202,36 +235,6 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Zara womens Asymmetric Drape Cowl Neck Sleeveless Top Nude UK 8-10 Y2K indie](zara-womens-asymmetric-drape-cowl-neck-sleeveless-top-nude-uk-8-10-y2k-indie-2.md) - UK10 · £15
 - [Zara womens Black Bandeau Corset Tube Top UK 8-10 S Strapless Fitted party glam](zara-womens-black-bandeau-corset-tube-top-uk-8-10-s-strapless-fitted-party-glam-2.md) - UK10 · £13.50
 - [Zuiki womens Y2K Metallic Glitter Fitted Crop tank Top Silver Sparkle UK 6-8](zuiki-womens-y2k-metallic-glitter-fitted-crop-tank-top-silver-sparkle-uk-6-8.md) - UK6 · £13.50
-
-## Sweatshirts (27)
-
-- [Basic Editions Vintage 90s Christmas Bells Sweatshirt Cream Embroidered Xmas](basic-editions-vintage-90s-christmas-bells-sweatshirt-cream-embroidered-xmas.md) - £21.50
-- [Bo+Tee womens red embroidered heart cropped oversized sweatshirt UK 10–12 boxy](botee-womens-red-embroidered-heart-cropped-oversized-sweatshirt-uk-10-12-boxy.md) - UK10 · £15
-- [Calvin Klein & Andy Warhol Portrait Pinup Print Sweatshirt White Pink XS UK 6-8-10 Pop-Art Y2k](calvin-klein-x-andy-warhol-portrait-print-sweatshirt-white-pink-xs-pop-art-y2k.md) - UK6 · £27
-- [Diesel womens reversible sequin logo black sweatshirt UK8–10 shimmer silver star](diesel-womens-reversible-sequin-logo-black-sweatshirt-uk8-10-shimmer-silver-star.md) - UK8 · £33
-- [Disney Stitch Light Up Christmas Blue Sweatshirt UK 8 Merry Stitchmas Navy Fair Isle Crewneck LED](disney-stitch-light-up-christmas-blue-sweatshirt-uk-8-merry-stitchmas-navy-fair-isle-crewneck-led.md) - UK8 · £18
-- [Freeze Light Up Christmas Black Sweatshirt UK 10-12 Black Jingle All The Way Xmas Lights Led](freeze-light-up-christmas-black-sweatshirt-uk-10-12-black-jingle-all-the-way-xmas-lights-led.md) - UK10 · £13.50
-- [Fruit of the Loom Vintage 1998 Jingle Bell Run Crewneck Sweatshirt XL Grey Christmas 90s](fruit-of-the-loom-vintage-1998-jingle-bell-run-crewneck-sweatshirt-xl-grey-christmas-90s.md) - XL · £21.50
-- [Fruit of the Loom Womens 90s Christmas Sweatshirt L Cowboy Snowman Horse Cream](fruit-of-the-loom-womens-90s-christmas-sweatshirt-l-cowboy-snowman-horse-cream.md) - L · £23
-- [Ghostbusters Christmas Jumper S UK 8-10 Black Orange Ugly Sweatshirt Retro 80s Ghost Movie](ghostbusters-christmas-jumper-s-uk-8-10-black-orange-ugly-sweatshirt-retro-80s-ghost-movie.md) - UK8 · £10.50
-- [Gildan Christmas Jumper Sweatshirt Unisex M UK 12-14 Green Reindeer Sunglasses Ugly Xmas Crewneck](gildan-christmas-jumper-sweatshirt-unisex-m-uk-12-14-green-reindeer-sunglasses-ugly-xmas-crewneck.md) - UK12 · £15
-- [Gildan Christmas UK 14-16 Black Moose Fair Isle Ugly Christmas Sweatshirt Unisex Crewneck](gildan-christmas-uk-14-16-black-moose-fair-isle-ugly-christmas-sweatshirt-unisex-crewneck.md) - UK14 · £15
-- [Gildan Touchdown Jesus Clemson Tigers Oversized Christmas Sweatshirt XL Purple Orange Football](gildan-touchdown-jesus-clemson-tigers-oversized-christmas-sweatshirt-xl-purple-orange-football.md) - XL · £19.50
-- [Hasting & Smith Vintage Embroidered Sweatshirt 2X UK 22 Bridge Autumn Grannycore](hasting-smith-vintage-embroidered-sweatshirt-2x-uk-22-bridge-autumn-grannycore.md) - UK22 · £18
-- [Jerzees Womens 90s Collared Sweatshirt UK 10-12 Purple Applique Diva Lady Hat](jerzees-womens-90s-collared-sweatshirt-uk-10-12-purple-applique-diva-lady-hat.md) - UK10 · £25
-- [Lee Heavyweight 90s USPS Christmas Sweatshirt XL Green Santa Candy crewneck](lee-heavyweight-90s-usps-christmas-sweatshirt-xl-green-santa-candy-crewneck.md) - XL · £30.50
-- [M&C Sportswear Vintage Let It Snow Polar Bear Embroidered Sweatshirt UK 12 Xmas](mc-sportswear-vintage-let-it-snow-polar-bear-embroidered-sweatshirt-uk-12-xmas.md) - UK12 · £21.50
-- [Mad Engine Christmas Sweatshirt Red Stay Cool Snowman Graphic Festive Jumper Crew Neck](mad-engine-christmas-sweatshirt-red-stay-cool-snowman-graphic-festive-crew-neck.md) - £9
-- [Morning Sun Vintage 90s Four Seasons Tree Sweatshirt M Navy Green Mock Neck USA](morning-sun-vintage-90s-four-seasons-tree-sweatshirt-m-navy-green-mock-neck-usa.md) - M · £28.50
-- [Northern Reflections Vintage 90s Snowman crewneck Sweatshirt M UK 12 Cream White Christmas](northern-reflections-vintage-90s-snowman-crewneck-sweatshirt-m-uk-12-cream-white-christmas.md) - UK12 · £21.50
-- [Spencer's Ho Ho Hammered Christmas Sweatshirt M Green Glitter Santa Reindeer](spencers-ho-ho-hammered-christmas-sweatshirt-m-green-glitter-santa-reindeer.md) - M · £13.50
-- [Star Wars Christmas Jumper L Grey Darth Vader Stormtrooper Fair Isle Print Sweatshirt Gildan Unisex](star-wars-christmas-jumper-l-grey-darth-vader-stormtrooper-fair-isle-print-sweatshirt-gildan-unisex.md) - L · £19.50
-- [Star Wars Darth Vader Christmas Jumper Sweatshirt M UK 12 Sithmas Red Xmas](star-wars-darth-vader-christmas-jumper-sweatshirt-m-uk-12-sithmas-red-xmas.md) - UK12 · £15
-- [Time and Tru Christmas Crewneck Sweatshirt XL Red Bleached Santa Ho Ho Ho Jumper](time-and-tru-christmas-crewneck-sweatshirt-xl-red-bleached-santa-ho-ho-ho-jumper.md) - XL · £9
-- [Top Stitch 90s Christmas Sweatshirt Cat Santa Glitter Oversized Crewneck Black](top-stitch-90s-christmas-sweatshirt-cat-santa-glitter-oversized-crewneck-black.md) - £21.50
-- [Top Stitch Morning Sun 90s Christmas Sweatshirt Kittens Oversized crewneck black](top-stitch-morning-sun-90s-christmas-sweatshirt-kittens-oversized-crewneck-black.md) - £28.50
-- [Valories Folk Art Applique Vintage 90s Christmas Sweatshirt XL Green Santa](valories-folk-art-applique-vintage-90s-christmas-sweatshirt-xl-green-santa.md) - XL · £30.50
-- [Vintage 90s Womens Christmas Sweatshirt Collared Tartan Heart Bow White UK 12-14](vintage-90s-womens-christmas-sweatshirt-collared-tartan-heart-bow-white-uk-12-14.md) - UK12 · £28.50
 
 ## Jackets (21)
 
@@ -340,6 +343,24 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Womens Abstract Floral Sheer Button Shirt Blouse UK12-14 Cottagecore Boho Pink](womens-abstract-floral-sheer-button-shirt-blouse-uk12-14-cottagecore-boho-pink.md) - UK12 · £15
 - [Womens Botanical Floral Fitted Button Shirt Sleeveless Top Blouse Green UK 12-14](womens-botanical-floral-fitted-button-shirt-sleeveless-top-blouse-green-uk-12-14.md) - UK12 · £18.50
 
+## Trousers (15)
+
+- [Agenda Taupe Leather Trousers High 13”rise W41 L30.5 UK 20-22 Straight Bootcut Plus Size Vintage](agenda-taupe-leather-trousers-high-13rise-w41-l30-5-uk-20-22-straight-bootcut-plus-size-vintage.md) - UK20 · £21.50
+- [Danier Womens 90s High Rise W26L28 Black Genuine Leather Trousers UK 8 Tapered](danier-womens-90s-high-rise-w26l28-black-genuine-leather-trousers-uk-8-tapered.md) - UK8 · £44
+- [Devernois womens pure lambswool houndstooth wide leg trousers W28L35 UK8](devernois-womens-pure-lambswool-houndstooth-wide-leg-trousers-w28l35-uk8.md) - UK8 · £49.50
+- [Frontier Womens High 11.5”Rise Black Leather Trousers UK 6/8 W25 L32.5 Straight](frontier-womens-high-11-5rise-black-leather-trousers-uk-6-8-w25-l32-5-straight.md) - UK6 · £41
+- [Gardeur Pure 100% New Wool Check High Rise 11.5” W29L26 UK8-10 Plaid Tapered Straigh Leg](gardeur-pure-100-new-wool-check-high-rise-11-5-w29l26-uk8-10-plaid-tapered-straigh-leg.md) - UK10 · £31.50
+- [Hobbs Womens Silk Velvet Wide Leg High Rise 12”Trousers W35 L29.5 UK 12-14 Black](hobbs-womens-silk-velvet-wide-leg-high-rise-12trousers-w35-l29-5-uk-12-14-black.md) - UK12 · £30.50
+- [Jordan Womens Faux Leather Cargo Trousers W34 L30.5 UK 14-16 Black Purple Wide](jordan-womens-faux-leather-cargo-trousers-w34-l30-5-uk-14-16-black-purple-wide.md) - UK14 · £42
+- [Miss Sixty Womens Low 9”Rise Cargo Military Trousers W26L31.5 UK 8-10 Khaki Knit](miss-sixty-womens-low-9rise-cargo-military-trousers-w26l31-5-uk-8-10-khaki-knit.md) - UK10 · £67.50
+- [Newport News Womens High Rise Leather Trousers W28L26 Petite UK 10 Green Flare](newport-news-womens-high-rise-leather-trousers-w28l26-petite-uk-10-green-flare.md) - UK10 · £41
+- [Pinko Womens Cargo Low 9”Rise Trousers UK8-10 W29 L34 Tall Beige Wide Leg Barrel](pinko-womens-cargo-low-9rise-trousers-uk8-10-w29-l34-tall-beige-wide-leg-barrel.md) - UK10 · £58.50
+- [Roxy Y2K Low 8.5”Rise Flared Corduroy Khaki Trousers W30 L33.5 Tall UK 10 Rhinestone Embroidered](roxy-y2k-low-8-5rise-flared-corduroy-khaki-trousers-w30-l33-5-tall-uk-10-rhinestone-embroidered.md) - UK10 · £30.50
+- [Savida Blush Pink High Rise 12” Wide Leg Tailored Trousers UK 10 W30 L29 Soft girl Y2K](savida-blush-pink-high-rise-12-wide-leg-tailored-trousers-uk-10-w30-l29-soft-girl-y2k.md) - UK10 · £16
+- [Sutton Studio Womens Gold Leather Trousers W31 L31 UK 14 High 11.5”Rise Straight](sutton-studio-womens-gold-leather-trousers-w31-l31-uk-14-high-11-5rise-straight.md) - UK14 · £41
+- [UGG Womens cashmere wool knit joggers black UK 8–10 shaggy fuzzy loungewear](ugg-womens-cashmere-wool-knit-joggers-black-uk-8-10-shaggy-fuzzy-loungewear.md) - UK8 · £49.50
+- [Vintage AllSaints Pure 100% Virgin Wool Low Rise 8.5” Wide Leg Crinkled Trousers W29 L27.5 UK8-10](allsaints-womens-100wool-low-rise-8-5-wide-leg-crinkled-trousers-w29l27-5-uk10.md) - UK10 · £72
+
 ## Cardigans (14)
 
 - [Anna Pure 100% New Wool Floral Embroidered Fair Isle Button Cardigan UK10-12 Crewneck Knit](anna-pure-100-new-wool-floral-embroidered-fair-isle-button-cardigan-uk10-12-crewneck-knit.md) - UK10 · £40.50
@@ -373,22 +394,6 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Ventiuno Mens Italian Vintage Brown Leather Jacket 3XL Oversized Button Blazer](ventiuno-mens-italian-vintage-brown-leather-jacket-3xl-oversized-button-blazer.md) - XXXL · £40.50
 - [Votre Nom Vintage Wool Button Blazer UK 12-14 Grey Check Leather Collar Tailored Fitted Jacket](votre-nom-womens-grey-prince-of-wales-wool-fitted-button-blazer-uk-10-12.md) - UK10 · £22.50
 
-## Trousers (13)
-
-- [Danier Womens 90s High Rise W26L28 Black Genuine Leather Trousers UK 8 Tapered](danier-womens-90s-high-rise-w26l28-black-genuine-leather-trousers-uk-8-tapered.md) - UK8 · £44
-- [Devernois womens pure lambswool houndstooth wide leg trousers W28L35 UK8](devernois-womens-pure-lambswool-houndstooth-wide-leg-trousers-w28l35-uk8.md) - UK8 · £49.50
-- [Frontier Womens High 11.5”Rise Black Leather Trousers UK 6/8 W25 L32.5 Straight](frontier-womens-high-11-5rise-black-leather-trousers-uk-6-8-w25-l32-5-straight.md) - UK6 · £41
-- [Gardeur Pure 100% New Wool Check High Rise 11.5” W29L26 UK8-10 Plaid Tapered Straigh Leg](gardeur-pure-100-new-wool-check-high-rise-11-5-w29l26-uk8-10-plaid-tapered-straigh-leg.md) - UK10 · £31.50
-- [Hobbs Womens Silk Velvet Wide Leg High Rise 12”Trousers W35 L29.5 UK 12-14 Black](hobbs-womens-silk-velvet-wide-leg-high-rise-12trousers-w35-l29-5-uk-12-14-black.md) - UK12 · £30.50
-- [Jordan Womens Faux Leather Cargo Trousers W34 L30.5 UK 14-16 Black Purple Wide](jordan-womens-faux-leather-cargo-trousers-w34-l30-5-uk-14-16-black-purple-wide.md) - UK14 · £42
-- [Miss Sixty Womens Low 9”Rise Cargo Military Trousers W26L31.5 UK 8-10 Khaki Knit](miss-sixty-womens-low-9rise-cargo-military-trousers-w26l31-5-uk-8-10-khaki-knit.md) - UK10 · £67.50
-- [Newport News Womens High Rise Leather Trousers W28L26 Petite UK 10 Green Flare](newport-news-womens-high-rise-leather-trousers-w28l26-petite-uk-10-green-flare.md) - UK10 · £41
-- [Pinko Womens Cargo Low 9”Rise Trousers UK8-10 W29 L34 Tall Beige Wide Leg Barrel](pinko-womens-cargo-low-9rise-trousers-uk8-10-w29-l34-tall-beige-wide-leg-barrel.md) - UK10 · £58.50
-- [Savida Blush Pink High Rise 12” Wide Leg Tailored Trousers UK 10 W30 L29 Soft girl Y2K](savida-blush-pink-high-rise-12-wide-leg-tailored-trousers-uk-10-w30-l29-soft-girl-y2k.md) - UK10 · £16
-- [Sutton Studio Womens Gold Leather Trousers W31 L31 UK 14 High 11.5”Rise Straight](sutton-studio-womens-gold-leather-trousers-w31-l31-uk-14-high-11-5rise-straight.md) - UK14 · £41
-- [UGG Womens cashmere wool knit joggers black UK 8–10 shaggy fuzzy loungewear](ugg-womens-cashmere-wool-knit-joggers-black-uk-8-10-shaggy-fuzzy-loungewear.md) - UK8 · £49.50
-- [Vintage AllSaints Pure 100% Virgin Wool Low Rise 8.5” Wide Leg Crinkled Trousers W29 L27.5 UK8-10](allsaints-womens-100wool-low-rise-8-5-wide-leg-crinkled-trousers-w29l27-5-uk10.md) - UK10 · £72
-
 ## Accessories (12)
 
 - [Art Print Scarf Floral Still Life Oil Painting Mustard Purple Red Fringed Oversized Shawl Wrap](art-print-scarf-floral-still-life-oil-painting-mustard-purple-red-fringed-oversized-shawl-wrap.md) - £13.50
@@ -404,7 +409,7 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Vintage Wool Blend Fair Isle Bucket Hat Cream Knit Winter Nordic Y2K Unisex](vintage-wool-blend-fair-isle-bucket-hat-cream-knit-winter-nordic-y2k-unisex.md) - £16
 - [Vintage black genuine leather gloves UK 8-10 classic fitted wrist buckle flare slit gloves](vintage-womens-black-genuine-leather-gloves-s-fitted-wrist-buckle-flare-slit.md) - UK10 · £21.50
 
-## Bags (10)
+## Bags (11)
 
 - [Alexander McQueen Flapper Novak Leather Shoulder large Handbag Black Gold 2008](alexander-mcqueen-flapper-novak-leather-shoulder-large-handbag-black-gold-2008.md) - £252
 - [Bolla Vintage Dark Brown Burgundy Leather Saddle Crossbody Messenger Bag Buckle](bolla-vintage-dark-brown-burgundy-leather-saddle-crossbody-messenger-bag-buckle.md) - £22.50
@@ -412,6 +417,7 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Coach Legacy Mini Hamptons Market Tote 9846 tan leather bag Satchel Bag Purse](coach-legacy-mini-hamptons-market-tote-9846-tan-leather-bag-satchel-bag-purse.md) - £72
 - [Coach Madison 17016 Ivory Leather Drawstring Shoulder Hobo Bag Slouchy Logo](coach-madison-17016-ivory-leather-drawstring-shoulder-hobo-bag-slouchy-logo.md) - £121.50
 - [Coach Metro Horse & Carriage Large Tote Bag Beige Crossgrain Leather Shopper](coach-metro-horse-carriage-large-tote-bag-beige-crossgrain-leather-shopper.md) - £67.50
+- [Coach Vintage 2001 Canvas Chunky Buckle Leather Saddle Flap Messenger Crossbody Bag Cream](coach-vintage-2001-canvas-chunky-buckle-leather-saddle-flap-messenger-crossbody-bag-cream.md) - £94.50
 - [Custom Suede leather Utility Belt Festival Pocket Waist Bag Burning Man W27-31 UK8-10 Biker](custom-womens-suede-leather-utility-belt-festival-pocket-waist-bag-adjustable.md) - UK10 · £75
 - [Moyna vintage silver beaded evening clutch bag hand embellished occasion purse](moyna-vintage-silver-beaded-evening-clutch-bag-hand-embellished-occasion-purse.md) - £40.50
 - [Vintage 90s Furla Y2K Brown Pebbled Leather Slouchy Hobo Shoulder Bag O-Ring](vintage-90s-furla-y2k-brown-pebbled-leather-slouchy-hobo-shoulder-bag-o-ring.md) - £130.50

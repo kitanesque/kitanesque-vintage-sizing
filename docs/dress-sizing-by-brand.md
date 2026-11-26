@@ -4,7 +4,7 @@ description: "Dresses by brand: measured bust, waist and length against the labe
 canonical_url: https://kitanesque.co.uk/dress-sizing-by-brand/
 ---
 
-> Text copy of a Kitanesque page, taken on 24 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/dress-sizing-by-brand/](https://kitanesque.co.uk/dress-sizing-by-brand/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 25 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/dress-sizing-by-brand/](https://kitanesque.co.uk/dress-sizing-by-brand/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # Vintage Dress Sizing by Brand: Label vs Tape
 
