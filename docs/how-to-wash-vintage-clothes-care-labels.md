@@ -4,13 +4,13 @@ description: "What the care labels on our vintage pieces actually say."
 canonical_url: https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/
 ---
 
-> Text copy of a Kitanesque page, taken on 25 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/](https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 26 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/](https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # How to Wash Vintage Cashmere, Silk and Wool: What the Care Labels Say
 
 Of the 41 cashmere care labels we have read, 12 say hand wash (10 with no temperature, 2 with one), 13 allow a machine wash, 5 say dry clean only or do not wash. 27 say dry flat and 6 say do not tumble dry. Of the 19 wool care labels we have read, 1 says hand wash (with a temperature), 4 allow a machine wash, 9 say dry clean only or do not wash. 2 say dry flat and 4 say do not tumble dry. Of the 3 silk care labels we have read, 1 says dry clean only or do not wash. 1 says dry flat.
 
-Those are the care labels on our own pieces, read from the label photos: 197 labels so far, 101 of them on pieces in stock, sold pieces included. Nothing below is a rule of ours: the table counts what the labels say, and the right-hand column is the care line we already print on each piece. When they differ, the label on the piece wins. Labels read up to 25 November 2026.
+Those are the care labels on our own pieces, read from the label photos: 197 labels so far, 100 of them on pieces in stock, sold pieces included. Nothing below is a rule of ours: the table counts what the labels say, and the right-hand column is the care line we already print on each piece. When they differ, the label on the piece wins. Labels read up to 25 November 2026.
 
 ## What the labels say, by material
 
@@ -21,7 +21,7 @@ Those are the care labels on our own pieces, read from the label photos: 197 lab
 | Silk | 3 (3 in stock) | do not bleach 3 · do not wash 1 · gentle dry clean 1 · dry flat 1 | Hand wash cold and briefly with a mild detergent, or dry clean. Don’t soak or wring; dry flat in the shade; iron low on the reverse. |
 | Cotton and denim (35 denim) | 60 (36 in stock) | machine wash 25 · do not bleach 21 · wash with similar colours 18 · wash inside out 17 | Wash at 30–40° with similar colours, hang to dry and iron medium. |
 | Linen | 3 (2 in stock) | wash at 30° 2 · wash with similar colours 1 · iron low 1 · dry flat 1 | Wash at 30–40°, hang to dry and iron while still slightly damp. |
-| Viscose and rayon | 12 (5 in stock) | wash with similar colours 4 · dry clean only 3 · wash inside out 3 · iron low 3 | Hand wash cold or a 30° delicate cycle; don’t wring; dry flat or on a hanger. It can shrink in heat. |
+| Viscose and rayon | 12 (4 in stock) | wash with similar colours 4 · dry clean only 3 · wash inside out 3 · iron low 3 | Hand wash cold or a 30° delicate cycle; don’t wring; dry flat or on a hanger. It can shrink in heat. |
 | Synthetics | 25 (13 in stock) | do not bleach 11 · dry flat 7 · wash inside out 7 · wash with similar colours 7 | Wash at 30°, hang to dry and use a cool iron. |
 | Leather, suede and sheepskin | 10 (7 in stock) | dry clean only 3 · specialist leather clean 3 · do not bleach 2 · machine wash 1 | Wipe with a damp cloth, condition now and then and hang on a wide hanger. Specialist leather cleaner only, never the machine. |
 | Other or not stated | 24 (11 in stock) | iron low 9 · machine wash 7 · do not bleach 7 · tumble dry low 5 | as the label says |
@@ -146,7 +146,7 @@ It is the most common line on the labels we have read: 61 of 197. It means no ch
 
 ### Where do these numbers come from?
 
-From the photographs of the labels on our own pieces, in stock and sold: 197 care labels read so far, 101 of them on pieces in stock. Each piece shows its own care line on its listing; this page adds them up and rebuilds itself when a piece is added, sold or re-read. Latest label read on 25 November 2026.
+From the photographs of the labels on our own pieces, in stock and sold: 197 care labels read so far, 100 of them on pieces in stock. Each piece shows its own care line on its listing; this page adds them up and rebuilds itself when a piece is added, sold or re-read. Latest label read on 25 November 2026.
 
 Related: [how we check whether a vintage designer piece is real](https://kitanesque.co.uk/authentication/) · [second-hand cashmere brands and prices](https://kitanesque.co.uk/second-hand-cashmere-brands-prices/) · [cashmere knitwear in stock](https://kitanesque.co.uk/product-category/women/cashmere-knitwear/) · [silk in stock](https://kitanesque.co.uk/product-category/women/silk/).
 

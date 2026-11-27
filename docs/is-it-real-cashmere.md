@@ -4,11 +4,11 @@ description: "How to check cashmere, with the labels from our own stock."
 canonical_url: https://kitanesque.co.uk/is-it-real-cashmere/
 ---
 
-> Text copy of a Kitanesque page, taken on 25 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/is-it-real-cashmere/](https://kitanesque.co.uk/is-it-real-cashmere/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 26 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/is-it-real-cashmere/](https://kitanesque.co.uk/is-it-real-cashmere/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # Is It Real Cashmere? What the Labels and the Fabric Tell You
 
-**Real cashmere starts with the composition tag: it should say 100% cashmere, or give the exact blend, and the knit should agree with it.** Of the 93 cashmere pieces we have handled (39 in stock today), we have read the composition tag on 63: 57 say 100% cashmere and 6 give a blend, most often with wool (3), merino wool (2), silk (1).
+**Real cashmere starts with the composition tag: it should say 100% cashmere, or give the exact blend, and the knit should agree with it.** Of the 93 cashmere pieces we have handled (38 in stock today), we have read the composition tag on 63: 57 say 100% cashmere and 6 give a blend, most often with wool (3), merino wool (2), silk (1).
 
 Updated 24 November 2026 · built from the labels on our own pieces and rebuilt as pieces come and go.
 
@@ -118,7 +118,7 @@ Of the 41 cashmere labels with a country on them: China (23), UK (8), Italy (3),
 
 ### Which cashmere labels have you handled most?
 
-93 pieces so far (39 in stock today), most often John Lewis (6), Marks & Spencer (5), F&F (5), Brora (4), Autograph (4), Pure Collection (4), Repeat (3), H&M (3).
+93 pieces so far (38 in stock today), most often John Lewis (6), Marks & Spencer (5), F&F (5), Brora (4), Autograph (4), Pure Collection (4), Repeat (3), H&M (3).
 
 ### What do cashmere care labels say?
 

@@ -6,9 +6,9 @@ canonical_url: https://kitanesque.co.uk/shop/
 
 # Pieces in stock at Kitanesque
 
-383 one-off pieces in stock. Clothing is measured flat, by hand. Prices in GBP, UK delivery. The shop itself, with photos and checkout, is at [kitanesque.co.uk/shop/](https://kitanesque.co.uk/shop/). Copies taken on 25 November 2026.
+381 one-off pieces in stock. Clothing is measured flat, by hand. Prices in GBP, UK delivery. The shop itself, with photos and checkout, is at [kitanesque.co.uk/shop/](https://kitanesque.co.uk/shop/). Copies taken on 26 November 2026.
 
-## Jeans (93)
+## Jeans (94)
 
 - [9th&Main womens low-mid rise 9” flare jeans petite W27 L28 UK 8-10 dark stitch](9thmain-womens-low-mid-rise-9-flare-jeans-petite-w27-l28-uk-8-10-dark-stitch.md) - UK10 · £19.50
 - [ASOS Womens High Rise 11.5” Wide Leg Flare Black Jeans W26 L28.5 UK 8 Baggy Y2K](asos-womens-high-rise-11-5-wide-leg-flare-black-jeans-w26-l28-5-uk-8-baggy-y2k.md) - UK8 · £19.50
@@ -45,7 +45,6 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Garage Womens Y2K Ultra Low 6.5”Rise Flare Petite Jeans UK 8 W31 L30 Embroidered](garage-womens-y2k-ultra-low-6-5rise-flare-petite-jeans-uk-8-w31-l30-embroidered.md) - UK8 · £34
 - [Glo Flare mid 9.5”rise charcoal jeans W34 L28.5 Petite UK 12-14 embroidered firefly rhinestone](glo-flare-mid-9-5rise-charcoal-jeans-w34-l28-5-petite-uk-12-14-embroidered-firefly-rhinestone.md) - UK12 · £29.50
 - [Hydraulic womens low rise 9” flare jeans UK 14-16 petite W37 L30 Y2K acid blue](hydraulic-womens-low-rise-9-flare-jeans-uk-14-16-petite-w37-l30-y2k-acid-blue.md) - UK14 · £25
-- [Joe’s Jeans Womens low rise 7.5” bootcut flare jeans W27 L30 UK 10 embroidered](joes-jeans-womens-low-rise-7-5-bootcut-flare-jeans-w27-l30-uk-10-embroidered.md) - UK10 · £54
 - [Jordache Womens Mid Rise 9” Bootcut Flare Jeans W32/36 L31.5 UK14-16 Flap Pocket](jordache-womens-mid-rise-9-bootcut-flare-jeans-w32-36-l31-5-uk14-16-flap-pocket.md) - UK14 · £27
 - [Kookai Womens embellished low rise 7.5” flare jeans blue 36/UK 8 W29 L33 Y2K](kookai-womens-embellished-low-rise-7-5-flare-jeans-blue-36-uk-8-w29-l33-y2k.md) - UK8 · £38.50
 - [Kut from the Kloth Womens Y2K Mid 10”Rise Bootcut Jeans W36 L33.5 UK 16-18](kut-from-the-kloth-womens-y2k-mid-10rise-bootcut-jeans-w36-l33-5-uk-16-18.md) - UK16 · £24
@@ -59,8 +58,10 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Maurices womens bootcut low 8.5”rise blue jeans UK12 W32L28.5 Petite embroidered](maurices-womens-bootcut-low-8-5rise-blue-jeans-uk12-w32l28-5-petite-embroidered.md) - UK12 · £21.50
 - [Mavi Womens Y2K Mid 9”Rise Bootcut Jeans W32L30 UK10 Stitched Embroidered Pocket](mavi-womens-y2k-mid-9rise-bootcut-jeans-w32l30-uk10-stitched-embroidered-pocket.md) - UK10 · £25
 - [Miss Me Womens Low 7”Rise Straight Jeans W27 L33.5 UK 8 Y2K Embellished Pocket](miss-me-womens-low-7rise-straight-jeans-w27-l33-5-uk-8-y2k-embellished-pocket.md) - UK8 · £39.50
+- [Miss Me Y2K Low Rise 7” Skinny Jeans W26 L30 UK 6/8 Embroidered Sequin Rhinestone Flap Pocket](miss-me-y2k-low-rise-7-skinny-jeans-w26-l30-uk-6-8-embroidered-sequin-rhinestone-flap-pocket.md) - UK6 · £34
 - [Miss Me Y2K Womens low rise 7”embellished embroidered bootcut jeans W26L32.5 UK8](miss-me-y2k-womens-low-rise-7embellished-embroidered-bootcut-jeans-w26l32-5-uk8.md) - UK8 · £45
 - [Miss Sixty Womens Petite Low Rise 8.5” Off-White Bootcut Jeans W28 L27.5 UK 8](miss-sixty-womens-petite-low-rise-8-5-off-white-bootcut-jeans-w28-l27-5-uk-8.md) - UK8 · £36
+- [Miss Sixty Y2K Extra Low Rise 7” Flare Jeans Petite W26 L29 UK 6/8 Contrast Stitch Stretch Denim](miss-sixty-y2k-extra-low-rise-7-flare-jeans-petite-w26-l29-uk-6-8-contrast-stitch-stretch-denim.md) - UK6 · £34
 - [Miss Sixty Y2K Ultra Low 7”Rise Flared Jeans W30 L32 UK 10 Made in Italy Faded Blue Stretch](miss-sixty-y2k-ultra-low-7rise-flared-jeans-w30-l32-uk-10-made-in-italy-faded-blue-stretch.md) - UK10 · £37.50
 - [Moschino Women Embroidery Sashiko Patch Low Rise 7.5” W29L31 UK 10 Bootcut Jeans](moschino-women-embroidery-sashiko-patch-low-rise-7-5-w29l31-uk-10-bootcut-jeans.md) - UK10 · £145
 - [NCE Nucleo Y2K Mid 10.5”Rise Bootcut Jeans W36 L32 UK 16-18 Embroidered Rhinestone Flare Denim](nce-nucleo-y2k-mid-10-5rise-bootcut-jeans-w36-l32-uk-16-18-embroidered-rhinestone-flare-denim.md) - UK16 · £18
@@ -173,9 +174,8 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Tahari Womens Pure 100% Cashmere Jumper Grey UK 12 Stitch Oversized Sweater](tahari-womens-pure-100-cashmere-jumper-grey-uk-12-stitch-oversized-sweater.md) - UK12 · £43
 - [Tulchan 90s Womens 100% new wool red embroidered chunky boxy knit jumper UK 8-10](tulchan-90s-womens-100-new-wool-red-embroidered-chunky-boxy-knit-jumper-uk-8-10.md) - UK10 · £58.50
 
-## Sweatshirts (29)
+## Sweatshirts (28)
 
-- [Basic Editions Vintage 90s Christmas Bells Sweatshirt Cream Embroidered Xmas](basic-editions-vintage-90s-christmas-bells-sweatshirt-cream-embroidered-xmas.md) - £21.50
 - [Bo+Tee womens red embroidered heart cropped oversized sweatshirt UK 10–12 boxy](botee-womens-red-embroidered-heart-cropped-oversized-sweatshirt-uk-10-12-boxy.md) - UK10 · £15
 - [Calvin Klein & Andy Warhol Portrait Pinup Print Sweatshirt White Pink XS UK 6-8-10 Pop-Art Y2k](calvin-klein-x-andy-warhol-portrait-print-sweatshirt-white-pink-xs-pop-art-y2k.md) - UK6 · £27
 - [Diesel womens reversible sequin logo black sweatshirt UK8–10 shimmer silver star](diesel-womens-reversible-sequin-logo-black-sweatshirt-uk8-10-shimmer-silver-star.md) - UK8 · £33
@@ -205,7 +205,7 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Valories Folk Art Applique Vintage 90s Christmas Sweatshirt XL Green Santa](valories-folk-art-applique-vintage-90s-christmas-sweatshirt-xl-green-santa.md) - XL · £30.50
 - [Vintage 90s Womens Christmas Sweatshirt Collared Tartan Heart Bow White UK 12-14](vintage-90s-womens-christmas-sweatshirt-collared-tartan-heart-bow-white-uk-12-14.md) - UK12 · £28.50
 
-## Tops (28)
+## Tops (27)
 
 - [ASOS womens Metallic Knit Cropped Cami Top Bronze Shimmer Y2K UK10 clubwear glam](asos-womens-metallic-knit-cropped-cami-top-bronze-shimmer-y2k-uk10-clubwear-glam-2.md) - UK10 · £11.50
 - [Bridgerton x Netflix Floral Corset Boned Sweetheart Bodice Bustier Top UK 10 Romantic Garden](bridgerton-x-netflix-floral-corset-boned-sweetheart-bodice-bustier-top-uk-10-romantic-garden.md) - UK10 · £15
@@ -233,7 +233,6 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [White ribbed knit V-neck sleeveless fitted strappy top Y2K minimalist UK 12-14](white-ribbed-knit-v-neck-sleeveless-fitted-strappy-top-y2k-minimalist-uk-12-14.md) - UK12 · £10.50
 - [Y2K womens Off Shoulder Ruched Stretch Fitted Draped Top Blue UK6-8 summer glam](y2k-womens-off-shoulder-ruched-stretch-fitted-draped-top-blue-uk6-8-summer-glam-2.md) - UK6 · £15
 - [Zara womens Asymmetric Drape Cowl Neck Sleeveless Top Nude UK 8-10 Y2K indie](zara-womens-asymmetric-drape-cowl-neck-sleeveless-top-nude-uk-8-10-y2k-indie-2.md) - UK10 · £15
-- [Zara womens Black Bandeau Corset Tube Top UK 8-10 S Strapless Fitted party glam](zara-womens-black-bandeau-corset-tube-top-uk-8-10-s-strapless-fitted-party-glam-2.md) - UK10 · £13.50
 - [Zuiki womens Y2K Metallic Glitter Fitted Crop tank Top Silver Sparkle UK 6-8](zuiki-womens-y2k-metallic-glitter-fitted-crop-tank-top-silver-sparkle-uk-6-8.md) - UK6 · £13.50
 
 ## Jackets (21)
@@ -284,7 +283,7 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Vigoss Womens Low rise 8” micro jeans Embellished Rhinestone Shorts UK10/S W31](vigoss-womens-low-rise-8-micro-jeans-embellished-rhinestone-shorts-uk10-s-w31.md) - UK10 · £36
 - [Womens Linen Waistcoat & Shorts Co-Ord Set Beige UK8-10 holiday safari outfit](womens-linen-waistcoat-shorts-co-ord-set-beige-uk8-10-holiday-safari-outfit.md) - UK10 · £27
 
-## Skirts (20)
+## Skirts (19)
 
 - [Acne Studios Pacific Mix dark navy mini skirt S W26 Panelled Runway Preppy Sculptural party layer](acne-studios-pacific-mix-dark-navy-mini-skirt-s-w26-panelled-runway-preppy-sculptural-party-layer.md) - S · £130.50
 - [Braemar Womens Vintage Dog Print Wool Blend Pleated Mini Skirt Red UK10/S W29](braemar-womens-vintage-dog-print-wool-blend-pleated-mini-skirt-red-uk10-s-w29.md) - UK10 · £18
@@ -298,7 +297,6 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Love Moschino Dark Denim Low Rise Ruffle Mini Fitted Skirt UK 8-10 W28 Y2K Preppy](love-moschino-dark-denim-low-rise-ruffle-mini-fitted-skirt-uk-8-10-w28-y2k-preppy.md) - UK10 · £22.50
 - [Love Moschino Womens Low Rise Black Cargo Mini Fitted Skirt Gold Logo UK8-10 W29](love-moschino-womens-low-rise-black-cargo-mini-fitted-skirt-gold-logo-uk8-10-w29.md) - UK10 · £25
 - [No Boundaries Womens Y2K Denim Low Rise Maxi Bleach Skirt UK16-18 W37 Stitch](no-boundaries-womens-y2k-denim-low-rise-maxi-bleach-skirt-uk16-18-w37-stitch.md) - UK16 · £22.50
-- [Paul Smith Virgin Wool Cashmere Blend A-Line Midi Skirt UK 8-10 W28 Camel Black](paul-smith-virgin-wool-cashmere-blend-a-line-midi-skirt-uk-8-10-w28-camel-black.md) - UK10 · £49.50
 - [Phaze Gothic Lolita Red Satin Black Lace Midi Skirt UK 14 W32 Bow Ruffle Hem](phaze-gothic-lolita-red-satin-black-lace-midi-skirt-uk-14-w32-bow-ruffle-hem.md) - UK14 · £21.50
 - [Point Zero Y2K Embroidered Denim Maxi Skirt UK 10/12 W31 Floral Slit Long Jean](point-zero-y2k-embroidered-denim-maxi-skirt-uk-10-12-w31-floral-slit-long-jean.md) - UK10 · £27
 - [Preppy Schoolgirl Tennis Flare black grey tartan pleated mini skirt UK 8 W26](preppy-schoolgirl-tennis-flare-black-grey-tartan-pleated-mini-skirt-uk-8-w26.md) - UK8 · £13.50
@@ -355,7 +353,7 @@ canonical_url: https://kitanesque.co.uk/shop/
 - [Miss Sixty Womens Low 9”Rise Cargo Military Trousers W26L31.5 UK 8-10 Khaki Knit](miss-sixty-womens-low-9rise-cargo-military-trousers-w26l31-5-uk-8-10-khaki-knit.md) - UK10 · £67.50
 - [Newport News Womens High Rise Leather Trousers W28L26 Petite UK 10 Green Flare](newport-news-womens-high-rise-leather-trousers-w28l26-petite-uk-10-green-flare.md) - UK10 · £41
 - [Pinko Womens Cargo Low 9”Rise Trousers UK8-10 W29 L34 Tall Beige Wide Leg Barrel](pinko-womens-cargo-low-9rise-trousers-uk8-10-w29-l34-tall-beige-wide-leg-barrel.md) - UK10 · £58.50
-- [Roxy Y2K Low 8.5”Rise Flared Corduroy Khaki Trousers W30 L33.5 Tall UK 10 Rhinestone Embroidered](roxy-y2k-low-8-5rise-flared-corduroy-khaki-trousers-w30-l33-5-tall-uk-10-rhinestone-embroidered.md) - UK10 · £30.50
+- [Sahara Vintage Real Leather Trousers Mid 10.5”Rise W31 L28.5 UK 12 Black Straight Leg Y2K Biker](sahara-vintage-real-leather-trousers-mid-10-5rise-w31-l28-5-uk-12-black-straight-leg-y2k-biker.md) - UK12 · £34
 - [Savida Blush Pink High Rise 12” Wide Leg Tailored Trousers UK 10 W30 L29 Soft girl Y2K](savida-blush-pink-high-rise-12-wide-leg-tailored-trousers-uk-10-w30-l29-soft-girl-y2k.md) - UK10 · £16
 - [Sutton Studio Womens Gold Leather Trousers W31 L31 UK 14 High 11.5”Rise Straight](sutton-studio-womens-gold-leather-trousers-w31-l31-uk-14-high-11-5rise-straight.md) - UK14 · £41
 - [UGG Womens cashmere wool knit joggers black UK 8–10 shaggy fuzzy loungewear](ugg-womens-cashmere-wool-knit-joggers-black-uk-8-10-shaggy-fuzzy-loungewear.md) - UK8 · £49.50

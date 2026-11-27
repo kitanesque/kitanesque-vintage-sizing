@@ -4,13 +4,13 @@ description: "Dating vintage clothing from its labels, RN numbers and care symbo
 canonical_url: https://kitanesque.co.uk/date-vintage-clothing-by-label/
 ---
 
-> Text copy of a Kitanesque page, taken on 25 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/date-vintage-clothing-by-label/](https://kitanesque.co.uk/date-vintage-clothing-by-label/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 26 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/date-vintage-clothing-by-label/](https://kitanesque.co.uk/date-vintage-clothing-by-label/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # How to Date Vintage Clothing from Its Label
 
-To date a vintage piece from its label, read four things together: the RN or CA number, which fixes the earliest year the maker could have used that label; the country of manufacture, which rules out years for countries that have since changed name; the care wording or symbols, compulsory in the United States from 1972 and symbols only from 1997; and the fibre names, where trade names such as Crimplene belong to a decade while generic names mostly say which side of the Atlantic the label was written for. On the 751 labels we have photographed and read on our own pieces (383 in stock, the rest sold), 144 carry an RN or CA number, 308 name a country and 197 carry care wording. None of these is a proof on its own; together they narrow a piece to a decade.
+To date a vintage piece from its label, read four things together: the RN or CA number, which fixes the earliest year the maker could have used that label; the country of manufacture, which rules out years for countries that have since changed name; the care wording or symbols, compulsory in the United States from 1972 and symbols only from 1997; and the fibre names, where trade names such as Crimplene belong to a decade while generic names mostly say which side of the Atlantic the label was written for. On the 754 labels we have photographed and read on our own pieces (381 in stock, the rest sold), 144 carry an RN or CA number, 309 name a country and 197 carry care wording. None of these is a proof on its own; together they narrow a piece to a decade.
 
-Everything below is counted from those labels and rebuilds itself as pieces are listed or sold. Where a rule comes from outside our own rail, the reference is linked. Updated 25 November 2026 (newest label reading). Decades on our listings with a read label: Y2K 219 · 90s 77 · 80s 14 · 70s 5.
+Everything below is counted from those labels and rebuilds itself as pieces are listed or sold. Where a rule comes from outside our own rail, the reference is linked. Updated 26 November 2026 (newest label reading). Decades on our listings with a read label: Y2K 222 · 90s 77 · 80s 14 · 70s 5.
 
 ## RN number lookup: RN and CA numbers on the label, and the earliest year they date
 
@@ -51,7 +51,6 @@ On our pieces: 202 numbers (125 RN, 77 CA) on 144 labels, from 149 registrants. 
 | CA 29438 | DOUBLE J. FASHION GROUP INC. | Miss Me | Y2K | CA: registry only |
 | CA 29438 | DOUBLE J. FASHION GROUP INC. | Miss Me | Y2K | CA: registry only |
 | CA 31092 | 3143899 CANADA INC. | Miss Sixty | Y2K | CA: registry only |
-| CA 35037 | Modes SophistoWear Inc. | Joe's Jeans | Y2K | CA: registry only |
 | CA 35682 | BEBE STORES (CANADA ) INC. | Bebe | – | CA: registry only |
 | CA 39123 | Northern Reflections Ltd. | Northern Reflections | 90s | CA: registry only |
 | CA 39815 | Want Agency Inc. | Acne Studios | – | CA: registry only |
@@ -62,6 +61,7 @@ On our pieces: 202 numbers (125 RN, 77 CA) on 144 labels, from 149 registrants. 
 | CA 50584 | Inquattro Fashion Group | Versace | – | CA: registry only |
 | CA 51857 | Spencer Gifts | Spencer's | – | CA: registry only |
 | CA 53201 | Aeropostale Canada Inc. | Aéropostale | Y2K | CA: registry only |
+| CA 56445 | J. Crew Canada Inc | J.Crew | – | CA: registry only |
 
 Showing 40 of 202 numbers; the rest are on the listings themselves, under "Label register".
 
@@ -71,16 +71,16 @@ Showing 40 of 202 numbers; the rest are on the listings themselves, under "Label
 
 A country of manufacture rarely gives a year, but some names stop or start at a known date. "Made in Hong Kong" is typical of the 1960s to the 1980s, and after the [Handover of Hong Kong, 1 July 1997](https://en.wikipedia.org/wiki/Handover_of_Hong_Kong) labels moved towards "China" or "Hong Kong SAR", without the old wording ever vanishing. "Made in the EU" cannot be older than the [Maastricht Treaty in force, 1 November 1993](https://en.wikipedia.org/wiki/Maastricht_Treaty). West Germany ends with [German reunification, 3 October 1990](https://en.wikipedia.org/wiki/German_reunification), Czechoslovakia with its [Dissolution of Czechoslovakia, 31 December 1992](https://en.wikipedia.org/wiki/Dissolution_of_Czechoslovakia), Yugoslavia with the [Breakup of Yugoslavia, from 1991](https://en.wikipedia.org/wiki/Breakup_of_Yugoslavia), the USSR with its [Dissolution of the Soviet Union, 26 December 1991](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union): a label naming any of them is a piece from before that date. Each is a "not after" or "not before", and a reprinted label can lie, so again a guide, not a proof.
 
-The countries on our own labels, 308 pieces that name one:
+The countries on our own labels, 309 pieces that name one:
 
 | Country on the label | Pieces | In stock | What it says about the date |
 | --- | --- | --- | --- |
 | China | 129 | 68 | mass production from the 1980s; little by itself |
-| Italy | 39 | 18 | any decade; read the care tag and fibres |
+| Italy | 40 | 18 | any decade; read the care tag and fibres |
 | UK | 20 | 8 | any decade; read the care tag and fibres |
 | Bangladesh | 16 | 8 | export garment industry from the 1980s |
-| Turkey | 12 | 5 | European brands' near-shore factories, 1990s onwards |
-| USA | 12 | 9 | any decade; read the care tag and fibres |
+| Turkey | 12 | 4 | European brands' near-shore factories, 1990s onwards |
+| USA | 12 | 8 | any decade; read the care tag and fibres |
 | Vietnam | 9 | 6 | export garments mostly from the mid-1990s |
 | India | 8 | 4 | any decade |
 | Mexico | 8 | 3 | any decade |
@@ -117,13 +117,13 @@ What the 197 care labels on our pieces say, counted phrase by phrase:
 
 Trade names are the sharpest clue a label offers. Terylene is ICI's polyester, in bulk production from 1955; [Crimplene (ICI, launched 1959)](https://en.wikipedia.org/wiki/Crimplene) is its textured version, the fabric of the 1960s A-line dress, out of fashion by the mid-1970s; [Lyocell / Tencel (commercial from 1992)](https://en.wikipedia.org/wiki/Lyocell) cannot appear on a label before the 1990s. Generic names date less and place more: EU labels say "viscose", "elastane" and "polyamide" where American labels say "rayon", "spandex" and "nylon". Stretch denim appeared around 1980 and became common in the late 1990s, so "elastane" on a pair of jeans points to the 1980s or later, most often Y2K.
 
-The fibres on the 326 composition labels we have read:
+The fibres on the 327 composition labels we have read:
 
 | Fibre on the label | Labels | Clue |
 | --- | --- | --- |
-| cotton | 160 | any decade |
-| polyester | 103 | 1950s onwards; "Terylene" / "Crimplene" if named |
-| elastane | 80 | EU word for spandex; on denim, mostly late 1990s onwards |
+| cotton | 161 | any decade |
+| polyester | 104 | 1950s onwards; "Terylene" / "Crimplene" if named |
+| elastane | 81 | EU word for spandex; on denim, mostly late 1990s onwards |
 | cashmere | 63 | any decade |
 | viscose | 30 | EU word; "rayon" is the US word for the same fibre |
 | polyamide | 19 | EU word; "nylon" in the US |
@@ -149,7 +149,7 @@ The fibres on the 326 composition labels we have read:
 
 Photographs of the label on pieces that have passed through our hands, with what we read on them. Each card links to the piece.
 
-[Diesel · listed as 90s Made in Italy · RN 93243 (DIESEL U.S.A., INC.) · CA 25594 (Diesel Canada Inc.) · 100% cotton · do not bleach](https://kitanesque.co.uk/product/dieselstylelab-womens-denim-fitted-jacket-uk8-10-light-wash-y2k-00s-vintage/) [Miss Me · listed as Y2K Made in China · RN 112568 (VICTORY 2020, LLC) · CA 29438 (DOUBLE J. FASHION GROUP INC.) · 98% cotton, 2% elastane · machine wash · wash inside out · wash with similar colours](https://kitanesque.co.uk/product/miss-me-y2k-womens-low-rise-7embellished-embroidered-bootcut-jeans-w26l32-5-uk8/) [Aéropostale · listed as Y2K Made in Pakistan · RN 121726 (AEROPOSTALE, INC.) · CA 53201 (Aeropostale Canada Inc.) · 98% cotton, 2% elastane · machine wash · do not bleach · wash inside out](https://kitanesque.co.uk/product/aeropostale-womens-low-rise-6-denim-cuff-shorts-blue-w28-l4-uk-6-8-y2k-stitch/) [Garage · listed as Y2K Made in China · RN 12040 · RN 121340 (GRG USA LLC) · CA 11219 (STYLES DE FRANCE A. KOROLEFF INC.) · RN 121240 (ANA GARRETT)](https://kitanesque.co.uk/product/garage-womens-y2k-ultra-low-6-5rise-flare-petite-jeans-uk-8-w31-l30-embroidered/) [Collection B · listed as Y2K Made in China · RN 94868 (BERNARDO FASHION 1995 INC.) · CA 25974 (MANTEAUX IMAGE) · RN 94800 (WESVIC'S CLOTHING & SHOE BROKERS, INC.) · dry clean only](https://kitanesque.co.uk/product/collection-b-y2k-tan-suede-leather-midi-straight-skirt-uk-16-18-w36-boho-western/) [G-Star RN 104508 (OINK PTY LTD) · CA 41169 (G-Star Canada Inc. / Etoile-G Canada Inc.) · RN 104506 (G-STAR INC.) · 61% wool, 39% acrylic · dry clean only · do not iron](https://kitanesque.co.uk/product/g-star-raw-unisex-long-vest-knit-wool-coatigan-black-m-uk-10-12-zip-cardigan/) [American Eagle · listed as Y2K Made in China · RN 54485 (AMERICAN EAGLE OUTFITTERS, INC.) · CA 03873 (American Eagle Outfitters Canada Corporation) · hand wash · do not iron · dry flat](https://kitanesque.co.uk/product/american-eagle-womens-mid-rise-denim-shorts-studded-micro-hot-pants-w25-y2k-00s/) [Acne Studios Made in China · CA 39815 (Want Agency Inc.) · RN 131738 (WANT AGENCY USA) · 80% polyamide, 20% elastane · do not dry clean · hand wash · do not tumble dry](https://kitanesque.co.uk/product/acne-studios-pacific-mix-dark-navy-mini-skirt-s-w26-panelled-runway-preppy-sculptural-party-layer/) [Dave & Johnny · listed as 90s RN 97495 (DAVE & JOHNNY LTD.) · RN 97095 (EXTREME CLUB, INC.) · 100% polyester · dry clean only · do not iron](https://kitanesque.co.uk/product/davejohnny-90s-black-halter-evening-gown-diamante-velvet-maxi-fitted-dress-uk16/) [Frame Made in China · CA 90232 · RN 139021 (FRAME LA BRANDS, LLC) · CA 19371 (Simms Sigal & Co. Ltd.) · 100% cashmere](https://kitanesque.co.uk/product/frame-100-cashmere-square-neck-crop-top-taupe-brown-uk-8-10-buckle-fitted-mini-bustiere/) [Joe's Jeans · listed as Y2K Made in USA · RN 106214 (JOE'S JEANS, INC.) · CA 35037 (Modes SophistoWear Inc.) · 98% cotton, 2% elastane](https://kitanesque.co.uk/product/joes-jeans-womens-low-rise-7-5-bootcut-flare-jeans-w27-l30-uk-10-embroidered/) [Point Zero · listed as Y2K Made in Hong Kong · RN 65933 (BENIKO INC.) · CA 05262 (Benisti Import-Export Inc) · 98% cotton, 2% elastane](https://kitanesque.co.uk/product/point-zero-y2k-embroidered-denim-maxi-skirt-uk-10-12-w31-floral-slit-long-jean/)
+[Diesel · listed as 90s Made in Italy · RN 93243 (DIESEL U.S.A., INC.) · CA 25594 (Diesel Canada Inc.) · 100% cotton · do not bleach](https://kitanesque.co.uk/product/dieselstylelab-womens-denim-fitted-jacket-uk8-10-light-wash-y2k-00s-vintage/) [Miss Me · listed as Y2K Made in China · RN 112568 (VICTORY 2020, LLC) · CA 29438 (DOUBLE J. FASHION GROUP INC.) · 98% cotton, 2% elastane · machine wash · wash inside out · wash with similar colours](https://kitanesque.co.uk/product/miss-me-y2k-womens-low-rise-7embellished-embroidered-bootcut-jeans-w26l32-5-uk8/) [Aéropostale · listed as Y2K Made in Pakistan · RN 121726 (AEROPOSTALE, INC.) · CA 53201 (Aeropostale Canada Inc.) · 98% cotton, 2% elastane · machine wash · do not bleach · wash inside out](https://kitanesque.co.uk/product/aeropostale-womens-low-rise-6-denim-cuff-shorts-blue-w28-l4-uk-6-8-y2k-stitch/) [Garage · listed as Y2K Made in China · RN 12040 · RN 121340 (GRG USA LLC) · CA 11219 (STYLES DE FRANCE A. KOROLEFF INC.) · RN 121240 (ANA GARRETT)](https://kitanesque.co.uk/product/garage-womens-y2k-ultra-low-6-5rise-flare-petite-jeans-uk-8-w31-l30-embroidered/) [Collection B · listed as Y2K Made in China · RN 94868 (BERNARDO FASHION 1995 INC.) · CA 25974 (MANTEAUX IMAGE) · RN 94800 (WESVIC'S CLOTHING & SHOE BROKERS, INC.) · dry clean only](https://kitanesque.co.uk/product/collection-b-y2k-tan-suede-leather-midi-straight-skirt-uk-16-18-w36-boho-western/) [G-Star RN 104508 (OINK PTY LTD) · CA 41169 (G-Star Canada Inc. / Etoile-G Canada Inc.) · RN 104506 (G-STAR INC.) · 61% wool, 39% acrylic · dry clean only · do not iron](https://kitanesque.co.uk/product/g-star-raw-unisex-long-vest-knit-wool-coatigan-black-m-uk-10-12-zip-cardigan/) [American Eagle · listed as Y2K Made in China · RN 54485 (AMERICAN EAGLE OUTFITTERS, INC.) · CA 03873 (American Eagle Outfitters Canada Corporation) · hand wash · do not iron · dry flat](https://kitanesque.co.uk/product/american-eagle-womens-mid-rise-denim-shorts-studded-micro-hot-pants-w25-y2k-00s/) [Acne Studios Made in China · CA 39815 (Want Agency Inc.) · RN 131738 (WANT AGENCY USA) · 80% polyamide, 20% elastane · do not dry clean · hand wash · do not tumble dry](https://kitanesque.co.uk/product/acne-studios-pacific-mix-dark-navy-mini-skirt-s-w26-panelled-runway-preppy-sculptural-party-layer/) [Dave & Johnny · listed as 90s RN 97495 (DAVE & JOHNNY LTD.) · RN 97095 (EXTREME CLUB, INC.) · 100% polyester · dry clean only · do not iron](https://kitanesque.co.uk/product/davejohnny-90s-black-halter-evening-gown-diamante-velvet-maxi-fitted-dress-uk16/) [Frame Made in China · CA 90232 · RN 139021 (FRAME LA BRANDS, LLC) · CA 19371 (Simms Sigal & Co. Ltd.) · 100% cashmere](https://kitanesque.co.uk/product/frame-100-cashmere-square-neck-crop-top-taupe-brown-uk-8-10-buckle-fitted-mini-bustiere/) [Point Zero · listed as Y2K Made in Hong Kong · RN 65933 (BENIKO INC.) · CA 05262 (Benisti Import-Export Inc) · 98% cotton, 2% elastane](https://kitanesque.co.uk/product/point-zero-y2k-embroidered-denim-maxi-skirt-uk-10-12-w31-floral-slit-long-jean/) [Jordan Made in Vietnam · RN 56323 (NIKE, INC.) · CA 05553 (Nike Canada Corp.) · 100% polyurethane · dry clean only](https://kitanesque.co.uk/product/jordan-womens-faux-leather-cargo-trousers-w34-l30-5-uk-14-16-black-purple-wide/)
 
 ## Questions about dating labels
 
@@ -159,15 +159,15 @@ No. An RN number is a registration the US Federal Trade Commission issues to a c
 
 ### What does "Made in Hong Kong" tell me about the date?
 
-That the piece most likely pre-dates the late 1990s. Hong Kong was a major garment exporter from the 1960s to the 1980s; after the handover of 1 July 1997 labels increasingly read "Made in China" or "Hong Kong SAR", though "Made in Hong Kong" never disappeared, so treat it as a guide, not a proof. 4 of the 308 country labels we have read say Hong Kong.
+That the piece most likely pre-dates the late 1990s. Hong Kong was a major garment exporter from the 1960s to the 1980s; after the handover of 1 July 1997 labels increasingly read "Made in China" or "Hong Kong SAR", though "Made in Hong Kong" never disappeared, so treat it as a guide, not a proof. 4 of the 309 country labels we have read say Hong Kong.
 
 ### Why does my 1970s jacket have no care label?
 
-Because care labels only became compulsory in the United States with the FTC Care Labeling Rule, issued in December 1971 and in force from 1972, and in the UK and Europe they have always been voluntary: fibre content is the legal requirement there, care wording is a courtesy. Leather, fur and suede are outside the US rule as well. On our pieces, 197 of 751 labels carry care wording, and it is the European habit of writing temperatures ("wash at 30°", 22 of ours) that often gives away where a piece was labelled.
+Because care labels only became compulsory in the United States with the FTC Care Labeling Rule, issued in December 1971 and in force from 1972, and in the UK and Europe they have always been voluntary: fibre content is the legal requirement there, care wording is a courtesy. Leather, fur and suede are outside the US rule as well. On our pieces, 197 of 754 labels carry care wording, and it is the European habit of writing temperatures ("wash at 30°", 22 of ours) that often gives away where a piece was labelled.
 
 ### Can I date a piece from the fibre name on the label?
 
-Sometimes. Trade names belong to decades: Terylene is ICI polyester from the mid-1950s and Crimplene, its textured cousin, was launched in 1959 and was out of fashion by the mid-1970s; lyocell (Tencel) only exists on labels from 1992. Generic names tell you where a label was written for rather than when: "viscose", "elastane" and "polyamide" are the EU words, "rayon", "spandex" and "nylon" the American ones. On our labels, elastane appears 80 times, almost all on Y2K stretch denim, viscose 30 times against rayon 8, lyocell 2.
+Sometimes. Trade names belong to decades: Terylene is ICI polyester from the mid-1950s and Crimplene, its textured cousin, was launched in 1959 and was out of fashion by the mid-1970s; lyocell (Tencel) only exists on labels from 1992. Generic names tell you where a label was written for rather than when: "viscose", "elastane" and "polyamide" are the EU words, "rayon", "spandex" and "nylon" the American ones. On our labels, elastane appears 81 times, almost all on Y2K stretch denim, viscose 30 times against rayon 8, lyocell 2.
 
 ### How accurate is the "RN formula" for the year?
 
@@ -177,7 +177,7 @@ Rough. The community method subtracts 13670 (by the collectors' reading, the fir
 
 Every label behind these tables, one line per piece, as a plain CSV file: brand, garment, the decade on the listing, the country on the label, the fibre composition, the care wording, the sizes printed on the label, the RN or CA number with its registrant and whether it matches the brand, how many label photographs the listing carries, in stock or sold, the date it was listed and a link to the listing. No prices and no raw text, only what was read from the label. The file is generated from the live catalogue, so it is as current as the tables above.
 
-[kitanesque-label-data.csv](https://kitanesque.co.uk/kitanesque-label-data.csv) · 532 pieces · Free to use and quote with a link back to Kitanesque (CC BY 4.0).
+[kitanesque-label-data.csv](https://kitanesque.co.uk/kitanesque-label-data.csv) · 535 pieces · Free to use and quote with a link back to Kitanesque (CC BY 4.0).
 
 Dated snapshot of 22 November 2026, citable: [Zenodo (DOI 10.5281/zenodo.24443705)](https://doi.org/10.5281/zenodo.24443705) · [Hugging Face](https://huggingface.co/datasets/kitanesque/kitanesque-vintage-sizing) · [Kaggle](https://www.kaggle.com/datasets/andradalcaran/vintage-clothing-sizing-label-vs-tape) · [GitHub](https://github.com/kitanesque/kitanesque-vintage-sizing). New versions every few months; the file above is always current.
 
