@@ -4,13 +4,13 @@ description: "Dating vintage clothing from its labels, RN numbers and care symbo
 canonical_url: https://kitanesque.co.uk/date-vintage-clothing-by-label/
 ---
 
-> Text copy of a Kitanesque page, taken on 26 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/date-vintage-clothing-by-label/](https://kitanesque.co.uk/date-vintage-clothing-by-label/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 27 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/date-vintage-clothing-by-label/](https://kitanesque.co.uk/date-vintage-clothing-by-label/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # How to Date Vintage Clothing from Its Label
 
-To date a vintage piece from its label, read four things together: the RN or CA number, which fixes the earliest year the maker could have used that label; the country of manufacture, which rules out years for countries that have since changed name; the care wording or symbols, compulsory in the United States from 1972 and symbols only from 1997; and the fibre names, where trade names such as Crimplene belong to a decade while generic names mostly say which side of the Atlantic the label was written for. On the 754 labels we have photographed and read on our own pieces (381 in stock, the rest sold), 144 carry an RN or CA number, 309 name a country and 197 carry care wording. None of these is a proof on its own; together they narrow a piece to a decade.
+To date a vintage piece from its label, read four things together: the RN or CA number, which fixes the earliest year the maker could have used that label; the country of manufacture, which rules out years for countries that have since changed name; the care wording or symbols, compulsory in the United States from 1972 and symbols only from 1997; and the fibre names, where trade names such as Crimplene belong to a decade while generic names mostly say which side of the Atlantic the label was written for. On the 760 labels we have photographed and read on our own pieces (383 in stock, the rest sold), 146 carry an RN or CA number, 311 name a country and 199 carry care wording. None of these is a proof on its own; together they narrow a piece to a decade.
 
-Everything below is counted from those labels and rebuilds itself as pieces are listed or sold. Where a rule comes from outside our own rail, the reference is linked. Updated 26 November 2026 (newest label reading). Decades on our listings with a read label: Y2K 222 · 90s 77 · 80s 14 · 70s 5.
+Everything below is counted from those labels and rebuilds itself as pieces are listed or sold. Where a rule comes from outside our own rail, the reference is linked. Updated 27 November 2026 (newest label reading). Decades on our listings with a read label: Y2K 223 · 90s 77 · 80s 14 · 70s 5.
 
 ## RN number lookup: RN and CA numbers on the label, and the earliest year they date
 
@@ -18,7 +18,7 @@ An **RN** (Registered Identification Number) is issued by the US Federal Trade C
 
 To look a number up yourself, type it into the [FTC RN registry](https://www.ftc.gov/rn-database) (a CA number goes into the [Competition Bureau search](https://ised-isde.canada.ca/app/cb/can/public/srchFrm.html?language=eng&lang=eng); every number in the table below opens its own entry): it returns the company the number is registered to, which is the first thing to compare with the brand on the label. The year is not in the registry; the table below estimates it from the number itself.
 
-On our pieces: 202 numbers (125 RN, 77 CA) on 144 labels, from 149 registrants. In stock first, then sold.
+On our pieces: 206 numbers (127 RN, 79 CA) on 146 labels, from 151 registrants. In stock first, then sold.
 
 | Number | Registered to | On our piece | Listed as | Earliest year (guide) |
 | --- | --- | --- | --- | --- |
@@ -41,6 +41,7 @@ On our pieces: 202 numbers (125 RN, 77 CA) on 144 labels, from 149 registrants. 
 | CA 11219 | STYLES DE FRANCE A. KOROLEFF INC. | Garage | Y2K | CA: registry only |
 | CA 14456 | ZEBRA LEATHER CORPORATION | Claire France | 90s | CA: registry only |
 | CA 17897 | GAP INTERNATIONAL INC. | Gap | – | CA: registry only |
+| CA 18702 | Creations Claire Bell (1989) Inc. | Levi's | – | CA: registry only |
 | CA 19371 | Simms Sigal & Co. Ltd. | Frame | – | CA: registry only |
 | CA 20825 | DARWAY CLOTHING WHOLESALERS INC. | Guess | – | CA: registry only |
 | CA 25181 | Gildan Activewear Inc. | Gildan | – | CA: registry only |
@@ -61,9 +62,8 @@ On our pieces: 202 numbers (125 RN, 77 CA) on 144 labels, from 149 registrants. 
 | CA 50584 | Inquattro Fashion Group | Versace | – | CA: registry only |
 | CA 51857 | Spencer Gifts | Spencer's | – | CA: registry only |
 | CA 53201 | Aeropostale Canada Inc. | Aéropostale | Y2K | CA: registry only |
-| CA 56445 | J. Crew Canada Inc | J.Crew | – | CA: registry only |
 
-Showing 40 of 202 numbers; the rest are on the listings themselves, under "Label register".
+Showing 40 of 206 numbers; the rest are on the listings themselves, under "Label register".
 
 "Not in the registry" means the number on the label returned nothing on the day we looked it up: a typo on the label, a lapsed registration, or a number copied onto a label it never belonged to. It is one of the things we flag on the listing rather than hide.
 
@@ -71,20 +71,20 @@ Showing 40 of 202 numbers; the rest are on the listings themselves, under "Label
 
 A country of manufacture rarely gives a year, but some names stop or start at a known date. "Made in Hong Kong" is typical of the 1960s to the 1980s, and after the [Handover of Hong Kong, 1 July 1997](https://en.wikipedia.org/wiki/Handover_of_Hong_Kong) labels moved towards "China" or "Hong Kong SAR", without the old wording ever vanishing. "Made in the EU" cannot be older than the [Maastricht Treaty in force, 1 November 1993](https://en.wikipedia.org/wiki/Maastricht_Treaty). West Germany ends with [German reunification, 3 October 1990](https://en.wikipedia.org/wiki/German_reunification), Czechoslovakia with its [Dissolution of Czechoslovakia, 31 December 1992](https://en.wikipedia.org/wiki/Dissolution_of_Czechoslovakia), Yugoslavia with the [Breakup of Yugoslavia, from 1991](https://en.wikipedia.org/wiki/Breakup_of_Yugoslavia), the USSR with its [Dissolution of the Soviet Union, 26 December 1991](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union): a label naming any of them is a piece from before that date. Each is a "not after" or "not before", and a reprinted label can lie, so again a guide, not a proof.
 
-The countries on our own labels, 309 pieces that name one:
+The countries on our own labels, 311 pieces that name one:
 
 | Country on the label | Pieces | In stock | What it says about the date |
 | --- | --- | --- | --- |
-| China | 129 | 68 | mass production from the 1980s; little by itself |
-| Italy | 40 | 18 | any decade; read the care tag and fibres |
-| UK | 20 | 8 | any decade; read the care tag and fibres |
+| China | 129 | 66 | mass production from the 1980s; little by itself |
+| Italy | 41 | 19 | any decade; read the care tag and fibres |
+| UK | 21 | 9 | any decade; read the care tag and fibres |
 | Bangladesh | 16 | 8 | export garment industry from the 1980s |
 | Turkey | 12 | 4 | European brands' near-shore factories, 1990s onwards |
 | USA | 12 | 8 | any decade; read the care tag and fibres |
 | Vietnam | 9 | 6 | export garments mostly from the mid-1990s |
 | India | 8 | 4 | any decade |
 | Mexico | 8 | 3 | any decade |
-| Cambodia | 5 | 2 | export garments from the late 1990s |
+| Cambodia | 5 | 1 | export garments from the late 1990s |
 | Tunisia | 5 | 2 | European brands' near-shore factories, 1990s onwards |
 | Romania | 5 | 2 | European brands' near-shore factories, 1990s onwards |
 
@@ -94,19 +94,19 @@ The right-hand column is our reading of trade history, offered as orientation on
 
 In the United States a permanent care label has been compulsory since the [FTC on the Care Labeling Rule (issued December 1971)](https://www.ftc.gov/sites/default/files/documents/cases/1999/03/ftc.gov-hilfiger2.htm) came into force in 1972, so an American-labelled piece with no care wording at all is either earlier than that or outside the rule (leather, suede, fur). The rule asked for words; [FTC: care symbols allowed from July 1997](https://www.ftc.gov/sites/default/files/documents/federal_register_notices/concerning-trade-regulation-rule-care-labeling-textile-wearing-apparel-and-certain-piece-goods/970206carelabelingoftextile.pdf), so a US label with symbols only is 1997 or later. In Europe the symbols are the [GINETEX, the care symbols used in Europe](https://www.ginetex.net/) set, in use since the 1960s, and care wording has always been voluntary: what is compulsory there is the fibre content ([EU Regulation 1007/2011 on textile fibre names](https://eur-lex.europa.eu/eli/reg/2011/1007/oj)). Two habits that help place a label: temperatures written in degrees ("wash at 30°") tend to be European; "do not bleach" and "tumble dry low" spelled out as words tend to be American.
 
-What the 197 care labels on our pieces say, counted phrase by phrase:
+What the 199 care labels on our pieces say, counted phrase by phrase:
 
 | Wording on the label | Labels |
 | --- | --- |
-| do not bleach | 61 |
+| do not bleach | 62 |
 | wash with similar colours | 47 |
+| dry flat | 45 |
+| iron low | 45 |
 | wash inside out | 45 |
-| dry flat | 44 |
-| iron low | 44 |
 | machine wash | 41 |
-| hand wash | 24 |
+| hand wash | 25 |
+| do not tumble dry | 23 |
 | dry clean only | 23 |
-| do not tumble dry | 22 |
 | tumble dry low | 22 |
 | wash at 30° | 22 |
 | do not iron | 12 |
@@ -117,14 +117,14 @@ What the 197 care labels on our pieces say, counted phrase by phrase:
 
 Trade names are the sharpest clue a label offers. Terylene is ICI's polyester, in bulk production from 1955; [Crimplene (ICI, launched 1959)](https://en.wikipedia.org/wiki/Crimplene) is its textured version, the fabric of the 1960s A-line dress, out of fashion by the mid-1970s; [Lyocell / Tencel (commercial from 1992)](https://en.wikipedia.org/wiki/Lyocell) cannot appear on a label before the 1990s. Generic names date less and place more: EU labels say "viscose", "elastane" and "polyamide" where American labels say "rayon", "spandex" and "nylon". Stretch denim appeared around 1980 and became common in the late 1990s, so "elastane" on a pair of jeans points to the 1980s or later, most often Y2K.
 
-The fibres on the 327 composition labels we have read:
+The fibres on the 331 composition labels we have read:
 
 | Fibre on the label | Labels | Clue |
 | --- | --- | --- |
-| cotton | 161 | any decade |
+| cotton | 163 | any decade |
 | polyester | 104 | 1950s onwards; "Terylene" / "Crimplene" if named |
 | elastane | 81 | EU word for spandex; on denim, mostly late 1990s onwards |
-| cashmere | 63 | any decade |
+| cashmere | 65 | any decade |
 | viscose | 30 | EU word; "rayon" is the US word for the same fibre |
 | polyamide | 19 | EU word; "nylon" in the US |
 | silk | 19 | any decade |
@@ -155,15 +155,15 @@ Photographs of the label on pieces that have passed through our hands, with what
 
 ### Does an RN number prove a piece is vintage?
 
-No. An RN number is a registration the US Federal Trade Commission issues to a company once, and the company keeps it for as long as it trades, so the number fixes the earliest year a label could have been made, never the year it was made. [CA 25594](https://ised-isde.canada.ca/app/cb/can/public/srchFrm.html?cano=25594), registered to Diesel Canada Inc., appears on 6 different pieces of ours. On our own labels, 144 pieces carry an RN or CA number (202 numbers from 149 registrants), and the same number turns up on pieces listed as different decades.
+No. An RN number is a registration the US Federal Trade Commission issues to a company once, and the company keeps it for as long as it trades, so the number fixes the earliest year a label could have been made, never the year it was made. [CA 25594](https://ised-isde.canada.ca/app/cb/can/public/srchFrm.html?cano=25594), registered to Diesel Canada Inc., appears on 6 different pieces of ours. On our own labels, 146 pieces carry an RN or CA number (206 numbers from 151 registrants), and the same number turns up on pieces listed as different decades.
 
 ### What does "Made in Hong Kong" tell me about the date?
 
-That the piece most likely pre-dates the late 1990s. Hong Kong was a major garment exporter from the 1960s to the 1980s; after the handover of 1 July 1997 labels increasingly read "Made in China" or "Hong Kong SAR", though "Made in Hong Kong" never disappeared, so treat it as a guide, not a proof. 4 of the 309 country labels we have read say Hong Kong.
+That the piece most likely pre-dates the late 1990s. Hong Kong was a major garment exporter from the 1960s to the 1980s; after the handover of 1 July 1997 labels increasingly read "Made in China" or "Hong Kong SAR", though "Made in Hong Kong" never disappeared, so treat it as a guide, not a proof. 4 of the 311 country labels we have read say Hong Kong.
 
 ### Why does my 1970s jacket have no care label?
 
-Because care labels only became compulsory in the United States with the FTC Care Labeling Rule, issued in December 1971 and in force from 1972, and in the UK and Europe they have always been voluntary: fibre content is the legal requirement there, care wording is a courtesy. Leather, fur and suede are outside the US rule as well. On our pieces, 197 of 754 labels carry care wording, and it is the European habit of writing temperatures ("wash at 30°", 22 of ours) that often gives away where a piece was labelled.
+Because care labels only became compulsory in the United States with the FTC Care Labeling Rule, issued in December 1971 and in force from 1972, and in the UK and Europe they have always been voluntary: fibre content is the legal requirement there, care wording is a courtesy. Leather, fur and suede are outside the US rule as well. On our pieces, 199 of 760 labels carry care wording, and it is the European habit of writing temperatures ("wash at 30°", 22 of ours) that often gives away where a piece was labelled.
 
 ### Can I date a piece from the fibre name on the label?
 
@@ -177,7 +177,7 @@ Rough. The community method subtracts 13670 (by the collectors' reading, the fir
 
 Every label behind these tables, one line per piece, as a plain CSV file: brand, garment, the decade on the listing, the country on the label, the fibre composition, the care wording, the sizes printed on the label, the RN or CA number with its registrant and whether it matches the brand, how many label photographs the listing carries, in stock or sold, the date it was listed and a link to the listing. No prices and no raw text, only what was read from the label. The file is generated from the live catalogue, so it is as current as the tables above.
 
-[kitanesque-label-data.csv](https://kitanesque.co.uk/kitanesque-label-data.csv) · 535 pieces · Free to use and quote with a link back to Kitanesque (CC BY 4.0).
+[kitanesque-label-data.csv](https://kitanesque.co.uk/kitanesque-label-data.csv) · 540 pieces · Free to use and quote with a link back to Kitanesque (CC BY 4.0).
 
 Dated snapshot of 22 November 2026, citable: [Zenodo (DOI 10.5281/zenodo.24443705)](https://doi.org/10.5281/zenodo.24443705) · [Hugging Face](https://huggingface.co/datasets/kitanesque/kitanesque-vintage-sizing) · [Kaggle](https://www.kaggle.com/datasets/andradalcaran/vintage-clothing-sizing-label-vs-tape) · [GitHub](https://github.com/kitanesque/kitanesque-vintage-sizing). New versions every few months; the file above is always current.
 

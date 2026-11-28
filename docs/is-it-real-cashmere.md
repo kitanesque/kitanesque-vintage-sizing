@@ -4,25 +4,25 @@ description: "How to check cashmere, with the labels from our own stock."
 canonical_url: https://kitanesque.co.uk/is-it-real-cashmere/
 ---
 
-> Text copy of a Kitanesque page, taken on 26 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/is-it-real-cashmere/](https://kitanesque.co.uk/is-it-real-cashmere/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
+> Text copy of a Kitanesque page, taken on 27 November 2026. The live page, with photos and the current figures, is at **[kitanesque.co.uk/is-it-real-cashmere/](https://kitanesque.co.uk/is-it-real-cashmere/)**. Kitanesque is a UK vintage clothing shop; every piece is measured flat by hand.
 
 # Is It Real Cashmere? What the Labels and the Fabric Tell You
 
-**Real cashmere starts with the composition tag: it should say 100% cashmere, or give the exact blend, and the knit should agree with it.** Of the 93 cashmere pieces we have handled (38 in stock today), we have read the composition tag on 63: 57 say 100% cashmere and 6 give a blend, most often with wool (3), merino wool (2), silk (1).
+**Real cashmere starts with the composition tag: it should say 100% cashmere, or give the exact blend, and the knit should agree with it.** Of the 96 cashmere pieces we have handled (38 in stock today), we have read the composition tag on 65: 59 say 100% cashmere and 6 give a blend, most often with wool (3), merino wool (2), silk (1).
 
-Updated 24 November 2026 · built from the labels on our own pieces and rebuilt as pieces come and go.
+Updated 27 November 2026 · built from the labels on our own pieces and rebuilt as pieces come and go.
 
 ## What the label should say
 
 The composition tag should read “100% cashmere”, or the exact blend (for example “70% cashmere, 30% silk”). That is what we go by, and it is how the piece is described on its product page: the material in the title is the material on the tag, or “faux” when the tag lists a synthetic.
 
-On the 63 cashmere tags we have read, the cashmere percentage was 100% (57), 70% (1), 65% (1), 20% (1), 10% (2), 5% (1). The blends were mostly with wool (3), merino wool (2), silk (1), viscose (1), polyamide (1).
+On the 65 cashmere tags we have read, the cashmere percentage was 100% (59), 70% (1), 65% (1), 20% (1), 10% (2), 5% (1). The blends were mostly with wool (3), merino wool (2), silk (1), viscose (1), polyamide (1).
 
-**Country on the label** (41 labels with one): China (23), UK (8), Italy (3), Cambodia (3), Madagascar (1), Bangladesh (1). The country is one detail among several, not proof.
+**Country on the label** (42 labels with one): China (23), UK (9), Italy (3), Cambodia (3), Madagascar (1), Bangladesh (1). The country is one detail among several, not proof.
 
-**Labels we have handled most:** John Lewis (6), Marks & Spencer (5), F&F (5), Brora (4), Autograph (4), Pure Collection (4), Repeat (3), H&M (3).
+**Labels we have handled most:** John Lewis (6), Marks & Spencer (5), F&F (5), Brora (4), Pure Collection (4), Autograph (4), Repeat (3), H&M (3).
 
-**What the care labels say** (46 labels with care instructions): dry flat (28), wash inside out (14), hand wash (11), wash at 30° (11), do not bleach (10), wash with similar colours (9). Every care label we have read, by material: [how to wash vintage clothes, what the labels say](https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/).
+**What the care labels say** (48 labels with care instructions): dry flat (29), wash inside out (14), hand wash (12), do not bleach (11), wash at 30° (11), wash with similar colours (9). Every care label we have read, by material: [how to wash vintage clothes, what the labels say](https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/).
 
 ## What to check on the piece
 
@@ -79,11 +79,11 @@ Composition tag: 100% cashmere · made in China.
 
 [See this piece →](https://kitanesque.co.uk/product/frame-100-cashmere-square-neck-crop-top-taupe-brown-uk-8-10-buckle-fitted-mini-bustiere/)
 
-### Brora
+### Whistles
 
-Composition tag: 90% merino wool, 10% cashmere · made in China.
+Composition tag: 100% cashmere · care: hand wash, do not tumble dry, do not bleach.
 
-[See this piece →](https://kitanesque.co.uk/product/brora-merino-cashmere-knitted-polo-dress-uk8-10-navy-fit-flare-midi-long-sleeve-collared/)
+[See this piece →](https://kitanesque.co.uk/product/whistles-100-cashmere-funnel-neck-jumper-l-uk-14-16-ivory-oversized-split-cuff-knit-luxury-sweater/)
 
 ## In stock now
 
@@ -93,12 +93,12 @@ Composition tag: 90% merino wool, 10% cashmere · made in China.
 - [Poetry Womens 100% cashmere grey taupe oversized jumper open b…](https://kitanesque.co.uk/product/poetry-womens-100-cashmere-grey-taupe-oversized-jumper-open-back-uk-14-16/) · UK 14 · £112.5 · 100% cashmere
 - [Repeat Womens 100% Cashmere grey longline fitted button cardig…](https://kitanesque.co.uk/product/repeat-womens-100-cashmere-grey-longline-fitted-button-cardigan-uk-8-10-v-neck/) · UK 10 · £112.5 · 100% cashmere
 - [Jumper 1234 Womens 100% Cashmere Cardigan UK 8 Green Custom Fl…](https://kitanesque.co.uk/product/jumper-1234-womens-100-cashmere-cardigan-uk-8-green-custom-flower-stitch-boho/) · UK 8 · £90 · 100% cashmere
-- [Cocoa Cashmere Womens navy white star 100% cashmere crewneck j…](https://kitanesque.co.uk/product/cocoa-cashmere-womens-navy-white-star-100-cashmere-crewneck-jumper-uk-8-10/) · UK 10 · £76.5 · 100% cashmere
+- [Cocoa Cashmere Womens navy white star 100% cashmere crewneck j…](https://kitanesque.co.uk/product/cocoa-cashmere-womens-navy-white-star-100-cashmere-crewneck-jumper-uk-8-10/) · UK 8 · £76.5 · 100% cashmere
 - [Versus Versace’11 black cashmere wool velvet ribbed fitted min…](https://kitanesque.co.uk/product/versus-versace11-black-cashmere-wool-velvet-ribbed-fitted-mini-dress-uk-8-10/) · UK 10 · £67.5 · 100% silk
 - [Absolut 100% Cashmere Womens blush pink embroidered rainbow fi…](https://kitanesque.co.uk/product/absolut-100-cashmere-womens-blush-pink-embroidered-rainbow-fitted-jumper-uk-6-8/) · UK 4 · £67.5 · 100% cashmere
 - [Frame 100% Cashmere Square Neck Crop Top Taupe Brown UK 8-10 B…](https://kitanesque.co.uk/product/frame-100-cashmere-square-neck-crop-top-taupe-brown-uk-8-10-buckle-fitted-mini-bustiere/) · UK 10 · £63 · 100% cashmere
 - [Duffy Womens Blue Grey 100% cashmere deep V-neck oversized lon…](https://kitanesque.co.uk/product/duffy-womens-blue-grey-100-cashmere-deep-v-neck-oversized-longline-jumper-uk12/) · UK 12 · £63
-- [Brora Merino Cashmere Knitted Polo Dress UK8-10 Navy Fit & Fla…](https://kitanesque.co.uk/product/brora-merino-cashmere-knitted-polo-dress-uk8-10-navy-fit-flare-midi-long-sleeve-collared/) · UK 10 · £58.5 · 90% merino wool, 10% cashmere
+- [Whistles 100% Cashmere Funnel Neck Jumper L UK 14-16 Ivory Ove…](https://kitanesque.co.uk/product/whistles-100-cashmere-funnel-neck-jumper-l-uk-14-16-ivory-oversized-split-cuff-knit-luxury-sweater/) · L · £58.5 · 100% cashmere
 
 [All cashmere knitwear in stock →](https://kitanesque.co.uk/product-category/women/cashmere-knitwear/)
 
@@ -106,22 +106,22 @@ Composition tag: 90% merino wool, 10% cashmere · made in China.
 
 ### What does the label say on real cashmere?
 
-It gives the composition as a percentage. Of the 63 cashmere pieces whose composition tag we have read, 57 say 100% cashmere and 6 give an exact blend (wool (3), merino wool (2), silk (1), viscose (1)). A tag that only says “cashmere feel” or “cashmere touch”, or gives no percentage at all, is not a composition.
+It gives the composition as a percentage. Of the 65 cashmere pieces whose composition tag we have read, 59 say 100% cashmere and 6 give an exact blend (wool (3), merino wool (2), silk (1), viscose (1)). A tag that only says “cashmere feel” or “cashmere touch”, or gives no percentage at all, is not a composition.
 
 ### Is a cashmere blend real cashmere?
 
-Yes, when the tag gives the percentages: 70% cashmere and 30% silk is real cashmere, but it is not 100%, and we describe it as a blend. 6 of the 93 cashmere pieces we have handled are blends, most often with wool or silk.
+Yes, when the tag gives the percentages: 70% cashmere and 30% silk is real cashmere, but it is not 100%, and we describe it as a blend. 6 of the 96 cashmere pieces we have handled are blends, most often with wool or silk.
 
 ### Where was most of the cashmere you handled made?
 
-Of the 41 cashmere labels with a country on them: China (23), UK (8), Italy (3), Cambodia (3), Madagascar (1). The country on its own proves nothing; it is one detail that has to agree with the label, the tag and the knit.
+Of the 42 cashmere labels with a country on them: China (23), UK (9), Italy (3), Cambodia (3), Madagascar (1). The country on its own proves nothing; it is one detail that has to agree with the label, the tag and the knit.
 
 ### Which cashmere labels have you handled most?
 
-93 pieces so far (38 in stock today), most often John Lewis (6), Marks & Spencer (5), F&F (5), Brora (4), Autograph (4), Pure Collection (4), Repeat (3), H&M (3).
+96 pieces so far (38 in stock today), most often John Lewis (6), Marks & Spencer (5), F&F (5), Brora (4), Pure Collection (4), Autograph (4), Repeat (3), H&M (3).
 
 ### What do cashmere care labels say?
 
-On the 46 cashmere labels with care instructions we have read, the commonest are dry flat (28), wash inside out (14), hand wash (11), wash at 30° (11), do not bleach (10). What every care label we have read says, by material, is on our care-label page.
+On the 48 cashmere labels with care instructions we have read, the commonest are dry flat (29), wash inside out (14), hand wash (12), do not bleach (11), wash at 30° (11). What every care label we have read says, by material, is on our care-label page.
 
 **Related:** [How we check every piece](https://kitanesque.co.uk/authentication/) · [Cashmere knitwear](https://kitanesque.co.uk/product-category/women/cashmere-knitwear/) · [What the care labels say](https://kitanesque.co.uk/how-to-wash-vintage-clothes-care-labels/) · [Second-hand cashmere brands and prices](https://kitanesque.co.uk/second-hand-cashmere-brands-prices/) · [Knitwear sizing by brand](https://kitanesque.co.uk/knitwear-sizing-by-brand/)
